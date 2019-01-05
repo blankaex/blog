@@ -62,8 +62,8 @@ Also, here’s a few pictures of the stuff I got.
     {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_222533.jpg
     {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_220800.jpg
     {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_222452.jpg
-    {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_223034.jpg
-    {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150920_220423.jpg
     {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_222223.jpg
+    {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150920_220423.jpg
+    {{ site.url }}/assets/res/2015-09-20-party-a-go-go/img_20150919_223034.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
