@@ -8,9 +8,10 @@ tag:
 - anime
 ---
 
-PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with GJM to release the series too, so check it out if you're interested. It's got cute socks.
+PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/interview/123291/?body_dsp=1), the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with GJM to release the series too, so check it out if you're interested. It's got cute socks.
 
-<iframe width="auto" height="auto" src="2019-01-05-manaria-interview/_m4CUfKvFZghnYzo.mp4" frameborder="0"> </iframe>
+<blockquote class="twitter-tweet tw-align-center" data-lang="ja"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/manariafriends?src=hash&amp;ref_src=twsrc%5Etfw">#manariafriends</a> <a href="https://t.co/XypRAZBbSj">pic.twitter.com/XypRAZBbSj</a></p>&mdash; LightArrowsEXE (@LightArrowsEXE) <a href="https://twitter.com/LightArrowsEXE/status/1076992609053274118?ref_src=twsrc%5Etfw">2018年12月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
 
@@ -18,7 +19,10 @@ PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Frie
 
 The anime series Manaria Friends by CygamesPictures is set to start on the 20th of January!
 
-![](2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg)
+{% capture images %}
+    /assets/res/2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg
+{% endcapture %}
+{% include gallery images=images %}
 
 Anne and Grea are two immensely popular characters that first appeared in Cygames' mobile game, Rage of Bahamut. This series depicts their everyday lives in Manaria Magical Academy.
 
@@ -36,22 +40,31 @@ Anne is the princess of the Manaria Kingdom. She's diplomatic, lively and natura
 
 In spite of this, the two feel that there is still some distance between themselves and the other students due to their birth and status. Our story begins with this nagging feeling of loneliness.
 
-bdacbbade06d325bd684be7d7295c7a4
-a59b3bbba01e78d434a9151c59c2fe60
+{% capture images %}
+    /assets/res/2019-01-05-manaria-interview/bdacbbade06d325bd684be7d7295c7a4.jpg
+    /assets/res/2019-01-05-manaria-interview/a59b3bbba01e78d434a9151c59c2fe60.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
 
 **Could you tell us about some of the male characters as well? There's Owen (Hatano Wataru) and William (Uchida Yuuma), right?**
 
 Owen is a knight dispatched to guard Princess Anne. William is a student that has a crush on Hanna. At least, that's the setting—you'll have to watch the series to see how they're introduced!
 
-69fc89f8c1b6e8c8d03111075a89b917
-5928ec9046360418823d95534e906651
+{% capture images %}
+    /assets/res/2019-01-05-manaria-interview/69fc89f8c1b6e8c8d03111075a89b917.jpg
+    /assets/res/2019-01-05-manaria-interview/5928ec9046360418823d95534e906651.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
 
 **Is there anything in particular we should look out for? Something you worked particularly hard on?**
 
 We've tried our hardest to depict how Anne and Grea's releationship deepens over time, and how charming that can be. I hope you enjoy watching over them as this happens. It should be quite peaceful and relaxing.
 
-c1ae39b3d6e3e3d14388804c8861b0c0
-a714c3e62f4f0cd30b6cf204afee0795
+{% capture images %}
+    /assets/res/2019-01-05-manaria-interview/c1ae39b3d6e3e3d14388804c8861b0c0.jpg
+    /assets/res/2019-01-05-manaria-interview/a714c3e62f4f0cd30b6cf204afee0795.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
 
 **How are things at the recording studio?**
 
