@@ -8,7 +8,7 @@ tag:
 - anime
 ---
 
-PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/interview/123291/?body_dsp=1), the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with GJM to release the series too, so check it out if you're interested. It's got cute socks.
+PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/interview/123291/?body_dsp=1), the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with some cool dudes from GJM to release the series too, so check it out if you're interested. It's got cute socks.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="ja"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/manariafriends?src=hash&amp;ref_src=twsrc%5Etfw">#manariafriends</a> <a href="https://t.co/XypRAZBbSj">pic.twitter.com/XypRAZBbSj</a></p>&mdash; LightArrowsEXE (@LightArrowsEXE) <a href="https://twitter.com/LightArrowsEXE/status/1076992609053274118?ref_src=twsrc%5Etfw">2018年12月24日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -44,7 +44,7 @@ In spite of this, the two feel that there is still some distance between themsel
     /assets/res/2019-01-05-manaria-interview/bdacbbade06d325bd684be7d7295c7a4.jpg
     /assets/res/2019-01-05-manaria-interview/a59b3bbba01e78d434a9151c59c2fe60.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 %}
+{% include gallery images=images %}
 
 **Could you tell us about some of the male characters as well? There's Owen (Hatano Wataru) and William (Uchida Yuuma), right?**
 
@@ -81,3 +81,9 @@ Although it is their first full series, I don't think things are very different 
 We're trying our best to produce a work that can truly depict the charms of the characters and how their feelings draw closer together. I hope you enjoy a relaxing time together with Anne and Grea, despite all of the intense ups and downs on our end.
 
 Also, the magical academy has yet to be portrayed in any other Cygames work. I hope you also enjoy our take on this, whether you're a die-hard fan of the Manaria friends, or a complete newcomer into their world.
+
+{% capture images %}
+    /assets/res/2019-01-05-manaria-interview/ecf0c6daf1d60fd74228d3c324829dc2.jpg
+    /assets/res/2019-01-05-manaria-interview/10b50d96416d1729ec39808f5e01d176.jpg
+{% endcapture %}
+{% include gallery images=images %}
