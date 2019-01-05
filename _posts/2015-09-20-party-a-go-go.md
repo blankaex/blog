@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA First Live Concert in JAPAN -PARTY A GO-GO-"
-date: 2012-05-22
+date: 2015-09-20
 excerpt: "I was able to go to PARTY A GO-GO last night."
 tag:
 - IA
