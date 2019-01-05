@@ -10,7 +10,7 @@ tag:
 
 PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with GJM to release the series too, so check it out if you're interested. It's got cute socks.
 
-<iframe width="auto" height="auto" src="/2019-01-05-manaria-interview/_m4CUfKvFZghnYzo.mp4" frameborder="0"> </iframe>
+<iframe width="auto" height="auto" src="2019-01-05-manaria-interview/_m4CUfKvFZghnYzo.mp4" frameborder="0"> </iframe>
 
 ***
 
