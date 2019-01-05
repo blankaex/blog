@@ -41,8 +41,8 @@ Anne is the princess of the Manaria Kingdom. She's diplomatic, lively and natura
 In spite of this, the two feel that there is still some distance between themselves and the other students due to their birth and status. Our story begins with this nagging feeling of loneliness.
 
 {% capture images %}
-    /assets/res/2019-01-05-manaria-interview/bdacbbade06d325bd684be7d7295c7a4.jpg
-    /assets/res/2019-01-05-manaria-interview/a59b3bbba01e78d434a9151c59c2fe60.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/bdacbbade06d325bd684be7d7295c7a4.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/a59b3bbba01e78d434a9151c59c2fe60.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
@@ -51,8 +51,8 @@ In spite of this, the two feel that there is still some distance between themsel
 Owen is a knight dispatched to guard Princess Anne. William is a student that has a crush on Hanna. At least, that's the setting—you'll have to watch the series to see how they're introduced!
 
 {% capture images %}
-    /assets/res/2019-01-05-manaria-interview/69fc89f8c1b6e8c8d03111075a89b917.jpg
-    /assets/res/2019-01-05-manaria-interview/5928ec9046360418823d95534e906651.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/69fc89f8c1b6e8c8d03111075a89b917.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/5928ec9046360418823d95534e906651.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
@@ -61,8 +61,8 @@ Owen is a knight dispatched to guard Princess Anne. William is a student that ha
 We've tried our hardest to depict how Anne and Grea's releationship deepens over time, and how charming that can be. I hope you enjoy watching over them as this happens. It should be quite peaceful and relaxing.
 
 {% capture images %}
-    /assets/res/2019-01-05-manaria-interview/c1ae39b3d6e3e3d14388804c8861b0c0.jpg
-    /assets/res/2019-01-05-manaria-interview/a714c3e62f4f0cd30b6cf204afee0795.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/c1ae39b3d6e3e3d14388804c8861b0c0.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/a714c3e62f4f0cd30b6cf204afee0795.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
@@ -83,7 +83,7 @@ We're trying our best to produce a work that can truly depict the charms of the 
 Also, the magical academy has yet to be portrayed in any other Cygames work. I hope you also enjoy our take on this, whether you're a die-hard fan of the Manaria friends, or a complete newcomer into their world.
 
 {% capture images %}
-    /assets/res/2019-01-05-manaria-interview/ecf0c6daf1d60fd74228d3c324829dc2.jpg
-    /assets/res/2019-01-05-manaria-interview/10b50d96416d1729ec39808f5e01d176.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/ecf0c6daf1d60fd74228d3c324829dc2.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/10b50d96416d1729ec39808f5e01d176.jpg
 {% endcapture %}
 {% include gallery images=images %}
