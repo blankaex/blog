@@ -39,31 +39,31 @@ In spite of this, the two feel that there is still some distance between themsel
 bdacbbade06d325bd684be7d7295c7a4
 a59b3bbba01e78d434a9151c59c2fe60
 
-Could you tell us about some of the male characters as well? There's Owen (Hatano Wataru) and William (Uchida Yuuma), right?
+**Could you tell us about some of the male characters as well? There's Owen (Hatano Wataru) and William (Uchida Yuuma), right?**
 
 Owen is a knight dispatched to guard Princess Anne. William is a student that has a crush on Hanna. At least, that's the setting—you'll have to watch the series to see how they're introduced!
 
 69fc89f8c1b6e8c8d03111075a89b917
 5928ec9046360418823d95534e906651
 
-Is there anything in particular we should look out for? Something you worked particularly hard on?
+**Is there anything in particular we should look out for? Something you worked particularly hard on?**
 
 We've tried our hardest to depict how Anne and Grea's releationship deepens over time, and how charming that can be. I hope you enjoy watching over them as this happens. It should be quite peaceful and relaxing.
 
 c1ae39b3d6e3e3d14388804c8861b0c0
 a714c3e62f4f0cd30b6cf204afee0795
 
-How are things at the recording studio?
+**How are things at the recording studio?**
 
 I haven't had to ask for much in particular, since all of the characters already exist in a number of games. I explained what the series is going to be about, and described particular feelings I want to convey; that's about it.
 
 All of the voice actors have known their characters longer than I have, so I'm quite happy to leave them to their own devices.
 
-What about in the studio? This is CygamesPictures' first full series, after all.
+**What about in the studio? This is CygamesPictures' first full series, after all.**
 
 Although it is their first full series, I don't think things are very different to any other studio. All of the staff are working their hardest, through to the end, to make sure the show is just that much better.
 
-To wrap things up, do you want to say a few words to our readers? More things to keep an eye out for are fine.
+**To wrap things up, do you want to say a few words to our readers? More things to keep an eye out for are fine.**
 
 We're trying our best to produce a work that can truly depict the charms of the characters and how their feelings draw closer together. I hope you enjoy a relaxing time together with Anne and Grea, despite all of the intense ups and downs on our end.
 
