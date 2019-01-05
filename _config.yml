@@ -26,8 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-comments:           false
-disqus_shortname:   blankaex
+disqus_shortname:
 
 # Social
 # if you don't have any of social below, comment the line.
