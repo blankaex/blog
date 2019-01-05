@@ -18,7 +18,7 @@ PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Frie
 
 The anime series Manaria Friends by CygamesPictures is set to start on the 20th of January!
 
-![](/2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg)
+![](2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg)
 
 Anne and Grea are two immensely popular characters that first appeared in Cygames' mobile game, Rage of Bahamut. This series depicts their everyday lives in Manaria Magical Academy.
 
