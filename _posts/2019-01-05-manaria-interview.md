@@ -15,7 +15,7 @@ PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/inte
 
 ***
 
-## An Interview with Okamoto Hideki, the Director of Manaria Friends - The Story of Anne and Grea's Daily Life
+# An Interview with Okamoto Hideki, the Director of Manaria Friends - The Story of Anne and Grea's Daily Life
 
 The anime series Manaria Friends by CygamesPictures is set to start on the 20th of January!
 
@@ -28,7 +28,7 @@ Anne and Grea are two immensely popular characters that first appeared in Cygame
 
 What kind of tale awaits with the cheerful princess of the Manaria Kingdom, Anne, and the bashful princess of the Dragons, Grea, in the spotlight? To answer this question, and a handful of others, we charged ahead of the broadcast schedule and paid a visit to the director, Okamoto Hideki!
 
-### A Story About Anne and Grea	
+## A Story About Anne and Grea	
 
 **We've heard Manaria Friends is going to tell an original story. What kind of narrative can we expect?**
 
