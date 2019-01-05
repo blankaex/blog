@@ -10,11 +10,11 @@ tag:
 
 PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with GJM to release the series too, so check it out if you're interested. It's got cute socks.
 
-<iframe width="560" height="315" src="/2019-01-05-manaria-interview/_m4CUfKvFZghnYzo.mp4" frameborder="0"> </iframe>
+<iframe width="auto" height="auto" src="/2019-01-05-manaria-interview/_m4CUfKvFZghnYzo.mp4" frameborder="0"> </iframe>
 
 ***
 
-An Interview with Okamoto Hideki, the Director of Manaria Friends - The Story of Anne and Grea's Daily Life
+## An Interview with Okamoto Hideki, the Director of Manaria Friends - The Story of Anne and Grea's Daily Life
 
 The anime series Manaria Friends by CygamesPictures is set to start on the 20th of January!
 
@@ -24,13 +24,13 @@ Anne and Grea are two immensely popular characters that first appeared in Cygame
 
 What kind of tale awaits with the cheerful princess of the Manaria Kingdom, Anne, and the bashful princess of the Dragons, Grea, in the spotlight? To answer this question, and a handful of others, we charged ahead of the broadcast schedule and paid a visit to the director, Okamoto Hideki!
 
-A Story About Anne and Grea	
+### A Story About Anne and Grea	
 
-We've heard Manaria Friends is going to tell an original story. What kind of narrative can we expect?
+**We've heard Manaria Friends is going to tell an original story. What kind of narrative can we expect?**
 
 Anne and Grea are the centerpoints of Manaria Friends. We've created situations that will bring forth each of their personalities and individualities, and the story will very much revolve around those two.
 
-They're definitely very popular characters. Anne and Grea first appeared in an event in Rage of Bahamut, but could you tell us a bit about them for the people that have yet to meet them?
+**They're definitely very popular characters. Anne and Grea first appeared in an event in Rage of Bahamut, but could you tell us a bit about them for the people that have yet to meet them?**
 
 Anne is the princess of the Manaria Kingdom. She's diplomatic, lively and naturally talented. Grea is the princess of the Dragons. Unlike Anne, she's rather quiet and a bit of an introvert. They're both very nice, and loved by all of the students in the academy.
 
