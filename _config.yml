@@ -26,6 +26,7 @@ sass:
   style:            compressed
 
 # Comments
+comments:           false
 disqus_shortname:   blankaex
 
 # Social
