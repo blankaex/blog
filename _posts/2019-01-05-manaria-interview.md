@@ -20,7 +20,7 @@ PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/inte
 The anime series Manaria Friends by CygamesPictures is set to start on the 20th of January!
 
 {% capture images %}
-    /assets/res/2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg
+    {{ site.url }}/assets/res/2019-01-05-manaria-interview/72a9eaf9e11f5ca881a66ba3ecf9bbaa.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
