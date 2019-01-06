@@ -29,7 +29,7 @@ tag:
 
 <figure>
   <img src="{{ site.url }}/assets/res/2018-06-18-shadowverse-master/3.jpg">
-  <audio controls>
+  <audio controls style="width:100%">
     <source src="{{ site.url }}/assets/res/2018-06-18-shadowverse-master/vo_100611050_2.mp3" type="audio/mpeg">
   </audio> 
 </figure>
