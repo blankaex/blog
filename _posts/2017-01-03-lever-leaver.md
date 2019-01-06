@@ -79,7 +79,7 @@ The true kicker, if you will, of this entire affair is what the announcers said 
 But what about SAINT?
 
 {% capture images %}
-    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_2465.jpg
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/img_20161208_122544.jpg
 {% endcapture %}
 {% include gallery images=images caption="Too meta." %}
 
