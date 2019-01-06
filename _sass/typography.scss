@@ -84,8 +84,7 @@ blockquote {
 figcaption {
     padding-top: 4px;
     text-align: center;
-    font-size: 12px;
-    @include font(14);
+    @include font(12);
     color: $color_stack;
 }
 
