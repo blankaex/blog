@@ -10,3 +10,4 @@ comments: false
 	<h2>Blankaex // ブランク</h2>
 </center>
 
+I'm a cyber security professional. I play Tekken, Shadowverse and visual novels. I also program, build arcade controllers and do translating work on the side. 
