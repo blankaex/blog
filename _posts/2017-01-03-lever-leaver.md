@@ -24,8 +24,11 @@ Korean stick being swapped out for AK.
 Since the players were free to use their native controller, the Korean arcade supplier approached their players with a proposal. They said they’ll cover the Koreans’ flights, all of their meals and accommodation, organize a tour guide, you name it. Essentially, they offered to pay for their holiday. “In exchange”, they said, “we want you to use our joysticks for the tournament.” That was all.
 
 Of course, the arcade panels that they wanted the players to use are the ones installed in Green Arcade. While not top of the line equipment, it’s what the players use all the time and what they’re used to, so there was no reason for them to refuse the offer – their holiday was basically free! Naturally, all of them accepted. Except SAINT.
-See this tweet if you're curious about this picture. https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240
-See the this tweet if you’re curious about this picture.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/czzdk3quqaaufea-large.jpg
+{% endcapture %}
+{% include gallery images=images caption="See [this tweet](https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240) if you're curious about this picture." %}
 
 Despite living literally next door to Green Arcade, SAINT instead chooses to commute an hour to Switch Arcade to play Tekken. He has connections at that arcade and actually works with them to make joysticks, which he then uses when he plays the game. Needless to say, it’s clear how meticulous he is about arcade controllers, so it’s not so surprising that he refused the arcade suppliers’ offer.
 
