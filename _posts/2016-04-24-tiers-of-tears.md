@@ -35,7 +35,7 @@ In tandem with this, the creation of tier lists also has no relationship with th
 We’ll use the fictitious fighting game “Nekket” for this example. Our buttmad scapegoat wishes to argue that all Nekket characters are equally good, and the tier list that several professionals have spent hours perfecting through scrutiny and deduction is worthless, without any real supporting evidence. We’re tolerant and benevolent members of the community, though, so we humour him.
 
 {% capture images %}
-    {{ site.url }}/assets/res/2016-04-24-tiers-of-tears/581152439_preview_100orangejuice1-10-1-tierlist.png
+    {{ site.url }}/assets/res/2016-04-24-tiers-of-tears/1455252344276.gif
 {% endcapture %}
 {% include gallery images=images caption="Pictured: Our tier list belittler" %}
 
