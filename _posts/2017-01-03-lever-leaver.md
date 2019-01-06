@@ -68,7 +68,7 @@ In any case, it’s quite clear that SAINT performed much better once he was bac
 However, this wasn’t even the worst of it. After toiling through the loser’s bracket and finally reaching Chanel, SAINT showed a brilliant performance by claiming five straight games and going all the way to match point in one fell swoop. It was at this point that Chanel called for a stick swap.
 
 {% capture images %}
-    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_2465.jpg
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_3599.jpg
 {% endcapture %}
 {% include gallery images=images caption="“I need to stall for some time, make it happen.”" %}
 
