@@ -28,7 +28,7 @@ Of course, the arcade panels that they wanted the players to use are the ones in
 {% capture images %}
     {{ site.url }}/assets/res/2017-01-03-lever-leaver/czzdk3quqaaufea-large.jpg
 {% endcapture %}
-{% include gallery images=images caption="See [this tweet](https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240) if you're curious about this picture." %}
+{% include gallery images=images caption="See <a href=https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240>this</a> tweet if you're curious about this picture." %}
 
 Despite living literally next door to Green Arcade, SAINT instead chooses to commute an hour to Switch Arcade to play Tekken. He has connections at that arcade and actually works with them to make joysticks, which he then uses when he plays the game. Needless to say, it’s clear how meticulous he is about arcade controllers, so it’s not so surprising that he refused the arcade suppliers’ offer.
 
