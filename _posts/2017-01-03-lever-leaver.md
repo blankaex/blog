@@ -36,6 +36,11 @@ Of course, the arcade panels that they wanted the players to use are the ones in
 
 <figcaption>See [this tweet](https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240) if you're curious about this picture.</figcaption>
 
+<figure>
+  <img src="/macaque.jpg" alt="Macaque in the trees">
+  <figcaption>A cheeky macaque, Lower Kintaganban River, Borneo. Original by <a href="http://www.flickr.com/photos/rclark/">Richard Clark</a></figcaption>
+</figure>
+
 Despite living literally next door to Green Arcade, SAINT instead chooses to commute an hour to Switch Arcade to play Tekken. He has connections at that arcade and actually works with them to make joysticks, which he then uses when he plays the game. Needless to say, it’s clear how meticulous he is about arcade controllers, so it’s not so surprising that he refused the arcade suppliers’ offer.
 
 In response to SAINT’s answer, the supplier simply cut him off with an “okay then, you’re on your own.” This is the reason he spent his entire time in Japan hanging out with Lychee, Mr. NAPS, Anakin, the Namco Sugamo players and staff and myself. When he came to Japan, we went to Namco Sugamo, where I discovered he’d brought his own parts over. After explaining the situation, the staff graciously allowed him to borrow an arcade panel and modify it with his own parts so that he could use it in the tournament.
