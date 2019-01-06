@@ -11,7 +11,6 @@ tag:
 PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/interview/123291/?body_dsp=1), the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with some cool dudes from GJM to release the series too, so check it out if you're interested. It's got cute socks.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="ja"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/manariafriends?src=hash&amp;ref_src=twsrc%5Etfw">#manariafriends</a> <a href="https://t.co/XypRAZBbSj">pic.twitter.com/XypRAZBbSj</a></p>&mdash; LightArrowsEXE (@LightArrowsEXE) <a href="https://twitter.com/LightArrowsEXE/status/1076992609053274118?ref_src=twsrc%5Etfw">2018年12月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
 
@@ -87,3 +86,5 @@ Also, the magical academy has yet to be portrayed in any other Cygames work. I h
     {{ site.url }}/assets/res/2019-01-05-manaria-interview/10b50d96416d1729ec39808f5e01d176.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
