@@ -75,8 +75,10 @@ It’s common knowledge that Chanel is a terrible sport. It was clear as day to 
 
 The true kicker, if you will, of this entire affair is what the announcers said while Chanel’s arcade panel was being replaced. Only those at the venue or watching the Japanese stream would be aware, but it was said that “the players have the right to have their control panel swapped at any time”, and “everyone should be allowed to play in their best condition”.
 
+<p align="center">
 …
 But what about SAINT?
+</p>
 
 {% capture images %}
     {{ site.url }}/assets/res/2017-01-03-lever-leaver/img_20161208_122544.jpg
@@ -88,3 +90,8 @@ Considering the scale of the tournament, this contradictory statement and lack o
 If it weren’t for this ordeal, who knows what the tournament bracket would’ve looked like? If SAINT had beaten Nobi the first time, he may not have fallen into the losers’ bracket and be forced to climb all the way back up to grand finals and reset the bracket to win. Despite this, after only a few minutes of complaining at dinner, he completely dropped the topic. He deserves praise for this alone; truly a gracious champion. It’s exactly because he’s so forgiving that I feel like the world needs to know the truth of the topic.
 
 And how do I know all of this? Of course, it all came straight from the horse’s mouth.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/img_20161210_204914.jpg
+{% endcapture %}
+{% include gallery images=images %}
