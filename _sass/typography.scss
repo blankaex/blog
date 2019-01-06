@@ -82,10 +82,10 @@ blockquote {
 
 // figcaption
 figcaption {
-    padding-top: 10px;
+    padding-top: 4px;
+    text-align: center;
     @include font(14);
     color: $color_stack;
-    margin: auto;
 }
 
 // links
