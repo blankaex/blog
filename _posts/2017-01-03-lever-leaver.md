@@ -74,10 +74,8 @@ It’s common knowledge that Chanel is a terrible sport. It was clear as day to 
 
 The true kicker, if you will, of this entire affair is what the announcers said while Chanel’s arcade panel was being replaced. Only those at the venue or watching the Japanese stream would be aware, but it was said that “the players have the right to have their control panel swapped at any time”, and “everyone should be allowed to play in their best condition”.
 
-<p align="center">
-…
-But what about SAINT?
-</p>
+<p align="center">…</p>
+<p align="center">But what about SAINT?</p>
 
 {% capture images %}
     {{ site.url }}/assets/res/2017-01-03-lever-leaver/img_20161208_122544.jpg
