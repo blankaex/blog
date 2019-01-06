@@ -74,7 +74,7 @@ All of the voice actors have known their characters longer than I have, so I'm q
 
 **What about at the animation studio? This is CygamesPictures' first full series, after all.**
 
-Although it is their first full series, I don't think things are very different to any other studio. All of the staff are working their hardest, through to the end, to make sure the show is just that much better.
+Although it is their first full series, I don't think things are very different to any other studio. All of the staff are working their hardest, and will continue to through to the end, to make sure the show is just that much better.
 
 **To wrap things up, do you want to say a few words to our readers? More things to keep an eye out for are fine.**
 
