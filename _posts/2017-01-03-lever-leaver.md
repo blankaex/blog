@@ -56,13 +56,20 @@ Despite his insistence, the tournament organizers lent him a deaf ear and only r
 Now at this point, you might argue “it’s not that much of a difference” and “it’s just placebo”. Of course, I agree completely. It’s not as if he was unable to play the game at all simply because he had to use a slightly shoddier joystick. However, the problem lies therein.
 
 SAINT was forced to play an important tournament match against one of the strongest contenders after being denied a simple service, which no doubt affected his mental state. Even if it is just placebo, placebo means everything in a tournament. If someone needs to use their own stick or wear a frog hat to play at the top of their game, then I say give them their own joystick. Let them strap five frogs to their body. The mental game is everything.
-Credits to JT for the frog quote.
-Credits to JT for the frog quote.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_2465.jpg
+{% endcapture %}
+{% include gallery images=images caption="Credits to JT for the frog quote." %}
 
 In any case, it’s quite clear that SAINT performed much better once he was back on his own stick. His movement proficiency and execution all but doubled – all three of us pictured above can attest to this – and you can rewatch the stream VODs to see it for yourself. If that isn’t proof enough, he was also easily able knock out Nobi in the losers’ bracket and move on to the grand final.
 
 However, this wasn’t even the worst of it. After toiling through the loser’s bracket and finally reaching Chanel, SAINT showed a brilliant performance by claiming five straight games and going all the way to match point in one fell swoop. It was at this point that Chanel called for a stick swap.
-“I need to stall for some time, make it happen.”
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_2465.jpg
+{% endcapture %}
+{% include gallery images=images caption="“I need to stall for some time, make it happen.”" %}
 
 It’s common knowledge that Chanel is a terrible sport. It was clear as day to anyone watching that there were no issues with his joystick, but he requested that his panel be replaced regardless. He used the time he bought to recuperate, and it worked out for him. He was able to win two games back and obtain his own match point. As frustrating as this may be, it can also be argued that he made the strategic decision. This is a discussion for another time, though.
 
@@ -70,8 +77,11 @@ The true kicker, if you will, of this entire affair is what the announcers said 
 
 …
 But what about SAINT?
-Too meta.
-Too meta.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_2465.jpg
+{% endcapture %}
+{% include gallery images=images caption="Too meta." %}
 
 Considering the scale of the tournament, this contradictory statement and lack of professionalism was deeply disappointing. To make matters worse, none of the parties involved seem to show any sign of making amends, although at the very least, I hope they are aware of the situation and we won’t see anything similar in the future.
 
