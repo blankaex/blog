@@ -62,7 +62,9 @@ Practicing a low tier character will generally give you an advantage over someon
 
 So, what can we glean from all of this? Tier lists are definitely valid and informative, but they are by no means the be all, end all factor in deciding the outcome of a match. Always take them with a pinch of salt, and decide for yourself whether you’re looking at the tier list of Tekken 7 or Super Turbo.
 
->[10:09] <Blankaex> lolbriefcase
->[10:09] <Blankaex> what do you think of tier lists
->[10:10] <lolbriefcase> people that reject them completely are retarded
->[10:10] <lolbriefcase> people that follow them completely are retarded
+```
+[10:09] <Blankaex> lolbriefcase
+[10:09] <Blankaex> what do you think of tier lists
+[10:10] <lolbriefcase> people that reject them completely are retarded
+[10:10] <lolbriefcase> people that follow them completely are retarded
+```
