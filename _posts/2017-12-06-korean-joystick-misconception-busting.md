@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korean Joystick Misconception-Busting"
-date: 2012-05-22
+date: 2017-12-06
 excerpt: "You don't know anything about Korean sticks."
 tag:
 - Rambling
