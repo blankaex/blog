@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IA First Live Concert in JAPAN -PARTY A GO-GO-"
+title: "Tiers of Tears"
 date: 2016-04-24
 excerpt: "The term “tier list” is rather prevalent in the video game community, and rightly so. Today, I’ll be telling you why they’re all wrong."
 tag:
