@@ -19,7 +19,11 @@ Although the King of Iron Fist Tournament Grand Final was a spectacular event, i
 Anyone who watched the tournament would know that SAINT had a bit of joystick trouble before his first match against Nobi. It delayed the start of the match a little bit, but it seems it was swept under the rug pretty well, especially since very few people know the details. I recall Aris promising to find out the specifics and report what happened. Lychee and I did explain it to him, though I’m sure he didn’t follow through. That being said, I’d argue it was something of a big deal.
 
 Before getting into it though, some groundwork needs to be laid; Korean and Japanese players use different kinds of joysticks. A common misconception is that Korean sticks have bat-top handles and Japanese sticks have ball-top handles. While this may help distinguish between the two in most cases, it doesn’t make it seem like there’s much of a difference. Without going into too much detail, the inner workings of the two types of joysticks are very unalike, so they feel completely different. It’s significant to the point where the tournament organizers arrange staff to swap the control panels on the arcade machines during the tournament, so that Korean players can use Korean sticks and vice versa.
-Korean stick being swapped out for AK.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_3174.jpg
+{% endcapture %}
+{% include gallery images=images caption="Korean stick being swapped out for AK." %}
 
 Since the players were free to use their native controller, the Korean arcade supplier approached their players with a proposal. They said they’ll cover the Koreans’ flights, all of their meals and accommodation, organize a tour guide, you name it. Essentially, they offered to pay for their holiday. “In exchange”, they said, “we want you to use our joysticks for the tournament.” That was all.
 
@@ -29,18 +33,25 @@ Of course, the arcade panels that they wanted the players to use are the ones in
     {{ site.url }}/assets/res/2017-01-03-lever-leaver/czzdk3quqaaufea-large.jpg
 {% endcapture %}
 {% include gallery images=images caption="See <a href=https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240>this tweet</a> if you're curious about this picture." %}
-<figcaption>"See <a href=https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240>this tweet</a> if you're curious about this picture."</figcaption>
+<figcaption>See <a href=https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240>this tweet</a> if you're curious about this picture.</figcaption>
 
 Despite living literally next door to Green Arcade, SAINT instead chooses to commute an hour to Switch Arcade to play Tekken. He has connections at that arcade and actually works with them to make joysticks, which he then uses when he plays the game. Needless to say, it’s clear how meticulous he is about arcade controllers, so it’s not so surprising that he refused the arcade suppliers’ offer.
 
 In response to SAINT’s answer, the supplier simply cut him off with an “okay then, you’re on your own.” This is the reason he spent his entire time in Japan hanging out with Lychee, Mr. NAPS, Anakin, the Namco Sugamo players and staff and myself. When he came to Japan, we went to Namco Sugamo, where I discovered he’d brought his own parts over. After explaining the situation, the staff graciously allowed him to borrow an arcade panel and modify it with his own parts so that he could use it in the tournament.
-Soldering the button connections for his panel.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/img_20161205_1929282.png
+{% endcapture %}
+{% include gallery images=images caption="Soldering the button connections for his panel." %}
 
 During the tournament, things were going well. SAINT played through all of his pools with the comfort of his own controller, but disaster struck when the time came for him to fight Nobi. The general consensus seems to be that he was forced to use a Japanese stick, but that wasn’t the case – I have photo evidence of this. However, it is true that he wasn’t allowed to use his own arcade panel.
 
 Despite his insistence, the tournament organizers lent him a deaf ear and only responded with “it’s already a Korean stick, just use it”, and “these are the rules, we can’t delay the tournament for you”. His panel wasn’t in use and it only takes the better part of two minutes for the panels to be swapped, but he was refused nonetheless. With a grimace on his face, SAINT was forced to sit down and play the match, unfortunately bowing out 0-2 to Nobi and getting kicked into the losers’ bracket.
-Not a great picture, but it's quite obvious he's not using a Japanese stick.
-Not a great picture, but it’s quite obvious he’s not using a Japanese stick.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2017-01-03-lever-leaver/dsc_3257.png
+{% endcapture %}
+{% include gallery images=images caption="Not the greatest picture, but it’s quite obvious he’s not using a Japanese stick." %}
 
 Now at this point, you might argue “it’s not that much of a difference” and “it’s just placebo”. Of course, I agree completely. It’s not as if he was unable to play the game at all simply because he had to use a slightly shoddier joystick. However, the problem lies therein.
 
