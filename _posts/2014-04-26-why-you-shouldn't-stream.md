@@ -4,8 +4,8 @@ title: "What's wrong with streaming?"
 date: 2014-04-26
 excerpt: I happen to know a gentleman and scholar who once shared with me an insightful analogy in regards to this topic. Paraphrasing his words, it went something like this."
 tag:
-- anime
-- rambling
+- Anime
+- Rambling
 ---
 
 I happen to know a gentleman and scholar who once shared with me an insightful analogy in regards to this topic. Paraphrasing his words, it went something like this.

@@ -4,8 +4,8 @@ title:  "An Interview with Okamoto Hideki"
 date:   2019-01-05
 excerpt: "PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Friends. As with many things, I decided on whim that I'll translate it."
 tag:
-- translation
-- anime
+- Translation
+- Anime
 ---
 
 PASH! PLUS scored [an interview with Okamoto Hideki](http://www.pashplus.jp/interview/123291/?body_dsp=1), the director of Manaria Friends. As with many things, I decided on whim that I'll translate it. I'm going to be working with some cool dudes from GJM to release the series too, so check it out if you're interested. It's got cute socks.

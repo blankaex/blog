@@ -4,7 +4,7 @@ title: "Cardigan Encounter"
 date: 2015-11-17
 excerpt: "I bought a cardigan yesterday."
 tag:
-- effay
+- Effay
 ---
 
 I bought a cardigan yesterday.

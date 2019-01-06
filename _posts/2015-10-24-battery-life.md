@@ -4,7 +4,7 @@ title: "Battery Life"
 date: 2015-10-24
 excerpt: "I’m a salty bigot and a lot of small things bother me as a result. One thing in particular I never fail to catch wind of: people’s misconceptions about how to take care of their phone batteries."
 tag:
-- rambling
+- Rambling
 ---
 
 I’m a salty bigot and a lot of small things bother me as a result. If I were to list and explain them all, we’d likely be in imminent danger due to our sun reaching the red giant phase and engulfing our planet. However, there’s one thing I never fail to catch wind of, for one reason or another: people’s misconceptions about how to take care of their phone batteries.
