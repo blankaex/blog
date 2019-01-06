@@ -6,9 +6,7 @@ comments: false
 ---
 
 <center>
-	{% capture images %}
-	    {{ site.url }}/assets/img/avatar.png
-	{% endcapture %}
-	{% include gallery images=images %}
-	Blankaex // ブランク
+	<img src="{ site.url }}/assets/img/avatar.png">
+	<h2>Blankaex // ブランク</h2>
 </center>
+
