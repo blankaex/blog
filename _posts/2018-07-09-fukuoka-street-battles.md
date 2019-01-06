@@ -10,7 +10,7 @@ tag:
 
 It looks like EVO Japan this year will be held in Fukuoka. I hope they don’t mind having fewer entrants than my locals.
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="ja" width="100%"><p lang="ja" dir="ltr">EVO Japanについて、皆さんにお知らせがあります。2019年2月15-17日、福岡市内にて <a href="https://twitter.com/hashtag/EVOJapan2019?src=hash&amp;ref_src=twsrc%5Etfw">#EVOJapan2019</a> を開催することになりました。詳細については、8月3-5日に開催される <a href="https://twitter.com/hashtag/EVO2018?src=hash&amp;ref_src=twsrc%5Etfw">#EVO2018</a> にて発表させて頂く予定ですので、皆さんのサポートをよろしくお願いします。 <a href="https://t.co/Q4dDsczWkZ">pic.twitter.com/Q4dDsczWkZ</a></p>&mdash; EVO (@EVO) <a href="https://twitter.com/EVO/status/1015388352005095424?ref_src=twsrc%5Etfw">2018年7月7日</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="ja"><p lang="ja" dir="ltr">EVO Japanについて、皆さんにお知らせがあります。2019年2月15-17日、福岡市内にて <a href="https://twitter.com/hashtag/EVOJapan2019?src=hash&amp;ref_src=twsrc%5Etfw">#EVOJapan2019</a> を開催することになりました。詳細については、8月3-5日に開催される <a href="https://twitter.com/hashtag/EVO2018?src=hash&amp;ref_src=twsrc%5Etfw">#EVO2018</a> にて発表させて頂く予定ですので、皆さんのサポートをよろしくお願いします。 <a href="https://t.co/Q4dDsczWkZ">pic.twitter.com/Q4dDsczWkZ</a></p>&mdash; EVO (@EVO) <a href="https://twitter.com/EVO/status/1015388352005095424?ref_src=twsrc%5Etfw">2018年7月7日</a></blockquote>
 
 Not too long ago, Markman tweeted out asking if people would still be interested in attending EVO Japan if it were held in a location other than Tokyo. Needless to say, there were very mixed opinions on the matter. However, as far as the poll responses go, a strong 70% of respondents answered yes, they would attend if the event were held outside of Tokyo.
 
