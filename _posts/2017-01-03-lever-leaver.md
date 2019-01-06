@@ -29,11 +29,8 @@ Since the players were free to use their native controller, the Korean arcade su
 
 Of course, the arcade panels that they wanted the players to use are the ones installed in Green Arcade. While not top of the line equipment, it’s what the players use all the time and what they’re used to, so there was no reason for them to refuse the offer – their holiday was basically free! Naturally, all of them accepted. Except SAINT.
 
-{% capture images %}
-    {{ site.url }}/assets/res/2017-01-03-lever-leaver/czzdk3quqaaufea-large.jpg
-{% endcapture %}
-{% include gallery images=images %}
 <figure>
+  <img src={{ site.url }}/assets/res/2017-01-03-lever-leaver/czzdk3quqaaufea-large.jpg>
   <figcaption>See <a href="https://twitter.com/DCSUe0kR863VWP5/status/807936086680842240">this tweet</a> if you're curious about this picture.</figcaption>
 </figure>
 
