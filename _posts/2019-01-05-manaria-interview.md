@@ -68,7 +68,7 @@ We've tried our hardest to depict how Anne and Grea's releationship deepens over
 
 **How are things at the recording studio?**
 
-I haven't had to ask for much in particular, since all of the characters already exist in a number of games. I explained what the series is going to be about, and described particular feelings I want to convey; that's about it.
+I haven't had to ask for much in particular, since all of the characters already exist in a number of games. I explained what the series is going to be about, and described the particular feelings I want to convey; that's about it.
 
 All of the voice actors have known their characters longer than I have, so I'm quite happy to leave them to their own devices.
 
@@ -80,7 +80,7 @@ Although it is their first full series, I don't think things are very different 
 
 We're trying our best to produce a work that can truly depict the charms of the characters and how their feelings draw closer together. I hope you enjoy a relaxing time together with Anne and Grea, despite all of the intense ups and downs on our end.
 
-Also, the magical academy has yet to be portrayed in any other Cygames work. I hope you also enjoy our take on this, whether you're a die-hard fan of the Manaria friends, or a complete newcomer into their world.
+Also, the magical academy has yet to be portrayed in any other Cygames work. I hope you also appreciate our take on this, whether you're a die-hard fan of the Manaria friends, or a complete newcomer into their world.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-01-05-manaria-interview/ecf0c6daf1d60fd74228d3c324829dc2.jpg
