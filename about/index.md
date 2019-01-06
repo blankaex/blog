@@ -3,7 +3,7 @@ layout: page
 title: About
 date: 2019-01-05
 comments: false
-feature: "{{ site.url }}/assets/img/header.jpg"
+feature: assets/img/header.jpg
 ---
 
 <center>
