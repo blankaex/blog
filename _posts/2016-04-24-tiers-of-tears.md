@@ -43,8 +43,11 @@ In Nekket, there’s a character called Nij. He has a number of moves, and each 
 This is exactly how every fighting game is. Characters will have different attributes, and some characters will be objectively better than others. You could argue that characters weak in one area make up for it in another, or that they perform better or worse under different circumstances, and you’d be totally right. However, all this does is minimize the power disparity, it doesn’t mean the characters are equal. “Power” (for lack of a better term) is an extremely abstract property that’s nigh upon impossible to measure, and we mere mortals can’t even hope to equalize it. In fact, the only way for characters in a fighting game to be truly equal is for them to be entirely homogeneous – but this doesn’t make for a very fun game.
 
 In the end, we’re all human, and it’s impossible to perfectly balance a game such that every playable character is equally good if they don’t all do exactly the same thing. The result of this is a tier list. Professional players with revered game knowledge will look at the characters, analyze the differences and grace us with the conclusions they draw. Although they too are human, their lists are the best we’ve got to go by, and are justly held in high regard. They’re even published in magazines.
-Hato's Tier List for Melty Blood Actress Again Current Code, published in the December 2011 edition of Arcadia
-Hato’s Tier List for Melty Blood Actress Again Current Code, published in the December 2011 edition of Arcadia
+
+{% capture images %}
+    {{ site.url }}/assets/res/2016-04-24-tiers-of-tears/arcadia-139-0034.jpg
+{% endcapture %}
+{% include gallery images=images caption="Hato’s Tier List for Melty Blood Actress Again Current Code, published in the December 2011 edition of Arcadia" %}
 
 Now that you’ve realized the significance of tier lists, let me stop you before you run off and sign up for a tournament with that S-tier character you saw. Although they are meaningful, just how important are tier lists in the end? To answer in two words: not very.
 

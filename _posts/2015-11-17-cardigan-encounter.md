@@ -31,8 +31,11 @@ Unsurprisingly, I didn’t really find much. The main street (Takeshita Doori) w
 {% include gallery images=images caption="A curiously named clothing store." %}
 
 Somewhat disappointed, I went back down the main street back towards the Station and decided to go to Shinjuku instead. While I was walking back, I was pleasantly surprised to find a mannequin on the side of the street wearing a cardigan similar to what I had in mind. Curious, I looked around, but there didn’t seem to be a shop accompanying the dear fellow. While scratching my head and scanning the area, I noticed a seedy, dilapidated staircase going down, of all directions, and after not enough deliberation, I decided I may as well go down and have a look.
-Candy store with a strangely familiar name.
-Candy store with a strangely familiar name.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2015-11-17-cardigan-encounter/7519.jpg
+{% endcapture %}
+{% include gallery images=images caption="Candy store with a strangely familiar name." %}
 
 At the very beginning of my descent, a boisterous old woman appeared in the doorway and ushered me in with a voice that seemed too loud to have come out of a pensioner’s mouth. Unsure of whether or not she worked there (as the majority of the store attendants are sticker girls and other similarly young-aged people to cater to the target audience), I tenuously set foot into the cramped store with quite literally less than two square metres of unoccupied floor space.
 
