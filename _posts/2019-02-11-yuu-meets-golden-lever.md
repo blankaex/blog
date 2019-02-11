@@ -2,7 +2,7 @@
 layout: post
 title:  "Yamasa Yuu: How I Met the Golden Lever"
 date:   2019-02-11
-excerpt: "PASH! PLUS scored an interview with Okamoto Hideki, the director of Manaria Friends. As with many things, I decided on whim that I'll translate it."
+excerpt: "Yamasa Yuu wrote a bit of a blog post about how he came about the Golden Lever. I felt like translating it, so here it is."
 feature: assets/res/2019-02-11-yuu-meets-golden-lever/rectangle_large_type_2_5b7d4168903351dc423df728940228fe.jpeg
 tag:
 - Translation
