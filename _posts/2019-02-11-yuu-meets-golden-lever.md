@@ -34,7 +34,7 @@ I've been to Indonesia maybe 4 or 5 times to participate in events and tournamen
 
 I actually left it on my desk for about half a year, but my curiosity got the better of me one day so I decided to try it out. I immediately noticed my inputs becoming cleaner and more precise. I was so amazed that I messaged the creator to thank him. That's how I found out about the Golden Lever.
 
-<a href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @wazwuz</a>
+<a href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw" class="twitter-follow-button tw-align-center" data-size="large" data-show-count="false">Follow @wazwuz</a>
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw">Tweets by wazwuz</a>
 
 I knew that the famous Korean player Lowhigh used a Golden Lever, but I never thought to purchase one myself. In fact, the very idea of ordering a lever from Indonesia didn't even exist in my mind. I was using a Korean lever I bought from Mastercup, but I had similar issues to many other players. Namely, the diagonals were difficult to find, and my wrist got tired really quickly.
@@ -61,11 +61,11 @@ I got to know Wazwuz through the Golden Lever, and began talking to him more. I 
 
 Every time the Golden Lever restocks, Wazwuz makes an announcement on Twitter and players from all over the world rush to order one. They sell out in an instant. It doesn't matter if you're from Europe, Asia, America or wherever; they're gone in an instant.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Golden Lever sold out, for those who have order it, thank you for the support 🙇🏻‍♂️. If you missed it, you can Preorder it now <a href="https://t.co/GmEmFLKJrL">https://t.co/GmEmFLKJrL</a> ecpected shipping early February <a href="https://t.co/denMVLBYhQ">pic.twitter.com/denMVLBYhQ</a></p>&mdash; ASI | wazwuz (@wazwuz) <a href="https://twitter.com/wazwuz/status/1087158206315474944?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Golden Lever sold out, for those who have order it, thank you for the support 🙇🏻‍♂️. If you missed it, you can Preorder it now <a href="https://t.co/GmEmFLKJrL">https://t.co/GmEmFLKJrL</a> ecpected shipping early February <a href="https://t.co/denMVLBYhQ">pic.twitter.com/denMVLBYhQ</a></p>&mdash; ASI | wazwuz (@wazwuz) <a href="https://twitter.com/wazwuz/status/1087158206315474944?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote>
 
 This is Sengoku Denshou's announcement tweet, by the way. It looks like they're taking preorders.
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【予約販売のお知らせ】千石電商では、 <a href="https://twitter.com/hashtag/GoldenLever?src=hash&amp;ref_src=twsrc%5Etfw">#GoldenLever</a> の入荷の目処が立ちましたので、本日より、ラジオデパート店限定にて、 <a href="https://twitter.com/hashtag/GoldenLever?src=hash&amp;ref_src=twsrc%5Etfw">#GoldenLever</a> の予約注文を承ります。価格は\14,980円(税込)です。<br>↓必ず下記に続くTweetをご一読の上、ご了承いただける方のみ、予約注文のご検討をお願い申し上げます。 <a href="https://t.co/gmNY5pdJlR">pic.twitter.com/gmNY5pdJlR</a></p>&mdash; 千石電商 公式 (@sengoku_densyo) <a href="https://twitter.com/sengoku_densyo/status/1094424617677012992?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">【予約販売のお知らせ】千石電商では、 <a href="https://twitter.com/hashtag/GoldenLever?src=hash&amp;ref_src=twsrc%5Etfw">#GoldenLever</a> の入荷の目処が立ちましたので、本日より、ラジオデパート店限定にて、 <a href="https://twitter.com/hashtag/GoldenLever?src=hash&amp;ref_src=twsrc%5Etfw">#GoldenLever</a> の予約注文を承ります。価格は\14,980円(税込)です。<br>↓必ず下記に続くTweetをご一読の上、ご了承いただける方のみ、予約注文のご検討をお願い申し上げます。 <a href="https://t.co/gmNY5pdJlR">pic.twitter.com/gmNY5pdJlR</a></p>&mdash; 千石電商 公式 (@sengoku_densyo) <a href="https://twitter.com/sengoku_densyo/status/1094424617677012992?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
 
 The pricetag is pretty scary, isn't it?
 
