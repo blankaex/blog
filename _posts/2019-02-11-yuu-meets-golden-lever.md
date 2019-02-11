@@ -34,7 +34,7 @@ I've been to Indonesia maybe 4 or 5 times to participate in events and tournamen
 
 I actually left it on my desk for about half a year, but my curiosity got the better of me one day so I decided to try it out. I immediately noticed my inputs becoming cleaner and more precise. I was so amazed that I messaged the creator to thank him. That's how I found out about the Golden Lever.
 
-<a href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw" class="twitter-follow-button tw-align-center" data-size="large" data-show-count="false">Follow @wazwuz</a>
+<a href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @wazwuz</a>
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw">Tweets by wazwuz</a>
 
 I knew that the famous Korean player Lowhigh used a Golden Lever, but I never thought to purchase one myself. In fact, the very idea of ordering a lever from Indonesia didn't even exist in my mind. I was using a Korean lever I bought from Mastercup, but I had similar issues to many other players. Namely, the diagonals were difficult to find, and my wrist got tired really quickly.
