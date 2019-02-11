@@ -69,7 +69,7 @@ This is Sengoku Denshou's announcement tweet, by the way. It looks like they're 
 
 The pricetag is pretty scary, isn't it?
 
-It's about four or five times the cost of most other levers being sold worldwide. You could buy a whole arcade stick with that kind of money.
+It's about four or five times the cost of most other levers in the market. You could buy a whole arcade stick with that kind of money.
 
 And yet, so many of them have been sold. I've brought my Golden Lever around to events and received feedback from numerous players, and they generally have a great impression. I don't think most fighting game players would mind investing a bit more into their gaming devices.
 
