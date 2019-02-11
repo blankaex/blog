@@ -13,7 +13,7 @@ tag:
 
 A company called Attasa set up a booth at Mastercup where players could purchase Korean levers. Many players had some interest in Korean levers, but never really got into them because they didn't know where to start. This gave them an opportunity to easily buy levers to try for themselves.
 
-The levers on sale were provided by Crown. There were two different levers for sale, the Crazy Dongpal lever and the Help Me lever, named after the two famous players.
+The levers on sale were provided by Crown. There were two different types of lever for sale: the Crazy Dongpal lever and the Help Me lever, named after the two famous players.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-02-11-yuu-meets-golden-lever/picture_pc_c6a0f014f102dfec697fd8c5c7c544c1.png
@@ -30,7 +30,7 @@ I'm willing to bet it's thanks to social media that the information spread like 
 
 ## There's a guy in Indonesia making a crazy lever
 
-I've been to Indonesia maybe 4 or 5 times to participate in events and tournaments. One time when I was there, trying to make some friends with the locals, I was suddenly approached and given a spring. I was told that it's a hand-made spring made to modify a Sanwa JLF.
+I've been to Indonesia maybe 4 or 5 times to participate in events and tournaments. One time when I was there, trying to make some friends with the locals, I was suddenly approached and given a spring. I was told that it's a hand-made spring built to modify a Sanwa JLF.
 
 I actually left it on my desk for about half a year, but my curiosity got the better of me one day so I decided to try it out. I immediately noticed my inputs becoming cleaner and more precise. I was so amazed that I messaged the creator to thank him. That's how I found out about the Golden Lever.
 
@@ -39,7 +39,7 @@ I actually left it on my desk for about half a year, but my curiosity got the be
 
 I knew that the famous Korean player Lowhigh used a Golden Lever, but I never thought to purchase one myself. In fact, the very idea of ordering a lever from Indonesia didn't even exist in my mind. I was using a Korean lever I bought from Mastercup, but I had similar issues to many other players. Namely, the diagonals were difficult to find, and my wrist got tired really quickly.
 
-While I was trying to figure out how to solve these problems, Wazwuz approached me at SEAM2018 in Singapore. He handed me a Golden Lever and said "please try this and tell me what you think."
+While I was trying to figure out how to solve these problems, wazwuz approached me at SEAM2018 in Singapore. He handed me a Golden Lever and said "please try this and tell me what you think."
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-02-11-yuu-meets-golden-lever/picture_pc_45b1a3f14218dca37f99a822a3e6470f.jpg
@@ -57,9 +57,9 @@ As I customized my lever more and more, I could feel it becoming better and more
 
 I'll be talking about what exactly the Golden Lever is, and why it's so good in a later blog post, but this more or less sums up my general thoughts on the product.
 
-I got to know Wazwuz through the Golden Lever, and began talking to him more. I was deeply moved by his passion for the FGC, and tried to help in my own way by spreading the word about the Golden Lever. I've been name-dropping it here and there; sorry for spamming your timelines. But thanks to that, Sengoku Denshou—a company quite well-known within the community—will become an official distributor of the Golden Lever in Japan.
+I got to know wazwuz through the Golden Lever, and began talking to him more. I was deeply moved by his passion for the FGC, and tried to help in my own way by spreading the word about the Golden Lever. I've been name-dropping it here and there; sorry for spamming your timelines. But thanks to that, Sengoku Denshou—a company quite well-known within the community—will become an official distributor of the Golden Lever in Japan.
 
-Every time the Golden Lever restocks, Wazwuz makes an announcement on Twitter and players from all over the world rush to order one. They sell out in an instant. It doesn't matter if you're from Europe, Asia, America or wherever; they're gone in an instant.
+Every time the Golden Lever restocks, wazwuz makes an announcement on Twitter and players from all over the world rush to order one. They sell out in an instant. It doesn't matter if you're from Europe, Asia, America or wherever; they're gone in an instant.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Golden Lever sold out, for those who have order it, thank you for the support 🙇🏻‍♂️. If you missed it, you can Preorder it now <a href="https://t.co/GmEmFLKJrL">https://t.co/GmEmFLKJrL</a> ecpected shipping early February <a href="https://t.co/denMVLBYhQ">pic.twitter.com/denMVLBYhQ</a></p>&mdash; ASI | wazwuz (@wazwuz) <a href="https://twitter.com/wazwuz/status/1087158206315474944?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote>
 
@@ -69,7 +69,7 @@ This is Sengoku Denshou's announcement tweet, by the way. It looks like they're 
 
 The pricetag is pretty scary, isn't it?
 
-It's about four or five times the cost of most other levers being sold worldwide. You could buy a whole arcade stick with that money.
+It's about four or five times the cost of most other levers being sold worldwide. You could buy a whole arcade stick with that kind of money.
 
 And yet, so many of them have been sold. I've brought my Golden Lever around to events and received feedback from numerous players, and they generally have a great impression. I don't think most fighting game players would mind investing a bit more into their gaming devices.
 
@@ -77,10 +77,12 @@ In my opinion, the quality of the Golden Lever backs its price. I'll be going in
 
 Thanks for reading.
 
-<a src="https://arcadestick-indonesia.com/shop/">Official Arcade Stick Indonesia Store</a>
+### Links:
 
-<a src="https://www.sengoku.co.jp/">Sengoku Denshou Online Store</a>
+[Official Arcade Stick Indonesia Store](https://arcadestick-indonesia.com/shop/)
 
-<a src="https://note.mu/yamasa_yuu/n/n74e6cdffc281">Yuu's Original Blog Post</a>
+[Sengoku Denshou Online Store](https://www.sengoku.co.jp/)
+
+[Yuu's Original Blog Post](https://note.mu/yamasa_yuu/n/n74e6cdffc281)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
