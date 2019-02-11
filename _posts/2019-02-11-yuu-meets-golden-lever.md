@@ -30,9 +30,9 @@ I'm willing to bet it's thanks to social media that the information spread like 
 
 ## There's a guy in Indonesia making a crazy lever
 
-I've been to Indonesia maybe 4 or 5 times to participate in events and tournaments. One time when I was there, trying to make some friends with the locals, I was suddenly approached and given a spring. I was told that it's a hand-made spring built to modify a Sanwa JLF.
+I've been to Indonesia maybe 4 or 5 times to participate in events and tournaments. One time when I was there, trying to make some friends with the locals, I was suddenly approached and given a set of springs. I was told that they were hand-made springs built to modify a Sanwa JLF.
 
-I actually left it on my desk for about half a year, but my curiosity got the better of me one day so I decided to try it out. I immediately noticed my inputs becoming cleaner and more precise. I was so amazed that I messaged the creator to thank him. That's how I found out about the Golden Lever.
+I actually left them on my desk for about half a year, but my curiosity got the better of me one day so I decided to try them out. I immediately noticed my inputs becoming cleaner and more precise. I was so amazed that I messaged the creator to thank him. That's how I found out about the Golden Lever.
 
 <a href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @wazwuz</a>
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/wazwuz?ref_src=twsrc%5Etfw">Tweets by wazwuz</a>
