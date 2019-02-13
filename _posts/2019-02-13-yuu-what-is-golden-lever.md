@@ -37,7 +37,7 @@ If you take a look at the [Arcade Stick Indonesia (ASI) Store](https://arcadesti
 
 People that don't know too much about levers might be thinking "what's up with this shady store selling all of these random parts?"
 
-<iframe frameborder="no" border="0" width="100%" height="400" src="https://arcadestick-indonesia.com/shop/"></iframe>
+<iframe frameborder="no" border="0" width="100%" height="400px" src="https://arcadestick-indonesia.com/shop/"></iframe>
 
 Let me quickly explain to ease your qualms. There are two main types of products for sale:
 
