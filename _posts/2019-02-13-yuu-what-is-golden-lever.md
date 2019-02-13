@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yamasa Yuu: What is the Golden Lever, exactly?"
-date:   2019-02-11
+date:   2019-02-13
 excerpt: "Yuu's second blog post about the Golden Lever. This time, he goes into detail about the specifics."
 feature: assets/res/2019-02-13-yuu-what-is-golden-lever/rectangle_large_type_2_07c43a21ce9def47df5c4600f4c5ed20.jpeg
 tag:
@@ -21,11 +21,11 @@ That being said, it was already a popular lever amongst the more lever-savvy pla
 
 ## So, what makes the Golden Lever so good?
 
-As I mentioned in my previous blog post, I almost never opened up my arcade stick. If I ever felt like my lever was underperforming and needed some work, I would just go out and buy a new one to replace it.
+As I mentioned in my previous blog post, I used to never open up my arcade stick. If I ever felt like my lever was underperforming and needed some work, I would just go out and buy a new one to replace it.
 
 Be that as it may, with the recent Korean lever fad, I've collected a good number of levers and took the time to disassemble them and understand their unique qualities and features. Thanks to this, I do believe I have some small amount of authority on the matter, though there may be more knowledgable players around who do not share quite the same thoughts. Just throwing that out there.
 
-At this moment in time, I can confidently say that I've used the Golden Lever for the longest amount of time, of all players across Japan. I can also declare that I've disassembled it the greatest number of times... lol.
+I can confidently say that I've used the Golden Lever the longest of all players across Japan, at this moment in time. I can also declare that I've disassembled it the greatest number of times... lol.
 
 Anyway, that was quite some preamble. If I had to describe the lever in one word, this is what I'd say.
 
