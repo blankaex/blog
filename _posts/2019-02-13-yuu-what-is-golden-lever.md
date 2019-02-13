@@ -6,7 +6,7 @@ excerpt: "Yuu's second blog post about the Golden Lever. This time, he goes into
 feature: assets/res/2019-02-13-yuu-what-is-golden-lever/rectangle_large_type_2_07c43a21ce9def47df5c4600f4c5ed20.jpeg
 tag:
 - Translation
-- Tekken
+- Sticks
 ---
 
 To people who have just heard rumours of a cool lever, the story about how I met wazwuz probably isn't that interesting. If you want to check it out though, you can have a look [here](https://blankaex.github.io/blog/yuu-meets-golden-lever/).

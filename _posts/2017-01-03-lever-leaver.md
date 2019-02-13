@@ -5,6 +5,8 @@ date: 2017-01-03
 excerpt: "December 12th, 2016 marks the day where SAINT (Choi Jinwoo) was crowned the King of Iron Fist. But hidden behind his sincere smile is a (very warranted) modicum of irritation."
 tag:
 - Tekken
+- FGC
+- Sticks
 ---
 
 December 12th, 2016 marks the day where SAINT (Choi Jinwoo) was crowned the King of Iron Fist. Coming first in the Evolution Championship Series 2016, being a great player and a great person, there is no one more deserving of his revered title. Once again, congratulations.

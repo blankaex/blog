@@ -5,7 +5,7 @@ date: 2018-07-09
 excerpt: "It looks like EVO Japan this year will be held in Fukuoka. I hope they don’t mind having fewer entrants than my locals."
 tag:
 - Rambling
-- Tekken
+- FGC
 ---
 
 It looks like EVO Japan this year will be held in Fukuoka. I hope they don’t mind having fewer entrants than my locals.

@@ -5,6 +5,8 @@ date: 2016-04-24
 excerpt: "The term “tier list” is rather prevalent in the video game community, and rightly so. Today, I’ll be telling you why they’re all wrong."
 tag:
 - Rambling
+- Tekken
+- FGC
 ---
 
 The term “tier list” is rather prevalent in the video game community, and rightly so. Entitled faggots like myself seem to feel obligated to rank elements of a category within certain games above others, and share their “contribution” with the rest of the playerbase, despite not knowing anything about the game in question. Needless to say, it’s quite the polarizing topic, and each player holds one of numerous opinions in regards to the matter. Today, I’ll be telling you why they’re all wrong.

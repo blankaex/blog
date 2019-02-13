@@ -5,6 +5,7 @@ date: 2017-12-06
 excerpt: "You don't know anything about Korean sticks."
 tag:
 - Rambling
+- Sticks
 ---
 
 In my time in the FGC, I’ve noticed two extremely common misconceptions, about Korean joysticks in particular. It doesn’t really come as a surprise that people aren’t so well-informed about Korean joysticks considering their usage in the West, or lack thereof. What does surprise me though, is that there seems to be quite a few people out there who are irredeemably uninformed and yet readily and confidently offer their extremely welcome, sagely advice despite being utterly incorrect. Hopefully this blog post will be useful in preventing this misinformation from spreading.
