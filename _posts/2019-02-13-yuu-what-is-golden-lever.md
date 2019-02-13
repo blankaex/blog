@@ -1,19 +1,17 @@
 ---
 layout: post
-title:  "Yamasa Yuu: How I met the Golden Lever"
+title:  "Yamasa Yuu: What is the Golden Lever, exactly?"
 date:   2019-02-11
-excerpt: "Yamasa Yuu wrote a bit of a blog post about how he came about the Golden Lever. I felt like translating it, so here it is."
-feature: assets/res/2019-02-11-yuu-meets-golden-lever/rectangle_large_type_2_5b7d4168903351dc423df728940228fe.jpeg
+excerpt: "Yuu's second blog post about the Golden Lever. This time, he goes into detail about the specifics."
+feature: assets/res/2019-02-13-yuu-what-is-golden-lever/rectangle_large_type_2_07c43a21ce9def47df5c4600f4c5ed20.jpeg
 tag:
 - Translation
 - Tekken
 ---
 
-## A bit about Korean Levers
+To people who have just heard rumours of a cool lever, the story about how I met wazwuz probably isn't that interesting. If you want to check it out though, you can have a look here.
 
-A company called Attasa set up a booth at Mastercup where players could purchase Korean levers. Many players had some interest in Korean levers, but never really got into them because they didn't know where to start. This gave them an opportunity to easily buy levers to try for themselves.
-
-The levers on sale were provided by Crown. There were two different types of lever for sale: the Crazy Dongpal lever and the Help Me lever, named after the two famous players.
+<iframe height=400 src="https://blankaex.github.io/blog/yuu-meets-golden-lever/"></iframe>
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-02-11-yuu-meets-golden-lever/picture_pc_c6a0f014f102dfec697fd8c5c7c544c1.png
@@ -83,6 +81,6 @@ Thanks for reading.
 
 [Sengoku Denshou Online Store](https://www.sengoku.co.jp/)
 
-Source: [Yuu's Blog](https://note.mu/yamasa_yuu/n/n74e6cdffc281)
+[Yuu's Original Blog Post](https://note.mu/yamasa_yuu/n/n74e6cdffc281)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
