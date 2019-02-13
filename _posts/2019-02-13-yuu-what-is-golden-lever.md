@@ -15,7 +15,7 @@ To people who have just heard rumours of a cool lever, the story about how I met
 
 Now then, shall we get started? Despite all of the different types of levers in the market, why is everyone talking about the Golden Lever? Why do orders come from all over the world such that it sells out the instant after it goes on sale? I'm sure you're curious about the answers to these questions, but first, a little side note.
 
-Let's put aside how great the Golden Lever is for a moment. I think one of the main reasons the lever has become so popular so quickly is due to its achievements together with the world champions. Lowhigh from Korea won EVO 2018 with the Golden Lever, and Rangchu, also from Korea, won TWT 2018 similarly equipped with a Golden Lever.
+Let's put aside how great the Golden Lever is for a moment. I think one of the main reasons the Golden Project has become so popular so quickly is due to its achievements together with the world champions. Lowhigh from Korea won EVO 2018 using Golden Parts, and Rangchu, also from Korea, won TWT 2018 similarly equipped with Golden Parts.
 
 That being said, it was already a popular lever amongst the more lever-savvy players. I saw a number of people using Golden Levers as I travelled around to compete in the TWT.
 
