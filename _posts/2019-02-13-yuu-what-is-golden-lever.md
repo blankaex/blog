@@ -11,7 +11,7 @@ tag:
 
 To people who have just heard rumours of a cool lever, the story about how I met wazwuz probably isn't that interesting. If you want to check it out though, you can have a look [here](https://blankaex.github.io/blog/yuu-meets-golden-lever/).
 
-<iframe frameborder="no" border="0" width="100%" height="400" src="https://blankaex.github.io/blog/yuu-meets-golden-lever/"></iframe>
+<iframe frameborder="no" border="0" width="100%" height="400px" src="https://blankaex.github.io/blog/yuu-meets-golden-lever/"></iframe>
 
 Now then, shall we get started? Despite all of the different types of levers in the market, why is everyone talking about the Golden Lever? Why do orders come from all over the world such that it sells out the instant after it goes on sale? I'm sure you're curious about the answers to these questions, but first, a little side note.
 
