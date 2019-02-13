@@ -55,7 +55,7 @@ I originally played around with the balltop version, but eventually settled on t
 
 As I customized my lever more and more, I could feel it becoming better and more comfortable. Before this, I never even bothered to maintain my arcade stick, but lately, opening up the bottom of my stick at least three times a day has become part of my lifestyle. I've already had to replace the screws on my Fighting Edge three times.
 
-I'll be talking about what exactly the Golden Lever is, and why it's so good in a later blog post, but this more or less sums up my general thoughts on the product.
+I'll be talking about what exactly the Golden Lever is, and why it's so great in a later blog post, but this more or less sums up my general thoughts on the product.
 
 I got to know wazwuz through the Golden Lever, and began talking to him more. I was deeply moved by his passion for the FGC, and tried to help in my own way by spreading the word about the Golden Lever. I've been name-dropping it here and there; sorry for spamming your timelines. But thanks to that, Sengoku Denshou—a company quite well-known within the community—will become an official distributor of the Golden Lever in Japan.
 
