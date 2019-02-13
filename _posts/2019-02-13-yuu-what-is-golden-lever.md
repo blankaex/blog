@@ -11,7 +11,7 @@ tag:
 
 To people who have just heard rumours of a cool lever, the story about how I met wazwuz probably isn't that interesting. If you want to check it out though, you can have a look here.
 
-<iframe frameborder="no" border="0" width="800" height="400" src="https://blankaex.github.io/blog/yuu-meets-golden-lever/"></iframe>
+<iframe frameborder="no" border="0" width="80%" height="50%" src="https://blankaex.github.io/blog/yuu-meets-golden-lever/"></iframe>
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-02-11-yuu-meets-golden-lever/picture_pc_c6a0f014f102dfec697fd8c5c7c544c1.png
