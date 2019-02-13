@@ -40,8 +40,10 @@ People that don't know too much about levers might be thinking "what's up with t
 <iframe frameborder="no" border="0" width="100%" height="400" src="https://arcadestick-indonesia.com/shop/"></iframe>
 
 Let me quickly explain to ease your qualms. There are two main types of products for sale:
+
 * Parts to customize certain levers
 * Golden Lever parts
+
 What this means is that not everything for sale in the store is compatible with the Golden Lever.
 
 However, most of the parts for sale are made to precisely fine-tune **how the Golden Lever feels**. All of the parts are **extremely high quality**. And when I say **how the lever feels**, I'm referring to quite a few things.
