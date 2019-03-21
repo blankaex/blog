@@ -1,5 +1,5 @@
 # Site
-title:              Blankaex's Blog
+title:              Blankaex's Home
 bio:                'お前には無理だから諦めとけ'
 description:        'Life is hard but thighs are soft.'
 reading_time:       false
@@ -51,9 +51,9 @@ github-url:         blankaex
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              blankaex
+#steam:              blankaex
 #dribbble:          username
-#twitch:             blankaexx
+twitch:             blankaexx
 #youtube:            blankaex
 #youtube-channel:   channel
 #soundcloud:        username
