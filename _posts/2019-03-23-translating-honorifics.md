@@ -37,7 +37,7 @@ The thing is though, **you can't glean any of this by only reading a line of dia
 
 There's too much leeway within the term of address to discern anything meaningful about the relationship between characters from the honorifics alone. This **_must_** be done through the prose, and therefore _can be explained without honorifics_.
 
-This is true for all honorifics, and really, all terms of address. Of course, I'm not saying that they have no meaning at all. If someone is addressed as "-sama", then they're probably important—or being ridiculed over their arrogance. See, even in this general example, it's impossible to know without context. If someone is addressed as "-sensei", they could be a teacher. Or they might be a doctor, an author, or some other kind of respected expert. If someone is addressed as "-kun", then they're probably a boy. Unless it's at school or work, in which case it could be a girl. They're also probably younger than the speaker, except when they're not.
+This is true for all honorifics, and really, all terms of address. Of course, I'm not saying that they have no meaning at all. If someone is addressed as "-sama", then they're probably important—or being ridiculed over their arrogance. See, even in this general example, it's impossible to know without context. If someone is addressed as "-sensei", they could be a teacher. Or they might be a doctor, an author, or some other kind of respected expert. If someone is addressed as "-kun", then they're probably a boy. Unless it's at school or work, in which case it could be a girl. They're also probably younger than the speaker, except when they're not. You see?
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-03-23-translating-honorifics/tomoyakun.png
