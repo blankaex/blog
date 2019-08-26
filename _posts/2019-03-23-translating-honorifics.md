@@ -5,8 +5,8 @@ date:   2019-03-23
 excerpt: "Honorifics are not _required_ in translations, and if you think they are then you don't know what you're talking about."
 tag:
 - Anime
-- Rambling
 - Fansubbing
+- Rambling
 ---
 
 Whether or not honorifics should be preserved in a Japanese translation is a discussion as dumb as it is old. I'm not going to take a side on this one though, because there's an even dumber argument out in the wild. _"Honorifics are __required__ in translations to convey meaning"_ is undoubtedly one of the most asinine claims I've ever had the misfortune to witness, and it really needs to be addressed.
