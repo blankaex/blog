@@ -4,6 +4,7 @@ title:  "Honorifics Are Not Required in Translations"
 date:   2019-03-23
 excerpt: "Honorifics are not _required_ in translations, and if you think they are then you don't know what you're talking about."
 tag:
+- Anime
 - Rambling
 - Translation
 ---
