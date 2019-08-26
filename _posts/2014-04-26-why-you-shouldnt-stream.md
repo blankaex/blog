@@ -17,6 +17,6 @@ I happen to know a gentleman and scholar who once shared with me an insightful a
 Moral of the story: don't stream.
 
 {% capture images %}
-    {{ site.url }}/assets/res/2014-04-26-why-you-shouldn't-stream/index.png
+    {{ site.url }}/assets/res/2014-04-26-why-you-shouldnt-stream/index.png
 {% endcapture %}
 {% include gallery images=images %}
