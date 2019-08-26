@@ -11,7 +11,7 @@ tag:
 
 I've come to notice more and more fansubbers working on projects without a translator on the team. Instead, they work off an official script from Crunchyroll or the like. It's no new practice by any stretch of the definition, but it's definitely become a lot more common.
 
-It's also happened to have come up in conversation a fair few times this past week, so I figured I might share my thoughts on the matter. As you may have guessed from the existence of this blog post, I'm not particularly fond of the practice, though not for any moral or ethical reason. I have a few other causes for concern.
+It's also a topic that happened to come up in conversation a fair few times this past week, so I figured I might share my thoughts on the matter. As you may have guessed from the existence of this blog post, I'm not particularly fond of the practice, though not for any moral or ethical reason. I have a few other causes for concern.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/EChyWAKWwAEqrmH.jpg
@@ -31,42 +31,42 @@ The disparity is quite noticeable when put side-by-side, so you get a rather int
 
 Now I'm aware that professional translators are people too, but the scripts you see are again usually quite "robotic". Think machine translation. When the TLC does a pass on this script, the difference in styles (as vague and anecdotal as it may sound) often results in a lower quality script than what you'd have if the TLC worked off an OTL.
 
-This is irrespective of the perceived "quality" of the pro script, because the translating style is so fundamentally different. So, even if you have an allegedly good pro script, it will still be different to a good fan script, and the result is usually not as good.
+This is irrespective of the perceived "quality" of the pro script, because the translating style is so fundamentally different. So, even if you have an allegedly good pro script, it will still be different to a good fan script, and the result is usually not quite as good.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/2m3017s.jpg
+{% endcapture %}
+{% include gallery images=images %}
+
+I've been working on a project as TLC with another TL, and he's recently switched to TLCing CR. I've been doing TLC passes of his CR TLCs instead of his OTLs, and they've all been, without fail, of much lower quality than his OTL scripts. I'm not trying to throw any shade at him, because his OTL scripts are great. It's the same guy working on them though, so why are the scripts are _this_ different?
+
+I can think of a few reasons. If he were to come up with the lines from scratch, he would write them in his own writing style. However, if he's working with a CR script, then he's got a base that he's stuck with. Those lines won't necessarily be written in the same flavour, and won't be entirely rewritten to get to that point. They'll typically only be tweaked around their current form. This will lead to a line that's likely better than the CR line, but different to (and not as good as) the line that would have been created had he come up with it from scratch.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/peopledie.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-I've been working on a project as TLC with another TL, and he's recently switched to TLCing CR instead. I've been doing TLC passes of his CR TLCs instead of his OTLs, and they've all been, without fail, of much lower quality than his OTL scripts. I'm not trying to throw any shade at him, because his OTL scripts are great. It's the same guy working on them, though, why are the scripts are _this_ different?
+It may seem obvious, but the base TL is what influences the final script the most. If I were a bit smarter, I'd try to come up with an analogy about soup broth or something, but I think you get the picture. Starting off with something subpar forces you to compensate, when it would be preferable to just start off with something good in the first place. Again I want to point out that this holds true even in the case of a "good" CR script, because "good" almost always means "better than CR's usual", not "as good as an OTL".
 
-I can think of a few reasons. If he were to come up with the lines from scratch, he would write them in his own writing style. However, if he's working with a CR script, then he's got a base that he's stuck with. Those lines won't necessarily be in the same style, and won't be entirely rewritten to get to that point. They'll typically only be tweaked around their current form. This will lead to a line that's likely better than the CR line, but different to (and not as good as) the line that would have been created had he come up with it from scratch.
-
-{% capture images %}
-    {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/D_DvVP2XkAEJNSQ.jpg
-{% endcapture %}
-{% include gallery images=images %}
-
-It may seem obvious, but the base TL is what influences the final script the most. If I were a bit smarter, I'd try to come up with an analogy about soup broth, but I think you get the picture. Starting off with something subpar forces you to compensate, when it would be preferable to just start off with something good in the first place. Again I want to point out that this holds true even in the case of a "good" CR script, because "good" almost always means "better than CR's usual", not "as good as an OTL".
-
-This begets complacency as well. Or laziness, if you want to put that connotation on it. This is actually more of an issue if you have a better CR script. It's very easy to read a line, just brush it off as "good enough" and move on if you already have a script in front of you. If you have to think about the line with nothing to work with, chances are you'll be putting a lot more thought into how each and every line should and will be written. Needless to say, you will end up with a better product overall.
+TLCing CR begets complacency as well. Or laziness, if you want to put that connotation on it. This is actually more of an issue if you have a better CR script. It's very easy to read a line, just brush it off as "good enough" and move on if you already have a script in front of you. If you have to think about the line with nothing to work with, chances are you'll be putting a lot more thought into how each and every line should and will be written. Needless to say, you will end up with a better product overall.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/D_TFzPVWkAAkoiW.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-Another issue is the fact that the TLC can't talk to the TL. The TLC doesn't just check for mistakes, as the position title would imply. They also hang around to bounce ideas off and cover for lines the TL is unsure about, because let's face it, TLs are far from perfect.
+Another issue with TLCing CR is the fact that the TLC can't talk to the TL. The TLC doesn't just check for mistakes, as the position title would imply. They also hang around to bounce ideas off and cover for lines the TL is unsure about, because let's face it, TLs are far from perfect.
 
 This is an important interaction that's being entirely removed from the process. On top of affecting the quality of the release, there won't be anyone around to help when the TLC gets stuck either. Let's not even get started on subbing without a TL _or_ a TLC.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">all memes are correct translations.</p>&mdash; VX skiddiks XV (@heavenrend) <a href="https://twitter.com/heavenrend/status/1131947604227559425?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-All that being said, I'm not trying to start a revolt to make everyone OTL. Of course, doing an OTL is a lot more fun (and we're doing this for fun, aren't we?), but the time commitment can be daunting. CR TLCs have their place depending on your effort and care factors, but you can still make the most of it. What kind of blankaex blog would this be if I didn't give unwarranted and unsolicited advice despite having no authority on the matter?
+All that being said, I'm not trying to start a revolt to make everyone OTL. Of course, doing an OTL is a lot more fun (and we're doing this for fun, aren't we?), but the time commitment can be daunting. CR TLCs have their place depending on your effort and care factors, but you don't have to settle. What kind of Blankaex blog would this be if I didn't give unwarranted and unsolicited advice despite having no authority on the matter?
 
-Think of the TLC's role not as "a spellcheck but for translations", but rather "an editor that speaks Japanese". Be liberal with your changes. I don't mean avoid literal translations, rather don't be afraid to make changes. Make as many as you feel you need to, no matter how minor, and then make a few more. Most importantly, be constantly asking yourself "is this how this character would say this line if they spoke English?" 
+Think of the TLC's role not as "a spellcheck but for translations", but rather "an editor that speaks Japanese". Be liberal with your changes. I don't mean you should avoid literal translations. Instead, don't be afraid to make changes. Make as many as you feel you need to, no matter how minor, and then make a few more. Most importantly, be constantly asking yourself "is this how this character would say this line if they spoke English?" 
 
-In fact, have some examples of common CR issues from an episode of Accelerator.
+In fact, have some examples of common CR issues from an Accelerator script.
 
 **Repetition:**
 ```
