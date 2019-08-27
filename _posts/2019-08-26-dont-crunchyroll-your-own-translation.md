@@ -29,7 +29,7 @@ In contrast, a good fansubber usually writes in more natural English. Their line
 
 The disparity is quite noticeable when put side-by-side, so you get a rather interesting product when you put the two together. Normally you'd have a TLC go over the CR script to check for mistakes and whatnot, and then it's business as usual. However, I think there's a bit of a difference between TLCing a fansubber's script and TLCing a pro's script.
 
-Now I'm aware that professional translators are people too, but the scripts you see are again usually quite "robotic". Think machine translation. When the TLC does a pass on this script, the difference in styles (as vague and anecdotal as it may sound) often results in a lower quality script than what you'd have if the TLC worked off an OTL.
+Now I'm aware that professional translators are people too, but the scripts you see are again usually quite "robotic". Think machine translation. When the TLC does a pass on this script, the difference in styles (as vague and anecdotal as this may sound) often results in a lower quality script than what you'd have if the TLC worked off an OTL.
 
 This is irrespective of the perceived "quality" of the pro script, because the translating style is so fundamentally different. So, even if you have an allegedly good pro script, it will still be different to a good fan script, and the result is usually not quite as good.
 
@@ -64,11 +64,9 @@ This is an important interaction that's being entirely removed from the process.
 
 All that being said, I'm not trying to start a revolt to make everyone OTL. Of course, doing an OTL is a lot more fun (and we're doing this for fun, aren't we?), but the time commitment can be daunting. CR TLCs have their place depending on your effort and care factors, but you don't have to settle. What kind of Blankaex blog would this be if I didn't give unwarranted and unsolicited advice despite having no authority on the matter?
 
-Think of the TLC's role not as "a spellcheck but for translations", but rather "an editor that speaks Japanese". Be liberal with your changes. I don't mean you should avoid literal translations. Instead, don't be afraid to make changes. Make as many as you feel you need to, no matter how minor, and then make a few more. Most importantly, be constantly asking yourself "is this how this character would say this line if they spoke English?" 
+Think of the TLC's role not as "a spellcheck but for translations", but rather "an editor that speaks Japanese". Be liberal with your changes. I don't mean you should avoid literal translations. Instead, don't be afraid to make changes. Make as many as you feel you need to, no matter how minor, and then make a few more. Most importantly, be constantly asking yourself "is this how this character would say this line if they spoke English?" In fact, have some examples of common CR issues from an Accelerator script.
 
-In fact, have some examples of common CR issues from an Accelerator script.
-
-**Repetition:**
+**Awkward repetition:**
 ```
 < Dialogue: 0,0:03:40.57,0:03:42.57,GJM_Main,,0,0,0,,Yeah, all right, all right.
 ---
