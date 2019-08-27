@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't Crunchyroll Your Own Translation"
 date:   2019-08-26
-excerpt: "My thoughts on using Crunchyroll scripts for fansubbing projects."
+excerpt: "TLCing CR might seem like a good way to save time, but there are a few issues that come with the territory."
 tag:
 - Anime
 - Fansubbing
