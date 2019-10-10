@@ -133,8 +133,7 @@ img {
 }
 figure {
   margin: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: none;
   @include clearfix();
   img {
     margin-bottom: 10px;
