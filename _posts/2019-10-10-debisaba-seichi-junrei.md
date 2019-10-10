@@ -63,11 +63,14 @@ tag:
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162204.jpg
+{% endcapture %}
+{% include gallery images=images caption="カラスの写真絶対インスタ映えする" %}
+{% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_161922.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162537.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162712.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="カラスの写真絶対インスタ映えする" %}
+{% include gallery images=images cols=3 caption="カラスの写真絶対インスタ映えする" %}
 
 写真撮ってから長居は意味ないと判断し、今度こそ青山へ向かった。霊園が広くて聖地見つかりづらいかなーって思った途端普通に眼の前にあった。振り返るとそこにもあった。案外全部似てたから1番似てるやつを貼ってたけど1箇所の再現ではなく霊園全体の雰囲気を元にしたかもしれない。てか全部そうかも。
 
