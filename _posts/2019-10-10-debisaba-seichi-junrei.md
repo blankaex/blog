@@ -28,7 +28,8 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_140524.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141325.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 %}{% capture images %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141158.jpg
 {% endcapture %}
 {% include gallery images=images caption="昼飯" %}
