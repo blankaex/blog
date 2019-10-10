@@ -18,7 +18,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_131331.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_131904.jpg
 {% endcapture %}
-{% include gallery images=images caption="完全にデビサバのステージ" %}
+{% include gallery images=images cols=3 caption="完全にデビサバのステージ" %}
 
 目的地は他でもなく[東京ドーム](https://www.google.com/maps/place/東京ドーム/@35.7056396,139.7497026,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c4782eed4f3:0x5058b288249e640e!8m2!3d35.7056396!4d139.7518913)だった。見覚えあるのでしょうか？ゲーム内の登場は少なくはなかったけど1番印象に残ったのはやはり1日目のウェンディゴボス戦だった。最初にやった頃、かなりキツい戦いだって記憶がある。確かここでカイドーとパズズとの戦闘もあったはず。
 
@@ -29,7 +29,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141158.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141325.jpg
 {% endcapture %}
-{% include gallery images=images caption="昼飯" %}
+{% include gallery images=images cols=3 caption="昼飯" %}
 
 とはいえドーム見るだけで1日かかんないから他もみた。聖地をもっと見ようと思ったけどちょうど昼頃だったから一旦飯にした。水道橋で大学に通ってた友達がいて、日本人しか知らない店紹介してもらったからせっかくだから行ってみた。ドームからちょっと歩いて[さぼうる](https://tabelog.com/tokyo/A1310/A131003/13000609/)という喫茶店に着いた。
 
@@ -41,7 +41,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_145009.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_145817.jpg
 {% endcapture %}
-{% include gallery images=images %}
+{% include gallery images=images cols=2 caption="たい焼き自体の写真がないｗ" %}
 
 昼食ったらついでに近くの[たいやき神田達磨](https://tabelog.com/tokyo/A1310/A131003/13100660/)のあんこも食ってみた。ちょっと面白い形でカリカリして普通にうまかった。けどグルメのブログじゃないから次行こう。
 
@@ -50,7 +50,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_153012.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_153031.jpg
 {% endcapture %}
-{% include gallery images=images caption="ステージマジであのままだった" %}
+{% include gallery images=images cols=3 caption="ステージマジであのままだった" %}
 
 食ったあとの軽い運動として九段下へ歩いた。行く予定はなかったけど喫茶店に向かってた時、看板で割と近いと気付き昼終わったら行こうって決めた。理由はもちろん、デビサバの聖地だからだ。九段下といえば1つしか考えられない。そう、[日本武道館](https://www.google.com/maps/place/日本武道館/@35.6933175,139.7476963,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c6b802bf413:0x215b5c71c9657188!8m2!3d35.6933175!4d139.749885)。
 
@@ -69,7 +69,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162537.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162712.jpg
 {% endcapture %}
-{% include gallery images=images caption="カラスの写真絶対インスタ映えする" %}
+{% include gallery images=images cols=2 caption="カラスの写真絶対インスタ映えする" %}
 
 写真撮ってから長居は意味ないと判断し、今度こそ青山へ向かった。霊園が広くて聖地見つかりづらいかなーって思った途端普通に眼の前にあった。振り返るとそこにもあった。案外全部似てたから1番似てるやつを貼ってたけど1箇所の再現ではなく霊園全体の雰囲気を元にしたかもしれない。てか全部そうかも。
 
@@ -80,7 +80,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_164951.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_165301.jpg
 {% endcapture %}
-{% include gallery images=images caption="ステージへ登る階段はこれか？" %}
+{% include gallery images=images cols=3 caption="ステージへ登る階段はこれか？" %}
 
 さて、始まりの場所の次は終わりの場所ほど相応しい場所はない。青山霊園から出て（広過ぎて思ったより大変だった）徒歩で[六本木ヒルズ](https://www.google.com/maps/place/六本木ヒルズ/@35.6602384,139.727888,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b771049dc33:0x5bfe0248594cc802!8m2!3d35.6602384!4d139.7300767)へ移動した。感想としては高そうな服屋やレストランがあるイメージ？実際は多分そうだし。外人狩りかな？どっちでもいいけど。
 
@@ -92,7 +92,7 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174243.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174514.jpg
 {% endcapture %}
-{% include gallery images=images caption="正確な場所わかんないんだよな、けどとりあえず東京タワー写ってるから" %}
+{% include gallery images=images cols=2 caption="正確な場所わかんないんだよな、けどとりあえず東京タワー写ってるから" %}
 
 眺め終わったら最後の1箇所が残ってた。いや、正確に言うと多分その時点で思いついた。それは[芝公園](https://www.google.com/maps/place/芝公園/@35.6550208,139.7440036,16.5z/data=!4m8!1m2!2m1!1z6Iqd5YWs5ZyS!3m4!1s0x60188bbedd7d8b69:0x58a924b663773b45!8m2!3d35.654938!4d139.7479837)だった。ケイスケとヤマと戦った場所でもあるが、何故か1番印象深かったのはアマネとその父の説法だった。確か2日目でここで翔門会とあって、正式にアマネと話したな。うん、今でも思い出せる。マインドアマネガチでエロかった。
 
