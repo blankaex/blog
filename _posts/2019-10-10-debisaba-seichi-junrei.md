@@ -25,10 +25,14 @@ tag:
 デビサバが本当に好きなのでそこの階段を生で見た瞬間ちょっとだけ感動した。聖地巡礼のいいところも何となくわかってきた気がした。あー、ここであれがあったなーって。最初はこういう聖地ってのは全部地味で普通なところだけじゃんって思ったけどやっぱ何かのつながりがあるから面白いんだよね。
 
 {% capture images %}
-    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141158.jpg
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_140524.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141325.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="昼飯" %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_141158.jpg
+{% endcapture %}
+{% include gallery images=images caption="昼飯" %}
 
 とはいえドーム見るだけで1日かかんないから他もみた。聖地をもっと見ようと思ったけどちょうど昼頃だったから一旦飯にした。水道橋で大学に通ってた友達がいて、日本人しか知らない店紹介してもらったからせっかくだから行ってみた。ドームからちょっと歩いて[さぼうる](https://tabelog.com/tokyo/A1310/A131003/13000609/)という喫茶店に着いた。
 
