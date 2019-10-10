@@ -97,6 +97,9 @@ tag:
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_172911.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_172951.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174243.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174514.jpg
 {% endcapture %}
