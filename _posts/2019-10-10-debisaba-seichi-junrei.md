@@ -44,11 +44,14 @@ tag:
 昼食ったらついでに近くの[たいやき神田達磨](https://tabelog.com/tokyo/A1310/A131003/13100660/)のあんこも食ってみた。ちょっと面白い形でカリカリして普通にうまかった。けどグルメのブログじゃないから次行こう。
 
 {% capture images %}
-    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_152743.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_153012.jpg
+{% endcapture %}
+{% include gallery images=images %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_152743.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_153031.jpg
 {% endcapture %}
-{% include gallery images=images cols=3 caption="ステージマジであのままだった" %}
+{% include gallery images=images cols=2 caption="ステージマジであのままだった" %}
 
 食ったあとの軽い運動として九段下へ歩いた。行く予定はなかったけど喫茶店に向かってた時、看板で割と近いと気付き昼終わったら行こうって決めた。理由はもちろん、デビサバの聖地だからだ。九段下といえば1つしか考えられない。そう、[日本武道館](https://www.google.com/maps/place/日本武道館/@35.6933175,139.7476963,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c6b802bf413:0x215b5c71c9657188!8m2!3d35.6933175!4d139.749885)。
 
@@ -64,7 +67,7 @@ tag:
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162204.jpg
 {% endcapture %}
-{% include gallery images=images caption="カラスの写真絶対インスタ映えする" %}
+{% include gallery images=images %}
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_161922.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162537.jpg
