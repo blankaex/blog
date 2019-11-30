@@ -28,7 +28,7 @@ Unlike many others before him, he did not boast a burning passion to become the 
 {% endcapture %}
 {% include gallery images=images %}
 
-Before he set off on his journey, he frequented Professor Birch's laboratory to do as much research as possible. Day after day, he would be poring over the professor's research materials and absorbing knowledge of not only different species of Pokémon, but also the tactics of battle and the governing systems in place in Hoenn.
+Before he set off on his journey, he frequented Professor Birch's laboratory to do as much study as possible. Day after day, he would be poring over the professor's research materials and absorbing knowledge of not only different species of Pokémon, but also the tactics of battle and the governing systems in place in Hoenn.
 
 Impressed by his dedication, the professor began to show interest in Albert's studies and noticed his slight obsession with steel-type Pokémon. In order to give him the luxury of choice, the professor rounded up a few steel-type Pokémon. He had planned to bestow one to Albert, but when the time came, Albert took the professor by surprise.
 
@@ -168,6 +168,6 @@ Once Albert and Elesa had joined forces, they established a series of tournament
 
 This lifestyle, while enjoyable, grew stale as one would expect. Elesa had become ever so slightly homesick, and had also been neglecting her duties as a model and gym leader. Albert was also curious about the Unova region, and was hoping to test his skills against other trainers as strong as Elesa.
 
-Naturally, the two found themselves bidding farewell to the Hoenn region. Unsurprisingly, the titles of Hoenn Champion were snapped up promptly by eager trainers in the following tournaments, but the Steel and Electric pair had their own agenda that they would see to with their Pokémon once they had settled down in Unova.
+Eventually, the two found themselves bidding farewell to the Hoenn region. Unsurprisingly, the titles of Hoenn Champion were snapped up promptly by eager trainers in the following tournaments, but the Steel and Electric pair had their own agenda that they would see to with their Pokémon once they had settled down in Unova.
 
 _Never to be continued..._
