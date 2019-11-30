@@ -95,7 +95,7 @@ Adamant Nature
 - Swords Dance
 ```
 
-Bisharp was a set-up sweeper that boasted similar strengths to Absol. He had a powerful STAB core of Knock Off and Iron Head, with Sucker Punch as priority for good measure. A single Swords Dance also made him menacing to deal with, as a +2 Black Hole Eclipse could OHKO Pokémon such as Mega Sableye, Celesteela, Toxapex and Mega Scizor, Pokémon that would otherwise wreak havoc on Albert's party.
+Bisharp was a set-up sweeper that boasted similar strengths to Absol. He had a powerful STAB core of Knock Off and Iron Head, with Sucker Punch as priority for good measure. A single Swords Dance also made him a menace to deal with, as a +2 Black Hole Eclipse could OHKO Pokémon such as Mega Sableye, Celesteela, Toxapex and Mega Scizor, Pokémon that would otherwise wreak havoc on Albert's party.
 
 ```
 Aegislash @ Leftovers
@@ -137,16 +137,16 @@ Albert was unimpressed by the performance of the so-called Elite Four, but had n
 {% endcapture %}
 {% include gallery images=images %}
 
-Under Albert's new system, each player had an associated [Converging Order-Invariant Ladder (COIL) Score](https://www.smogon.com/forums/threads/coil-explained.3508013/), which was crafted to indicate the trainer's skill level as accurately as possible. It was a function designed to take multiple variables into consideration, so that a trainer who had a 100% win rate from winning one battle was not considered more skilled than one who had a 99% win rate across a thousand battles.
+Under Albert's new system, each trainer had an associated [Converging Order-Invariant Ladder (COIL) Score](https://www.smogon.com/forums/threads/coil-explained.3508013/), which was crafted to indicate the trainer's skill level as accurately as possible. It was a function designed to take multiple variables into consideration, so that a trainer who had a 100% win rate from winning one battle was not considered more skilled than one who had a 99% win rate across a thousand battles.
 
-Tournaments would be held at odd intervals, where only players with a COIL over a certain threshold were able to participate. The winner of this tournament would be crowned champion until he or she was potentially dethroned in the next tournament. After each tournament, all trainers had their COIL scores reset, bringing everyone back to the same starting point.
+Tournaments would be held at odd intervals, where only trainers with a COIL over a certain threshold were able to participate. The winner of this tournament would be crowned champion until he or she was potentially dethroned in the next tournament. After each tournament, all trainers had their COIL scores reset, bringing everyone back to the same starting point.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-11-30-pokemon-oc/1441267801313.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-Albert's system received much praise, as it put every trainer on equal footing rather than pitting individuals against arbitrarily-chosen gym leaders. It gave an incentive to players to battle as much as possible in between tournaments to raise their COIL rating, and gym leaders also benefited from their gyms becoming local meccas for fostering talent and hosting battles.
+Albert's system received much praise, as it put every trainer on equal footing rather than pitting individuals against arbitrarily-chosen gym leaders. It gave an incentive to trainers to battle as much as possible in between tournaments to raise their COIL rating, and gym leaders also benefited from their gyms becoming local meccas for fostering talent and hosting battles.
 
 Months passed, and Albert had won consecutive tournaments with little trouble and held onto his title of champion thanks to his Absol. Surprisingly, his challengers were never discouraged, and requested to face him again and again. Due to the implementation of the COIL score and tournament format, they were confident that it was only skill and not a flawed system that set them apart, and sought to improve.
 
