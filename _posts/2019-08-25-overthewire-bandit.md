@@ -16,7 +16,7 @@ That being said, I realised that I don't have any posts on my blog about cyber s
 
 ## Level 0
 ```
-ツ ssh bandit0@bandit.labs.overthewire.org -p 2220
+$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 bandit0
 ```
 
