@@ -18,6 +18,12 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_131331.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_131904.jpg
 {% endcapture %}
+{% include gallery images=images cols=3 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/suidobashi-1.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/suidobashi-2.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/suidobashi-3.png
+{% endcapture %}
 {% include gallery images=images cols=3 caption="完全にデビサバのステージ" %}
 
 目的地は他でもなく[東京ドーム](https://www.google.com/maps/place/東京ドーム/@35.7056396,139.7497026,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c4782eed4f3:0x5058b288249e640e!8m2!3d35.7056396!4d139.7518913)だった。見覚えあるのでしょうか？ゲーム内の登場は少なくはなかったけど1番印象に残ったのはやはり1日目のウェンディゴボス戦だった。最初にやった頃、かなりキツい戦いだって記憶がある。確かここでカイドーとパズズとの戦闘もあったはず。
@@ -55,7 +61,13 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_152743.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_153031.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="ステージマジであのままだった" %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/budoukan-1.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/budoukan-2.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/budoukan-3.png
+{% endcapture %}
+{% include gallery images=images cols=3 caption="ステージマジであのままだった" %}
 
 食ったあとの軽い運動として九段下へ歩いた。行く予定はなかったけど喫茶店に向かってた時、看板で割と近いと気付き昼終わったら行こうって決めた。理由はもちろん、デビサバの聖地だからだ。九段下といえば1つしか考えられない。そう、[日本武道館](https://www.google.com/maps/place/日本武道館/@35.6933175,139.7476963,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c6b802bf413:0x215b5c71c9657188!8m2!3d35.6933175!4d139.749885)。
 
@@ -64,7 +76,17 @@ tag:
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_155920.jpg
 {% endcapture %}
-{% include gallery images=images caption="多分ここかな？" %}
+{% include gallery images=images %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/omotesando-1.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/omotesando-2.png
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/omotesando-3.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/omotesando-4.png
+{% endcapture %}
+{% include gallery images=images cols=2 caption="多分ここかな？" %}
 
 次は[青山霊園](https://www.google.com/maps/place/青山霊園+東十四通り/@35.667028,139.7197327,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b62ca6eed21:0x880e44263ab0931a!8m2!3d35.667028!4d139.7219214)。のつもりだったけど、流石に歩ける距離じゃなかったから電車のルート調べると[表参道](https://www.google.com/maps/place/表参道駅/@35.6652511,139.7099034,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c9fee70f285:0x4054b8b23563631c!8m2!3d35.6652511!4d139.7120921)で乗り換えることになったから寄っていくしかなかったよね？ジンの店の場所だね。流石イケメン、高級なところじゃん。表参道覚えてるのは多分、ソデコが原宿と表参道を比較したシーンで毎回お前にはまだ早いっていじめてたから。
 
@@ -77,7 +99,17 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162537.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_162712.jpg
 {% endcapture %}
-{% include gallery images=images cols=3 caption="カラスの写真絶対インスタ映えする" %}
+{% include gallery images=images cols=3 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/aoyama-1.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/aoyama-2.png
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/aoyama-3.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/aoyama-4.png
+{% endcapture %}
+{% include gallery images=images cols=2 caption="カラスの写真絶対インスタ映えする" %}
 
 写真撮ってから長居は意味ないと判断し、今度こそ青山へ向かった。霊園が広くて聖地見つかりづらいかなーって思った途端普通に眼の前にあった。振り返るとそこにもあった。案外全部似てたから1番似てるやつを貼ってたけど1箇所の再現ではなく霊園全体の雰囲気を元にしたかもしれない。てか全部そうかも。
 
@@ -88,7 +120,17 @@ tag:
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_164951.jpg
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_165301.jpg
 {% endcapture %}
-{% include gallery images=images cols=3 caption="ステージへ登る階段はこれか？" %}
+{% include gallery images=images cols=3 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/roppongi-1.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/roppongi-2.png
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+{% capture images %}
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/roppongi-3.png
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/roppongi-4.png
+{% endcapture %}
+{% include gallery images=images cols=2 caption="ビルの中入らなかったな" %}
 
 さて、始まりの場所の次は終わりの場所ほど相応しい場所はない。青山霊園から出て（広過ぎて思ったより大変だった）徒歩で[六本木ヒルズ](https://www.google.com/maps/place/六本木ヒルズ/@35.6602384,139.727888,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b771049dc33:0x5bfe0248594cc802!8m2!3d35.6602384!4d139.7300767)へ移動した。感想としては高そうな服屋やレストランがあるイメージ？実際は多分そうだし。外人狩りかな？どっちでもいいけど。
 
@@ -101,7 +143,7 @@ tag:
 {% include gallery images=images cols=2 %}
 {% capture images %}
     {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174243.jpg
-    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/IMG_20191003_174514.jpg
+    {{ site.url }}/assets/res/2019-10-10-debisaba-seichi-junrei/shiba-kouen-1.png
 {% endcapture %}
 {% include gallery images=images cols=2 caption="正確な場所わかんないんだよな、けどとりあえず東京タワー写ってるから" %}
 
