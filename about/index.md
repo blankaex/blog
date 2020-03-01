@@ -12,4 +12,4 @@ feature: assets/img/header.jpg
 	<h4 style="margin-top: -20px;">IAちゃんまじかわイア</h4>
 </center>
 
-I'm a cyber security professional that plays Tekken, Shadowverse and visual novels. I also program, build arcade controllers and translate on the side. My infrequent blog posts will probably have something to do with at least one of those things.
+I'm a cyber security professional and play fighting games, card games and visual novels. I also program, build arcade controllers and translate on the side. My sporadic blog posts will probably have something to do with at least one of those things.
