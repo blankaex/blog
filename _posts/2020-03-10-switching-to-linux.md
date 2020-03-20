@@ -7,7 +7,7 @@ tag:
 - Linux
 ---
 
-If you're reading this blog post, then you're probably one of my friends, because no one else reads my blog. But if you're not, then you're probably someone who's already considering switching your main operating system to some flavour (read: distro) of Linux. And the reason you haven't switched yet is because you still have some lingering concerns. If this sounds like you, then you've come to the right place.
+If you're reading this blog post, then you're probably one of my friends, because no one else reads my blog. But if you're not, then you're probably someone who's already considering switching your main operating system to some flavour of Linux. And the reason you haven't switched yet is because you still have some lingering concerns. If this sounds like you, then you've come to the right place.
 
 I, like many others, used Windows as my main operating system for quite a long time, and I, like many others, found myself riddled with inconveniences at every stop and turn. I thought it was ridiculous that I had to jump through so many flaming hoops just to achieve basic quality of life changes, and that I had to reinstall my operating system every 6-12 months just to keep it afloat. 
 
@@ -31,7 +31,7 @@ The first step is to choose your distro. Once you've done that, the rest is quit
 
 I'm sure you've done some research and found a clickbait article or two that gave you recommendations with flimsy justifications along the lines of _"beginner friendly"_ or _"similar to Windows"_. Let me just make one thing clear before we move on: **all of that is completely bullshit**. The fact of the matter is, all distros are more or less the same thing. Anything you can do on Ubuntu, you can do on Debian, Fedora, Red Hat, Mint, Manjaro, Gentoo, Red Star, [Fried Chicken Linux](https://github.com/sacmt-hciie/fried-chicken-linux) or whatever—it might just be called something else.
 
-This includes, by the way, the "theme" of your OS. I'm sure part of, or maybe even most of your reason for wanting to switch to Linux is to imitate a cool setup you saw on a desktop thread on /g/, so naturally you would want to go for the same distro. However, the look and feel of your environment is _completely independent_ of your distribution. Unlike changing visual styles on Windows, where only a couple of colours will get tweaked, changing window managers or desktop environments on a Linux distro can get you from [this]({{ site.url }}/assets/res/2020-03-10-switching-to-linux/b231d61f93f00151c0059847ebf3636cf563e9a9.png) to [this]({{ site.url }}/assets/res/2020-03-10-switching-to-linux/1535239046271.gif), so no need to worry about your rice.
+This includes, by the way, the "theme" of your OS. I'm sure part of, or maybe even most of your reason for wanting to switch to Linux is to imitate a "cool" setup you saw on a desktop thread on /g/, so naturally you would want to go for the same distro. However, the look and feel of your environment is _completely independent_ of your distribution. Unlike changing visual styles on Windows, where only a couple of colours will get tweaked, changing window managers or desktop environments on a Linux distro can get you from [this]({{ site.url }}/assets/res/2020-03-10-switching-to-linux/b231d61f93f00151c0059847ebf3636cf563e9a9.png) to [this]({{ site.url }}/assets/res/2020-03-10-switching-to-linux/1535239046271.gif), so no need to worry about your rice.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-03-10-switching-to-linux/screenshot.png
@@ -53,7 +53,7 @@ I know what you're going to say. _Blank, recommending a distro that isn't Arch? 
 
 Arch doesn't come with very many things. After a complete install, you won't have a file manager, a web browser, an image viewer, a video player, a word processor or anything you might consider "essential". Heck, you won't even have a graphical environment. All you get is a command line. This is a _good_ thing, because you can install exactly what you want and nothing more. Unfortunately, this doesn't apply to new Linux users because you _won't know_ what you want.
 
-Of course, you _could_ use Arch and try all the different Linux offerings, but let's face it, no one has the time or patience for that. More likely than not, you'll have no idea where to start because there are so many options, and you'll just be miserable and get traumatised and leave Linux. It's the problem of choice all over again. I think it's much more beneficial to start off with what Fedora gives you, so you can learn what you do and don't like, and then adjust as necessary. The key here is to be open to change.
+Of course, you _could_ use Arch and try all the different Linux offerings one by one, but let's face it, no one has the time or patience for that. More likely than not, you'll have no idea where to start because there are so many options, and you'll just be miserable and get traumatised and leave Linux. It's the problem of choice all over again. I think it's much more beneficial to start off with what Fedora gives you, so you can learn what you do and don't like, and then adjust as necessary. The key here is to be open to change.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-03-10-switching-to-linux/1408602060602.jpg
