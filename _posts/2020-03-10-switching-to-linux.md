@@ -38,7 +38,7 @@ This includes, by the way, the "theme" of your OS. I'm sure part of, or maybe ev
 {% endcapture %}
 {% include gallery images=images %}
 
-_Why Fedora, then?_ Because it has great defaults. It's super easy to get up and running, and it's immediately usable out of the box. It comes with all the essentials, and it's usually a walk in the park to install anything else you might want. It's also actively maintained, so you'll constantly be getting the latest security updates and modern software. On top of that, it's very well-documented, so you'll have no trouble finding your way around.
+_Why Fedora, then?_ Because it has great defaults. It's super easy to get up and running, and it's immediately usable out of the box. It comes with all the essentials, and is extremely well-integrated with the Linux ecosystem (i.e. [GNOME](https://en.wikipedia.org/wiki/GNOME), [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)). In fact, managing SELinux on Fedora is seamless because Red Hat maintains it. Your binaries will ship with the best protections, and you'll appreciate the minimal install option if you decide to eventually go down the power user rabbit hole.
 
 _But if distros are mostly the same, then can't I just use anything?_ No. The things I mentioned above are some of the few ways distros _can_ differ, and you definitely want all of those things. Just trust me on this one. Try Fedora for a few months, even if nothing about it seems appealing to you. Just as your first car need not be your last car, your first Linux distro need not be your last Linux distro.
 
