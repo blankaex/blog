@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Nigerian Prince in 2020"
+title:  "Bank Scam Theorycrafting"
 date:   2020-06-25
-excerpt: ""
-hidden: true
+excerpt: "Are Nigerian princes still roaming the wild in 2020?"
 tag:
 - Security
 ---
 
-One of my friends recently fell victim to a pretty unremarkable banking scam. Unsurprisingly, he was pretty annoyed, but interestingly, the bank allegedly told him that they had no idea how the attack was carried out with such limited information, and they had never seen this specific M.O..
+One of my friends recently fell victim to a pretty rudimentary and unremarkable banking scam. Unsurprisingly, he was pretty annoyed, but interestingly, the bank allegedly told him that they had no idea how the attack was carried out with such limited information, and they had never seen this specific M.O..
 
-Now, if you're anything like me then you probably wouldn't trust a customer facing branch representative to know much about fraud and social engineering attacks. This led me to do my own little "investigation" (read: googling for a few sources) to try and piece together how I think the attack took place. Let's take a look at what we've got.
+Now, if you're anything like me then you probably wouldn't trust a customer facing branch representative to be the most informed about fraud and social engineering attacks. This led me to do my own little "investigation" (read: googling for a few sources) to try and piece together how I think the attack took place, mostly as a thinking exercise. Let's take a look at what we've got.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/1.jpg
@@ -19,21 +18,23 @@ Now, if you're anything like me then you probably wouldn't trust a customer faci
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
-My friend noticed that $30 had been deposited into his account, so he returned the money as requested. Shortly afterwards, he noticed several large outbound transactions from his account. Upon trying to contact "Vishal" again, he discovered that the phone number had been deactivated and he was a large sum out of pocket. All he did was transfer some money; how did the attacker end up authorising multiple deposits?
+My friend noticed that $30 had indeed been deposited into his account, so he returned the money as requested. Shortly afterwards, he noticed several large outbound transactions from his account. Upon trying to contact "Vishal" again, he discovered that the phone number had been deactivated and he was a large sum out of pocket. All he did was transfer some money; how did the attacker end up authorising multiple deposits?
 
-As a side note, it's pretty inconvenient to keep saying "my friend", so let's call him Kenji from now on. Obviously that's not his real name, but I may as well do my due dilligence to protect his identity. Here's a picture of him.
+As a side note, it's pretty inconvenient to keep saying "my friend", so let's call him Kenji from now on. Obviously that's not his real name, but I may as well do my due diligence to protect his identity. Here's a picture of him.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/kenji.png
 {% endcapture %}
 {% include gallery images=images %}
 
-Anyway, let's list out the events in chronological order to help us get a better picture of what's going on. Then we can dive into each of the individual steps and see if we can figure out how each step was carried out. I can already see all of the "how did he—?" questions, but patience is key. I'll try to address all of the ones that come to mind.
+Anyway, let's list out the events in chronological order to help us get a better picture of what's going on. Then we can dive into each of the individual steps and see if we can figure out how each step was carried out.
 
 1. Vishal transferred $30 into Kenji's bank account.
 2. Vishal texted Kenji and requested the $30 be returned.
 3. Kenji transferred the $30 back to Vishal.
 4. Vishal gained access to Kenji's bank account and stole all of his money.
+
+**Full disclosure, there are a lot of unknowns and I don't claim to know exactly how any of this took place. Everything on this post is just conjecture. Take it with a grain of salt.**
 
 ## 1. The Initial Deposit
 
@@ -41,14 +42,14 @@ Anyway, let's list out the events in chronological order to help us get a better
 
 **Goal:** To plant money into Kenji's bank account.
 
-This stage is easy. Depositing money into a stranger's bank account is a trivial matter. BSBs and account numbers aren't private information. They're _intended_ to be shared, so that people can send you money. Chances are this was leaked in one (or several) of myriad conversations where it may have come across. Worst case, you can just guess some numbers and eventually send money to _someone_. In this instance, the money just happened to go to Kenji.
+This stage is easy. Depositing money into a stranger's bank account is a trivial matter. BSBs and account numbers aren't private information. They're _intended_ to be shared, so that people can send you money. Chances are this was leaked in one (or several) of myriad conversations where it may have come up. Worst case, you can just guess some numbers and eventually send money to _someone_. In this instance, the money just happened to go to Kenji.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/deposit.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-The next part is where it gets tricky.
+The next part is where it gets a bit trickier.
 
 ## 2. Getting in Touch
 
@@ -111,7 +112,7 @@ Rep: No, that should be fine. Could you give me the details of the direct debit?
 ... ... ...
 ```
 
-Banks typically ask for a recent transaction as a form of multi-factor authentication, and this is why I figured Vishal may have wanted Kenji to make that initial deposit. This way, he'll have the details of a recent transaction even if he doesn't have access to Kenji's bank account. That would be enough for him to ring up and impersonate Kenji, to set up a direct debit or bank transfer on his behalf.
+Banks typically ask for a recent transaction as a form of authentication, and this is why I figured Vishal may have wanted Kenji to make that initial deposit. This way, he'll have the details of a recent transaction even if he doesn't have access to Kenji's bank account. That would be enough for him to ring up and impersonate Kenji, to set up a direct debit or bank transfer on his behalf.
 
 Unfortunately, Kenji told me that the bank confirmed that no one had called pretending to be him, so there goes that idea. I wasn't back at the drawing board for very long though. Rereading the _Wired_ article I linked above reminded me that all the information we know Vishal has—phone number, and last few digits of card number—are generally visible on most online services. Try logging into your own Google, Apple, Amazon, or whatever. You should be able to find these tidbits in seconds.
 
@@ -126,13 +127,17 @@ I know that Kenji uses an extremely weak password, and he reuses the same passwo
 
 I got him to throw his email into the trusty [haveibeenpwned](https://haveibeenpwned.com/), and sure enough, the results were positive. This neat little app lets you enter in your email address and it will tell you if your credentials have been previously found in a password dump (i.e. from a company getting breached). If you get a positive result here then you may as well throw that email address away. Needless to say, I'm quite confident it would be extremely easy to gain access to one or several of Kenji's accounts. Including his internet banking account.
 
-So assuming Vishal had access to Kenji's internet banking account, all he needed to do was log in and send himself the money. If that's the case, then I'm not sure why he needed Kenji to send him back the $30 in the first place. I have some ideas, but none of them are particularly convincing.
+So assuming Vishal had access to Kenji's internet banking account, all he needed to do was log in and send himself the money. If that's the case, then I'm not sure why he needed Kenji to send him back the $30 from step 3 in the first place. I have some ideas, but none of them are particularly convincing.
 
-My first thought here was that it might have been to get around multi-factor authentication. I know that some banks require MFA for the first transaction to a new payee, but don't for subsequent ones. Turns out Kenji doesn't use MFA though, so perhaps not. Or maybe he does and just doesn't realise it. This seems most likely to me.
+My first thought here was that it might have been to get around multi-factor authentication. I know that some banks require MFA for the first transaction to a new payee, but don't for subsequent ones. So even if Vishal could log into the account, he couldn't make a transaction without the MFA device. Turns out Kenji doesn't use MFA though, so perhaps not. Or maybe he does, and just doesn't realise it.
 
-Alternatively, and a bit of a long shot, it might have been a means of getting Kenji to "mark" Vishal's account as "trusted" by making a transaction from a known device/IP. This might've helped mask Vishal's fraudulent transactions as intended behaviour, or affect the daily transfer limit in some way. It also could've just been reconaissance step to verify that there was a bank account on the other end, and that Kenji's phone number was a target worth pursuing.
+Some banking apps require a one-time password sent via SMS upon installation, but send future OTPs to the app directly and enter them automatically. Kenji claimed that he didn't see a push notification of the sort either, though. Maybe the user is only prompted for MFA on large transactions, but making a small transaction once is enough to bypass the MFA requirement for future transactions? I feel like I might be grasping a bit at this point. A little experimentation with a friend could probably solve this one.
 
-I'm really not too sure though. Barring Vishal having an 0-day on major Australian banks, sending someone money should be a completely safe action that doesn't leak anything sensitive. If you're reading this, "Vishal", I'd be very interested to hear how you did this. There's a link to my _Twitter_ on the homepage.
+Alternatively, sending the money back to Vishal may have revealed some kind of information that he previously didn't have, but needed to make the transactions. These payment logs are largely nondescript as far as I'm aware, but depending on the institution, I wonder if they might include a BSB and account number. If we go by the assumption that Vishal initially sent $30 via _PayID_, then he might not have known Kenji's BSB and account number initially.
+
+To my knowledge, this information alone isn't enough to draft from an account. Otherwise your friends and company could easily just withdraw money from your account based on the payment details you gave them. That said, [Wikipedia seems to indicate](https://en.wikipedia.org/wiki/Financial_system_in_Australia#Direct_entry) that you _can_ debit an account given the BSB/account number. [Official sources](https://www.auspaynet.com.au/resources/direct-entry) seem to agree, but I didn't bother confirming what additional information you might need to do so.
+
+I'm really not too sure about this one, though. Barring Vishal having an 0-day on major Australian banks, sending someone money should be a completely safe action that doesn't leak anything sensitive. If you're reading this, "Vishal", I'd be very interested to hear how you did this. There's a link to my _Twitter_ on the homepage.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/keikaku.jpg
@@ -154,7 +159,7 @@ In this case, there were a lot of red flags right from the get-go. No bank would
 
 ### 2. Throw away the bank account
 
-It's clearly been breached. I wouldn't trust any money going in or out of that account anymore. Close it and open a new one. Preferably at another bank that actually gives more than 1% interest, but that's a different discussion.
+It's clearly been breached. I wouldn't trust any money going in or out of that account anymore. Close it and open a new one. Preferably at another bank that actually gives more than 1% savings interest, but that's a different discussion.
 
 ### 3. Throw away the email too
 
@@ -162,7 +167,7 @@ Same reason as above. It's compromised, don't trust it. Make a new one and updat
 
 ### 4. Change all your passwords
 
-Your password is garbage and it's the same on all of your accounts. If they guess it once (easy) then they have access to everything else for free. Start with your email addresses and money-related accounts, then go down in order of importance. Give everything a unique and secure password. And don't tell me your password. Why do I know your password?
+Your password is garbage and it's the same on all of your accounts. If they guess it once (easy) then they have access to everything else for free. Start with your email addresses and money-related accounts, then go down in order of importance. Give everything a **unique** and secure password. And don't tell me your password. Why do I know your password?
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/dislike.jpg
@@ -175,6 +180,6 @@ On a related note:
 
 Sign up for Bitwarden\* and get it to generate a new password for all of your services. Keep using it for everything you sign up to. It will also remember all of your passwords for you so that you don't have to. Using a password manager is probably the single best thing you can do in 2020. That conversation is out of scope of this blog post though, so you'll just have to take my word on it for now.
 
-<small>\*I don't actually use it myself, but as far as I know, it's the best open-source and normie-friendly password manager.</small>
+<small>\*I don't actually use it myself, but as far as I know, it's the best open-source and normie-friendly password manager. I'm also not sponsored by them.</small>
 
 And that's all from me. This is the first time I've actually been interested in reader input, so I'm slightly regretting not implementing a comment feed now. I'm sure that will be short-lived though, so go hit me up on Twitter if you have anything you want to share. Goodbye.
