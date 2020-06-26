@@ -116,7 +116,7 @@ Banks typically ask for a recent transaction as a form of authentication, and th
 
 Unfortunately, Kenji told me that the bank confirmed that no one had called pretending to be him, so there goes that idea. I wasn't back at the drawing board for very long though. Rereading the _Wired_ article I linked above reminded me that all the information we know Vishal has—phone number, and last few digits of card number—are generally visible on most online services. Try logging into your own Google, Apple, Amazon, or whatever. You should be able to find these tidbits in seconds.
 
-Now the question is how did Vishal get into one of _Kenji's_ accounts to take this information? Again, I don't have a good answer here. There are plenty of ways to steal someone's password, and we don't even know which service(s) were compromised. That being said, I do have some ideas, but as before, it's all just conjecture.
+Now the question is how did Vishal get into one of _Kenji's_ accounts to take this information? Again, I don't know the exact answer here. There are plenty of ways to steal someone's password, and we don't even know which service(s) were compromised. That being said, I do have some ideas, but as before, it's all just conjecture.
 
 I know that Kenji uses an extremely weak password, and he reuses the same password on a plethora of services. There are probably alarm bells going off in every security-minded reader's brain right now, and for good reason. He may as well have no password. I'll save the password best practices for another time (in the mean time, check out [the password safety billboards in Harajuku](https://www.ipa.go.jp/security/keihatsu/munekyun-pw/)), but I have another good reason to believe one of Kenji's accounts could be easily compromised:
 
