@@ -9,7 +9,7 @@ tag:
 
 One of my friends recently fell victim to a pretty rudimentary and unremarkable banking scam. Unsurprisingly, he was pretty annoyed, but interestingly, the bank allegedly told him that they had no idea how the attack was carried out with such limited information, and they had never seen this specific M.O..
 
-Now, if you're anything like me then you probably wouldn't trust a customer facing branch representative to be the most informed about fraud and social engineering attacks. This led me to do my own little "investigation" (read: googling for a few sources) to try and piece together how I think the attack took place, mostly as a thinking exercise. Let's take a look at what we've got.
+Now, if you're anything like me then you probably wouldn't trust a customer facing branch representative to be the most informed about fraud and social engineering attacks. This led me to do my own little "investigation" (read: googling for a few sources) to try and piece together how attack took place, mostly as a thinking exercise. Let's take a look at what we've got.
 
 {% capture images %}
     {{ site.url }}/assets/res/2020-06-25-nigerian-prince/1.jpg
@@ -72,7 +72,7 @@ My theory is that Vishal _didn't need to_ extract a phone number from banking in
 
 You may be wondering where I got that quote from. It actually comes from [an article that explains a PayID data breach that happened late last year](https://ia.acs.org.au/article/2019/payid-attack-exposes-bank-account-numbers.html). Funny how that works, huh?
 
-Hopefully you can see where I'm getting at with this. If someone has _PayID_ set up, then you can transfer money to them _via their phone number_. You also use their phone number to get in touch with them. This means that Vishal only needed to find a phone number used for _PayID_, pay them, then text that very same number. He didn't need the BSB or account number in the first place.
+Hopefully you can see where I'm getting at with this. If someone has _PayID_ set up, then you can transfer money to them _via their phone number_. You also use that _very same phone number_ to get in touch with them. This means that Vishal only needed to find a phone number used for _PayID_, pay them, then text that very same number. He didn't need the BSB or account number in the first place.
 
 ## 3. Returning the Money
 
@@ -95,12 +95,14 @@ What we don't know is what Vishal was trying to achieve by getting Kenji to make
 
 **Goal:** To transfer the rest of the funds out of Kenji's account.
 
+This is where it gets a bit dicey.
+
 Recall step 2, where we assume Vishal found Kenji's phone number from a _PayID_ data breach. Chances are, he also found other personal details, like his name and the last few digits of his card number. You know, [the ones that no one seems to think are sensitive enough to hide](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/). Armed with this information, Vishal would have likely been able to call up the bank and make a transaction. I imagine the conversation would go something as follows:
 
 ```
 Bank Representative: Hi, how can we help you today?
 Vishal: Hi, I'm Kenji. I wanted to set up a direct debit, could you help with that?
-Rep: Sure, I'll just need to ask a few questions to make sure it's reall you.
+Rep: Sure, I'll just need to ask a few questions to make sure it's really you.
 Vishal: Sure.
 Rep: What are the last x digits of your card?
 Vishal: xxxxxx.
@@ -131,7 +133,7 @@ So assuming Vishal had access to Kenji's internet banking account, all he needed
 
 My first thought here was that it might have been to get around multi-factor authentication. I know that some banks require MFA for the first transaction to a new payee, but don't for subsequent ones. So even if Vishal could log into the account, he couldn't make a transaction without the MFA device. Turns out Kenji doesn't use MFA though, so perhaps not. Or maybe he does, and just doesn't realise it.
 
-Some banking apps require a one-time password sent via SMS upon installation, but send future OTPs to the app directly and enter them automatically. Kenji claimed that he didn't see a push notification of the sort either, though. Maybe the user is only prompted for MFA on large transactions, but making a small transaction once is enough to bypass the MFA requirement for future transactions? I feel like I might be grasping a bit at this point. A little experimentation with a friend could probably solve this one.
+Some banking apps require a one-time password sent via SMS upon installation, but send future OTPs to the app directly and enter them automatically. Kenji claimed that he didn't see a push notification of the sort either, though. Maybe the user is only prompted for MFA on large transactions to a new account, but making a small transaction once is enough to bypass the MFA requirement for future transactions? I feel like I might be grasping a bit at this point. A little experimentation with a friend could probably solve this one.
 
 Alternatively, sending the money back to Vishal may have revealed some kind of information that he previously didn't have, but needed to make the transactions. These payment logs are largely nondescript as far as I'm aware, but depending on the institution, I wonder if they might include a BSB and account number. If we go by the assumption that Vishal initially sent $30 via _PayID_, then he might not have known Kenji's BSB and account number initially.
 
@@ -180,6 +182,6 @@ On a related note:
 
 Sign up for Bitwarden\* and get it to generate a new password for all of your services. Keep using it for everything you sign up to. It will also remember all of your passwords for you so that you don't have to. Using a password manager is probably the single best thing you can do in 2020. That conversation is out of scope of this blog post though, so you'll just have to take my word on it for now.
 
-<small>\*I don't actually use it myself, but as far as I know, it's the best open-source and normie-friendly password manager. I'm also not sponsored by them.</small>
+<small>\*I don't actually use it myself and I'm not sponsored by them, but as far as I know, it's the best open-source and normie-friendly password manager.</small>
 
 And that's all from me. This is the first time I've actually been interested in reader input, so I'm slightly regretting not implementing a comment feed now. I'm sure that will be short-lived though, so go hit me up on Twitter if you have anything you want to share. Goodbye.
