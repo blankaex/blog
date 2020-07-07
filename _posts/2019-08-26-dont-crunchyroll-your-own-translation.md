@@ -18,9 +18,9 @@ It's also a topic that happened to come up in conversation a fair few times this
 {% endcapture %}
 {% include gallery images=images %}
 
-Professional translators and fansubbers have (for the most part) grown in very different environments, and prioritise different things. Professionals tend to value "correctness", for lack of a better word, above all else. Their translations very literal and robotic, focusing on dictionary-correct, word-to-word mapping. This seems appropriate on the surface, but language isn't that simple. This approach can often result in awkward or meaningless lines when the author's intent is implicit, ambiguous or nuanced.
+Professional translators and fansubbers have (for the most part) grown in very different environments, and prioritise different things. The professional industry tends to value "correctness", for lack of a better word, above all else. As such, professional translations are often very literal and robotic, focusing on dictionary-correct, word-to-word mapping. This seems appropriate on the surface, but language isn't that simple. This approach can often result in awkward or meaningless lines when the author's intent is implicit, ambiguous or nuanced.
 
-In contrast, a good fan translator usually writes in more natural English. Their lines will lean more towards the kind of language you would typically see a character of that nature using in spoken English. They might take liberties at times to convey humour or concepts that don't exist in the west, to help preserve the writer's intentions rather than the exact words that were spoken. There's another argument to be had here, but it's not for this post.
+In contrast, fan translators are not limited by corporate restrictions and tend to treat the work as more of a form of art than an input/output operation. They will usually write in more natural English; the kind of language you would typically see a character of that nature using. They might take liberties at times to convey humour or concepts that don't exist in English or western culture, to help preserve the writer's _intentions_ rather than the exact words that were spoken. There's another argument to be had here, but it's not for this post.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/A8EASqy.png
@@ -31,7 +31,7 @@ Anyway, the disparity is quite noticeable when put side-by-side, so you get a ra
 
 Now I'm aware that professional translators are people too, but the scripts you see are again usually quite "robotic". Think machine translation. When the TLC does a pass on this script, the difference in styles (as vague and anecdotal as this may sound) often results in a lower quality script than what you'd have if the TLC worked off an OTL.
 
-This is irrespective of the perceived "quality" of the pro script, because the translating style is so fundamentally different. So, even if you have an allegedly good pro script, it will still be _different_ to a good fan script, and the result is usually not quite as good.
+This is irrespective of the perceived "quality" of the pro script, because the translating style is so fundamentally different. So, even if you have an allegedly good pro script, it will still be _different_ to a good fan script, and that means the result will also be different.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/2m3017s.jpg
@@ -40,7 +40,7 @@ This is irrespective of the perceived "quality" of the pro script, because the t
 
 I've been working on a project as TLC with another TL, and he's recently switched from OTL to TLCing CR. I've been doing TLC passes of his CR TLCs instead of his OTLs, and they've all been, without fail, of much lower quality than his OTL scripts. I'm not trying to throw any shade at him, because his OTL scripts are great. But it's the same guy working on them, so why are the OTL scripts and TLC scripts _this_ different?
 
-I can think of a few reasons. If he were to come up with the lines from scratch, he would write them in his own writing style. However, if he's working with a CR script, then he's got a base that he's "stuck" with. Those lines won't necessarily be written in the same flavour, and won't be entirely rewritten to get to that point. They'll typically only be tweaked around their current form. This will lead to a line that's likely better than the CR line, but different to (and not as good as) the line that would have been created had he come up with it from scratch.
+I can think of a few reasons. If he were to come up with the lines from scratch, he would write them in his own writing style. However, if he's working with a CR script, then he's got a base that he's "stuck" with. Those lines won't necessarily be written in the same flavour, and won't be entirely rewritten to get to that point. They'll typically only be tweaked around their current form. This will lead to a line that's likely better than the original CR line, but different to (and not necessarily as good as) the line that would have been created had he come up with it from scratch.
 
 {% capture images %}
     {{ site.url }}/assets/res/2019-08-26-dont-crunchyroll-your-own-translation/peopledie.jpg
@@ -95,4 +95,4 @@ Think of the TLC's role not as "a spellcheck but for translations", but rather "
 > Dialogue: 0,0:03:20.88,0:03:23.47,GJM_Main,,0,0,0,,That doesn't make it a holiday or anything.
 ```
 
-Of course, all of my thoughts and advice come with the usual caveats. I'm only speaking from my experience, I don't speak for everyone, there are fansubbers that have gone pro, there can be actually good prosubs, I only wrote about Japanese to English translations, I'm retarded and suck at translating and need to shut up. But if you made it to this point then you knew all of that already.
+Of course, all of my thoughts and advice come with the usual caveats. I'm only speaking from my experience, I don't speak for everyone, there are fansubbers that have gone pro, there can be actually good prosubs, I only wrote about Japanese to English translations, I'm retarded and suck at translating and need to shut up. Oh, let's not forget the sweeping generalisations about pro vs fan TLs as well. But if you made it to this point then you knew all of that already.
