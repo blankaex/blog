@@ -57,7 +57,7 @@ This one I definitely do remember; the intentionality probably helps. It was _In
 
 # 5. First Hobby
 
-Following on from _Inazuma Eleven_, I realised how easy it was to find anime on the internet, so I watched _One Piece_ for a while too, remembering it from those morning TV shows. However, I wouldn't say I "watched anime", I just "watched _One Piece_". So here, I wanted to give an honourable mention to the first series I watched when I actually started watching anime as a hobby.
+Following on from _Inazuma Eleven_, I realised how easy it was to find anime on the internet, so I watched _One Piece_ for a while too, remembering it from those morning TV shows. However, at this stage I wouldn't say I "watched anime", I just "watched _One Piece_". So here, I wanted to give an honourable mention to the first series I watched when I actually started watching anime as a hobby.
 
 Not sure how many this comes as a surprise to, but the award for this section goes to _Angel Beats_. It was shortly after it had aired, and I remember hearing about it on a forum I frequented at the time. I wanted to see some more because it did leave a bit to be desired, but there wasn't really anything else since it was one cour. A friend recommended _Clannad_ as a substitute, and I don't know of any similarities other than Maeda Jun, but I started there and then saw _Haruhi_, _Lucky Star_, and all the other "classics" that made rounds back then.
 
@@ -68,7 +68,7 @@ Not sure how many this comes as a surprise to, but the award for this section go
 
 # 6. First Seasonal
 
-By this point, I was only watching shows that had already finished airing. I think I might've been trying to get through all the aforementioned classics that everyone seems to always refer back to, before I started picking up seasonal shows. I also watched a few interesting-looking older shows, but that's besides the point. Here's where I talk about the first seasonal anime I watched. I don't think you'd consider this definition of "first" to answer the question unless it was specified, but I may as well since I'm here.
+Until this point, I was only watching shows that had already finished airing. I think I might've been trying to get through all the aforementioned "classics" that everyone seems to always refer back to, before I started picking up seasonal shows. I also watched a few interesting-looking older shows, but that's besides the point. Here's where I talk about the first seasonal anime I watched. I don't think you'd consider this definition of "first" to answer the question unless it was specified, but I may as well since I'm here.
 
 Funnily enough, this is where my memory gets a bit fuzzy again. I don't even really remember which season I started picking things up in. Fortunately I use a watch tracker, so I was able to narrow it down to some degree. I don't recall watching any of Winter 2011 while they were airing, but I do remember some of Spring 2011. As far as which came first, I don't actually know. It probably depends on the air dates and fansubs, so it's a toss up between _Steins;gate_, _Kami nomi zo Shiru Sekai 2_, _Kaiji 2_, _A-Channel_ and _Nichijou_. I hate that I don't remember which it was.
 
