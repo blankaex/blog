@@ -156,7 +156,7 @@ comments: false
   <div class="flex-item">
     <img src="/pages/concubaifus/img/sora.jpg">
     <h3>Sora</h3>
-    <div>100% Orange Juice</div>
+    <div>Sora</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/yuyao.jpg">
