@@ -150,4 +150,38 @@ comments: false
       <div>Shadowverse</div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="/pages/concubaifus/img/hori.jpg">
+      <h3>Hori Kyouko</h3>
+      <div>Horimiya</div>
+    </td>
+    <td>
+      <img src="/pages/concubaifus/img/kamitsure.jpg">
+      <h3>Kamitsure</h3>
+      <div>Pokemon Black/White</div>
+    </td>
+    <td>
+      <img src="/pages/concubaifus/img/ump9.jpg">
+      <h3>UMP9</h3>
+      <div>Dolls' Frontline</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/pages/concubaifus/img/sora.jpg">
+      <h3>Sora</h3>
+      <div>100% Orange Juice</div>
+    </td>
+    <td>
+      <img src="/pages/concubaifus/img/yuyao.jpg">
+      <h3>Xia Yu Yao</h3>
+      <div>Voicemith</div>
+    </td>
+    <td>
+      <img src="/pages/concubaifus/img/karin.jpg">
+      <h3>Karin</h3>
+      <div>Puzzle & Dragons</div>
+    </td>
+  </tr>
 </table>
