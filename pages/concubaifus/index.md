@@ -168,4 +168,9 @@ comments: false
     <h3>Karin</h3>
     <div>Puzzle & Dragons</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/rin.jpg">
+    <h3>Souma Isuzu</h3>
+    <div>Fruits Basket</div>
+  </div>
 </div>
