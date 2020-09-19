@@ -178,4 +178,9 @@ comments: false
     <h3>Katsuda Naoko</h3>
     <div>Golden Boy</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/yomi.jpg">
+    <h3>Isayama Yomi</h3>
+    <div>Ga-Rei Zero</div>
+  </div>
 </div>
