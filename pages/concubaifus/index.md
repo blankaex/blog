@@ -173,4 +173,9 @@ comments: false
     <h3>Souma Isuzu</h3>
     <div>Fruits Basket</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/naoko.jpg">
+    <h3>Katsuda Naoko</h3>
+    <div>Golden Boy</div>
+  </div>
 </div>
