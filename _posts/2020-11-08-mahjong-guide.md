@@ -37,7 +37,7 @@ Riichi Mahjong is played with four players, where each player is dealt 13 tiles.
 
 ## Tiles
 
-The game is played with a set of tiles which can be divided into five main categories: *manzu* (characters), *pinzu* (dots), *souzu* (bamboos), *kazehai* (winds), and *sangenpai* (dragons). There are 4 copies of each of the 34 unique tiles, giving a total of 136.
+The game is played with a set of tiles which can be divided into five main categories: *manzu* (characters), *pinzu* (pins), *souzu* (bamboos), *kazehai* (winds), and *sangenpai* (dragons). There are 4 copies of each of the 34 unique tiles, giving a total of 136.
 
 ### Manzu
 
@@ -272,6 +272,8 @@ The hand contains only one suit. It may also contain *kazehai* or *sangenpai*.
 This guide has barely scratched the surface of Riichi Mahjong. Many rules which seasoned players may consider "basic" have been purposely omitted for the sake of simplicity. Enough information has been provided to start playing, but you should strive to learn all of the rules and *yaku* as you play, or after you get a feel for the game.
 
 Start playing in a video game, as it will take care of a lot of the logistical work (setting up tiles, calculating points, etc.). In the beginning, it's okay to disregard your opponents' discards entirely and focus on working towards one of the four *yaku* listed above. Each time you win (or lose) a hand, try to understand the situation and figure out the *yaku* so that you internalise them for next time.
+
+Good luck, and have fun.
 
 <center><iframe src="//player.bilibili.com/player.html?aid=42971723&bvid=BV1qb411673C&cid=75347096&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600px" height="400px"></iframe></center>
 
