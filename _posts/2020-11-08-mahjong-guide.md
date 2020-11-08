@@ -37,7 +37,7 @@ Riichi Mahjong is played with four players, where each player is dealt 13 tiles.
 
 ## Tiles
 
-The game is played with a set of tiles which can be divided into five main categories: *manzu* (characters), *pinzu* (pins), *souzu* (bamboos), *kazehai* (winds), and *sangenpai* (dragons). There are 4 copies of each of the 34 unique tiles, giving a total of 136.
+The game is played with a set of tiles which can be divided into five main categories: *manzu* (characters), *pinzu* (dots), *souzu* (bamboos), *kazehai* (winds), and *sangenpai* (dragons). There are 4 copies of each of the 34 unique tiles, giving a total of 136.
 
 ### Manzu
 
