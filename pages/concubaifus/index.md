@@ -213,6 +213,16 @@ comments: false
     <h3>Fleurety</h3>
     <div>Fuukan no Grasesta</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/mona.jpg">
+    <h3>Mona</h3>
+    <div>Genshin</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/kunimitsu.jpg">
+    <h3>Kunimitsu</h3>
+    <div>Tekken 7</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
