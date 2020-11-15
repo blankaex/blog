@@ -183,4 +183,44 @@ comments: false
     <h3>Isayama Yomi</h3>
     <div>Ga-Rei Zero</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/cui.jpg">
+    <h3>Cui Yifei</h3>
+    <div>Muv-Luv Alternative Total Eclipse</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/tomoyo.jpg">
+    <h3>Sakagami Tomoyo</h3>
+    <div>Clannad</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/nanami.jpg">
+    <h3>Nanami Chiaki</h3>
+    <div>Super Dangan Ronpa 2</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/reon.jpg">
+    <h3>Reon Maxwell</h3>
+    <div>Lovepotion Sixtynine</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/tsubame.jpg">
+    <h3>Matsunaga Tsubame</h3>
+    <div>Maji de Watashi ni Koi Shinasai S</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/fleurety.jpg">
+    <h3>Fleurety</h3>
+    <div>Fuukan no Grasesta</div>
+  </div>
 </div>
+
+<script src="/pages/concubaifus/jquery.min.js"></script>
+<script>
+    var cards = $(".flex-item");
+    for(var i = 0; i < cards.length; i++) {
+        var x = Math.floor(Math.random() * cards.length -1) + 1;
+        var y = Math.floor(Math.random() * cards.length -1) + 1;
+        cards.eq(x).before(cards.eq(y));
+    }
+</script>
