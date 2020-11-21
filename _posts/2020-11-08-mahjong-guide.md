@@ -28,7 +28,7 @@ tag:
 
 Riichi Mahjong is played with four players, where each player is dealt 13 tiles. Each player takes turns drawing one tile, and discarding one tile. You earn points from other players by  a winning hand before anyone else.
 
-4 or 8 hands are typically played per game. The player with the most points at the end of the game is the winner.
+4 or 8 hands are typically played per game. Standings are determined by the number of points each player has at the end of the game.
 
 {% capture images %}
     {{site.url}}/assets/res/2020-11-08-mahjong-guide/game.jpg
@@ -140,9 +140,9 @@ A *mentsu* is a group of three, and can be either a *shuntsu* (sequence) or a *k
 
 ### Naki
 
-Instead of drawing a tile, you are also able to *naki* (call) an opponent's discarded tile if you can use it to complete a *mentsu*.
+Instead of drawing a tile on your turn, you are also able to *naki* (call) an opponent's discarded tile if you can use it to complete a *mentsu*.
 
-If an opponent discards a tile you need to complete a *shuntsu*, you can call *chii* to steal that tile. You can only call *chii* on the player to your left.
+If an opponent discards a tile you need to complete a *shuntsu*, you can call *chii* to steal that tile. You can only call *chii* on the player seated to your left.
 
 If an opponent discards a tile you need to complete a *koutsu*, you can call *pon* to steal that tile. You can call *pon* on any player.
 
@@ -177,9 +177,9 @@ Each player's hand contains 13 tiles, but 14 are needed to win. Once you have bu
 
 Once you are in *tenpai*, you can obtain your winning tile by either drawing it, or by stealing another player's discard.
 
-If you obtain your winning tile by drawing it, you can declare *tsumo* to win. All other players must pay you a number of points depending on your hand's value.
+If you draw your winning tile, you can declare *tsumo* to win the hand. All other players must pay you a number of points depending on your hand's value.
 
-If an opponent discards your winning tile, you can declare *ron* to steal it and win. Only the player whose tile you called owes you points. You can call *ron* on any player.
+If an opponent discards your winning tile, you can declare *ron* to steal it and win the hand. Only the player whose tile you called owes you points. You can call *ron* on any player.
 
 {% capture images %}
     {{site.url}}/assets/res/2020-11-08-mahjong-guide/tsumo.jpg
@@ -188,7 +188,7 @@ If an opponent discards your winning tile, you can declare *ron* to steal it and
 
 ## Yaku
 
-A *yaku* is a pattern or situation that your hand fulfills, not unlike poker hands. In addition to the four *mentsu* and one *toitsu* rule, a hand must also contain at least one *yaku* for it to qualify as a winning hand. You cannot win off a hand that has no *yaku*, even if it has four *mentsu* and one *toitsu*.
+A *yaku* is a pattern or condition that your hand fulfills, not unlike poker hands. In addition to the four *mentsu* and one *toitsu* rule, a hand must also contain or meet at least one *yaku* for it to qualify as a winning hand. You cannot win off a hand that has no *yaku*, even if it has four *mentsu* and one *toitsu*.
 
 There are dozens of *yaku*, many of which are very specific and/or rare. Memorising them all is a gargantuan task, and is not necessary to begin playing. Instead, it is recommended to gradually pick them up as you play. To get started, you only need to remember the following four *yaku*: *riichi*, *tanyao*, *toitoi* and *honitsu*.
 
@@ -283,6 +283,6 @@ Good luck, and have fun.
 |**[Mahjong in 20 Minutes](https://youtu.be/eesuXarJlbw)**|Basically this guide but as a video, narrated by a cute v-tuber (Kusunoki Sio). Has English captions.|
 |**[Comprehensive Mahjong Guide](https://youtu.be/hlnC2rgIPrc)**|Three and a half hour long comprehensive Riichi Mahjong video guide by HanaYoriUta. Probably the golden standard as far as English Riichi Mahjong video guides go. Recommended to watch after you've gotten more familiar with the game, or if you just have a lot of time to kill.|
 |**[Riichi Book I](https://dainachiba.github.io/RiichiBooks/)**|Written by Daina Chiba. Possibly the best English resource for intermediate Mahjong strategies. Definitely recommended reading, but don't bother with it until you're comfortable with the game and all of the rules/*yaku*.|
-|**[Mahjong Soul](https://mahjongsoul.game.yo-star.com/)**|Browser-based Riichi Mahjong platform, probably the most popular "casual" one. Has rankings and events, and a gacha system for cosmetics, but is entirely free to play. Also available on mobile.|
+|**[Mahjong Soul](https://mahjongsoul.game.yo-star.com/)**|Browser-based Riichi Mahjong platform, and probably the most popular place to play online. Entirely free to play, but has a gacha system for cosmetics. Also available on mobile.|
 |**[Hime Mahjong](https://www.himemj.jp/)**|Alternative platform, available on Steam, iOS and Android. Has better gacha rates and more cosmetics than MajSoul, but no English translation ([yet](https://store.steampowered.com/newshub/app/1084520/view/2575446648010019274)) hence a smaller playerbase. English UI guide is [available on Arcturus](http://arcturus.su/wiki/MajHime). |
-|**[Tenhou](https://tenhou.net/)**|Japanese online Mahjong platform. Played by professionals (people that play Mahjong as a job, for money) in Japan. Tenhou ranking is widely considered an accurate reflection of player skill. Would highly recommend avoiding as a beginner, but you may want to test yourself in a more serious environment after some time.|
+|**[Tenhou](https://tenhou.net/)**|Japanese online Mahjong platform. Played by professionals. Tenhou ranking is widely considered an accurate reflection of player skill. Would highly recommend avoiding as a beginner, but you may wish to test yourself in a more serious environment somewhere down the line.|
