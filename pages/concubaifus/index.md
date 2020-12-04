@@ -228,6 +228,11 @@ comments: false
     <h3>Shungui Guo</h3>
     <div>Ikebukuro West Gate Park</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/shuka.jpg">
+    <h3>Karino Shuka</h3>
+    <div>Darwin's Game</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
