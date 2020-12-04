@@ -223,6 +223,11 @@ comments: false
     <h3>Kunimitsu</h3>
     <div>Tekken 7</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/guo.jpg">
+    <h3>Shungui Guo</h3>
+    <div>Ikebukuro West Gate Park</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
