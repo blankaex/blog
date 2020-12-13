@@ -233,6 +233,11 @@ comments: false
     <h3>Karino Shuka</h3>
     <div>Darwin's Game</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/c.c..jpg">
+    <h3>C.C.</h3>
+    <div>Code Geass</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
