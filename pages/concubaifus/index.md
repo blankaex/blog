@@ -238,6 +238,11 @@ comments: false
     <h3>C.C.</h3>
     <div>Code Geass</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/yohko.jpg">
+    <h3>Mano Yohko</h3>
+    <div>Mamono Hunter Yohko</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
