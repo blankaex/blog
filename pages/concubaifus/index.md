@@ -243,6 +243,11 @@ comments: false
     <h3>Mano Yohko</h3>
     <div>Mamono Hunter Yohko</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/nanasaki.jpg">
+    <h3>Nanasaki Ai</h3>
+    <div>Amagami</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
