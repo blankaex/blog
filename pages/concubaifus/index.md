@@ -248,6 +248,11 @@ comments: false
     <h3>Nanasaki Ai</h3>
     <div>Amagami</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/bmg.jpg">
+    <h3>Black Magician Girl</h3>
+    <div>Yu-Gi-Oh!</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
