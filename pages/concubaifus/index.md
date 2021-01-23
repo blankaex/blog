@@ -253,6 +253,21 @@ comments: false
     <h3>Black Magician Girl</h3>
     <div>Yu-Gi-Oh!</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/hidaka.jpg">
+    <h3>Hidaka Koharu</h3>
+    <div>Hi Score Girl</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/kurono.jpg">
+    <h3>Kurono Kurumu</h3>
+    <div>Rosario+Vampire<div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/sekuro.jpg">
+    <h3>Sekuro Hiasa</h3>
+    <div>Babylon</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
