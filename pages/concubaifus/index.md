@@ -261,7 +261,7 @@ comments: false
   <div class="flex-item">
     <img src="/pages/concubaifus/img/kurono.jpg">
     <h3>Kurono Kurumu</h3>
-    <div>Rosario+Vampire<div>
+    <div>Rosario+Vampire</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/sekuro.jpg">
