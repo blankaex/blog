@@ -105,6 +105,6 @@ Go into the 2nd tab and drop in your video file. If your audio is in a separate 
 
 You can adjust the title in the 4th tab, mess around with fonts and styling in the 5th, and adjust the layouts in the 6th. I won't go into too much detail here; you can explore and play around with the options on your own. It's quite self-explanatory, and the defaults aren't too shabby either. The 7th tab is to preview the final product.
 
-Again once you're happy, go to the final tab and press `動画出力` to export the file. This will write a lossless `.avi`, which means it will take ages and render a gigantic file. This is why I suggest ffmpeg to re-encode the video into something sane, since NicoKara Maker unfortunately doesn't have any better output options. Once you're done with that though, you're done for real. Congratulations! This is what the final product should look like:
+Again once you're happy, go to the final tab and press `動画出力` to export the file. It will write a lossless `.avi`, which means it will take ages and render a gigantic file. This is why I suggest ffmpeg to re-encode the video into something sane, since NicoKara Maker unfortunately doesn't have any better output options. Once you're done with that though, you're done for real. Congratulations! This is what the final product should look like:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PjpVyoGqVhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
