@@ -55,7 +55,7 @@ Ensure ruby display is turned on by going to `ルビ→ルビを表示する` on
 
 Here comes the fun part. Drag and drop in your video (or audio) file, and then press play. You'll notice the text greys out, and one of the checks will be highlighted pink. This is the cursor to indicate your current position. All you need to do here is tap space in time with the start of each syllable in the song to place a time tag at your cursor and advance to the next syllable. It's just like a rhythm game :^)
 
-As you place time tags, the checks will turn purple to indicate the ones you've already marked. Also note the empty square checks at the end of each line. These are tagged on key _release_. Basically, hold down space on the last syllable and let go as it ends in the audio. If you mess up (you will), just rewind the song and time over your previous time tags. 
+Time tags (the purple marks) will appear under the checks as you go, to indicate the checks you've already timed. Also note the empty square checks at the end of each line. These are tagged on key _release_. Basically, hold down space on the last syllable and let go as it ends in the audio. If you mess up (you will), just rewind the song and time over your previous time tags. 
 
 Obviously, repeat this through to the end. If that didn't make sense, check out [this video that I linked earlier](https://www.nicovideo.jp/watch/sm16623246) from about 1:45.
 
