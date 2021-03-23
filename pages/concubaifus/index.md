@@ -268,6 +268,11 @@ comments: false
     <h3>Sekuro Hiasa</h3>
     <div>Babylon</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/karahara.jpg">
+    <h3>Karahara Shima</h3>
+    <div>To Aru Yakedo Shoujo no Hanashi</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
