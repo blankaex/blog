@@ -273,6 +273,11 @@ comments: false
     <h3>Karahara Shima</h3>
     <div>To Aru Yakedo Shoujo no Hanashi</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/yaya.jpg">
+    <h3>Yaya</h3>
+    <div>Machine-Doll wa Kizutsukanai</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
