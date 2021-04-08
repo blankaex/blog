@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making NicoKara - The Easy Way"
-date:   2021-02-03
+date: 2021-02-03
 excerpt: "Tired of K-timing in Aegisub?"
 tag:
 - Tutorial

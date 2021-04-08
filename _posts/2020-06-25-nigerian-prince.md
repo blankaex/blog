@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bank Scam Theorycrafting"
-date:   2020-06-25
+date: 2020-06-25
 excerpt: "Are Nigerian princes still roaming the wild in 2020?"
 tag:
 - Security

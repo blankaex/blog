@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't Crunchyroll Your Own Translation"
-date:   2019-08-26
+date: 2019-08-26
 excerpt: "TLCing CR might seem like a good way to save time, but there are a few issues that come with the territory."
 tag:
 - Anime

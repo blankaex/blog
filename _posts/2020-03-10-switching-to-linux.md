@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Switch to Linux"
-date:   2020-03-10
+date: 2020-03-10
 excerpt: "A guide on how to make the right choices."
 tag:
 - Linux

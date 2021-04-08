@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yamasa Yuu: How I met the Golden Lever"
-date:   2019-02-11
+date: 2019-02-11
 excerpt: "Yamasa Yuu wrote a bit of a blog post about how he came about the Golden Lever. I felt like translating it, so here it is."
 feature: assets/res/2019-02-11-yuu-meets-golden-lever/rectangle_large_type_2_5b7d4168903351dc423df728940228fe.jpeg
 tag:

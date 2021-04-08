@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Over The Wire - Bandit"
-date:   2019-08-25
+date: 2019-08-25
 excerpt: "Writeups for OverTheWire - Bandit"
 tag:
 - CTF

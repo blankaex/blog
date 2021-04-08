@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Riichi Mahjong Quick-Start Guide"
-date:   2020-11-08
+date: 2020-11-08
 excerpt: "Mahjong crash course to get you calling riichi and ron in minutes."
 tag:
 - Tutorial

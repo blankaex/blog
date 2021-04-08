@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Problem with the Education System"
-date:   2020-03-08
+date: 2020-03-08
 excerpt: "There's something wrong with the education system."
 tag:
 - Rambling

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Was the First Anime You Watched?"
-date:   2020-06-13
+date: 2020-06-13
 excerpt: "My answer to this question depends on how you want to define \"first\"."
 tag:
 - Anime

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Albert"
-date:   2019-11-30
+date: 2019-11-30
 excerpt: "The story of Albert, the champion of the Hoenn Region."
 tag:
 - Pokémon

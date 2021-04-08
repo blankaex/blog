@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yamasa Yuu: What is the Golden Lever, exactly?"
-date:   2019-02-13
+date: 2019-02-13
 excerpt: "Yuu's second blog post about the Golden Lever. This time, he goes into detail about the specifics."
 feature: assets/res/2019-02-13-yuu-what-is-golden-lever/rectangle_large_type_2_07c43a21ce9def47df5c4600f4c5ed20.jpeg
 tag:
