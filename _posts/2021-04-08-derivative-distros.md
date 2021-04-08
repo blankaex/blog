@@ -16,7 +16,7 @@ If you're somewhat familiar with Windows UX customisation, then you've probably 
 
 Imagine if someone grabbed a fresh install of Windows 10, installed Classic Shell on it, packaged the operating system as "Windows Tenn", and made it available for download. Would you install it? You'd have to be retarded to even consider it. **Yet this is exactly what happens with Linux distributions every day.**
 
-Take a look at Linux Mint, a pretentious distribution that's [constantly topping the carts on DistroWatch](https://distrowatch.com/). If you take a look at [their "About" page](https://linuxmint.com/about.php), you'll notice that none of their selling points are actually exclusive to Linux Mint. They call it "Ubuntu-based", which really means it's just Ubuntu, but instead of shipping with the GNOME desktop environment, it ships with Cinnamon (which ironically is a GNOME derivative). Yes, it's literally Ubuntu with a different hat.
+Take a look at Linux Mint, a pretentious distribution that's [constantly topping the charts on DistroWatch](https://distrowatch.com/). If you take a look at [their "About" page](https://linuxmint.com/about.php), you'll notice that none of their selling points are actually exclusive to Linux Mint. They call it "Ubuntu-based", which really means it's just Ubuntu, but instead of shipping with the GNOME desktop environment, it ships with Cinnamon (which ironically is a GNOME derivative). Yes, it's literally Ubuntu with a different hat.
 
 {% capture images %}
     {{ site.url }}/assets/res/2021-04-08-derivative-distros/EyLvJpIUcAELM3G.jpg
@@ -27,7 +27,7 @@ Pop! OS is another flatulent distribution that's gained a lot of popularity rece
 
 <div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.471%;"><iframe src="https://streamable.com/e/9zkidj" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
-If you wanted a different desktop environment on Ubuntu, you could just install Ubuntu and then swap the desktop environment for whatever you like. This isn't any effort or elitist gatekeeping either, it's usually just a single package to install. You don't have to install an entirely separate distribution and restrict yourself from official documentation, support and community forums.
+If you wanted a different desktop environment on Ubuntu, you could just install Ubuntu and then swap the desktop environment for whatever you like. This isn't any effort or elitist gatekeeping either, it's usually just a single package to install. You don't have to install an entirely separate distribution and restrict yourself from official documentation, support, community forums and probably most importantly, [security updates](https://blog.frizn.fr/linux-kernel/cve-2020-14381).
 
 Part of the problem is likely due to advertising. It's so easy to package your own Linux distribution that everyone and their mums are doing it, and these are the same people installing them. They'll focus on the outward appearance of the UI and fall for cheap marketing like _"beginner-friendly"_ and _"similar to Windows"_, while blissfully unaware that desktop environment is completely independent of distribution.
 
