@@ -38,7 +38,7 @@ Part of the problem is likely due to advertising. It's so easy to package your o
 
 But derivative distributions aren't just stupid, they're also malevolent. I briefly alluded to this earlier, but there are a non-trivial number of people using these derivatives, which means there is also a non-trivial number of skilled developers maintaining them.
 
-All of these people could instead be contributing upstream and further improving the base distribution, instead of splitting development and hindering advancement. And I don't just mean contributing code—better documentation and forum responses benefit everyone. Even an end user asking a question on a forum provides a resource for the next user.
+All of these people could instead be contributing upstream and further improving the base distribution, instead of pointlessly forking, splitting development, and hindering progress. And I don't just mean contributing code—better documentation and forum responses benefit everyone. Even an end user asking a question on a forum provides a resource for the next user.
 
 So the moral of the story is: _never\* use derivative distributions_. But if you should avoid derivatives and ignore desktop environment, how should you choose your first distro? Don't. [I've said it before]({{ site.url }}/switching-to-linux/) so I won't go over it again in detail; just [install Fedora](https://getfedora.org/en/workstation/).
 
@@ -51,7 +51,7 @@ So the moral of the story is: _never\* use derivative distributions_. But if you
 
 Manjaro has a special place in my heart due to my extremely rational loathing of its existence. The very concept of Manjaro itself already falls apart. It's an Arch-based distribution that ships with a number of different desktop environments, which makes no sense.
 
-There is a very good reason that you'll rarely see Arch Linux users with a packaged desktop environment. Desktop environments provide a suite of packages that form an ecosystem and are intended to be upgraded alongside the OS. Contrary to this, Arch is rolling release and thus does not have OS version upgrades. Users are expected to manage individual packages and keep all of them updated, without any partial upgrading.
+There is a very good reason that you'll rarely see Arch Linux users with a packaged desktop environment. Desktop environments provide a suite of packages that form a mostly static ecosystem, and are intended to be upgraded alongside the OS. Contrary to this, Arch is rolling release and thus does not have OS version upgrades. Users are expected to manage individual packages and keep all of them updated, without any partial upgrading. Shipping with desktop environments by default contradicts this entire philosophy.
 
 The developers have also proven their incompetence time and time again. A classic example is the time their SSL certificate (a component that keeps their website secure) expired. Their solution was to encourage users to wind back their clocks to trick their system into thinking the certificate was still valid. Renewing an SSL certificate is **free** (as in free beer), by the way. It's also **automatic**, meaning it should never expire.
 
