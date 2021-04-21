@@ -27,7 +27,7 @@ tag:
 
 ## Game Flow
 
-Riichi Mahjong is played with four players, where each player is dealt 13 tiles. Each player takes turns drawing one tile, and discarding one tile. You earn points from other players by  a winning hand before anyone else.
+Riichi Mahjong is played with four players, where each player is dealt 13 tiles. Each player takes turns drawing one tile, then discarding one tile, in order to build a winning hand. You earn points from other players by winning a hand before anyone else.
 
 4 or 8 hands are typically played per game. Standings are determined by the number of points each player has at the end of the game.
 
@@ -201,7 +201,7 @@ The name of the game. If you are in tenpai and have yet to *naki*, you may decla
 
 Once you declare *riichi*, you are no longer able to change your hand. If the tile you draw on your turn is not your winning tile, you must discard it. You are also not allowed to call *chii* or *pon*.
 
-Declaring *riichi* is effectively a commitment to your current hand, and you are "locked in" until you draw your winning tile or an opponent discards your winning tile.
+Declaring *riichi* is effectively a commitment to your current hand, and you are "locked in" until you draw your winning tile or an opponent discards your it.
 
 {% capture images %}
     {{site.url}}/assets/res/2020-11-08-mahjong-guide/riichi.jpg
@@ -270,7 +270,7 @@ The hand contains only one suit. It may also contain *suufuupai* or *sangenpai*.
 
 ## Getting Started
 
-This guide has barely scratched the surface of Riichi Mahjong. Many rules which seasoned players may consider "basic" have been purposely omitted for the sake of simplicity. Enough information has been provided to start playing, but you should strive to learn all of the rules and *yaku* as you play, or after you get a feel for the game.
+This guide has barely scratched the surface of Riichi Mahjong. Many rules which seasoned players may consider basic have been purposely omitted for the sake of simplicity. Enough information has been provided to start playing, but you should strive to learn all of the rules and *yaku* as you play, or after you get a feel for the game.
 
 Start playing in a video game, as it will take care of a lot of the logistical work (setting up tiles, calculating points, etc.). In the beginning, it's okay to disregard your opponents' discards entirely and focus solely on working towards one of the four *yaku* listed above. Each time you win (or lose) a hand, try to understand the situation and figure out the *yaku* so that you internalise them for next time.
 
