@@ -74,11 +74,6 @@ comments: false
     <div>Suka Suka</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/yumemi.jpg">
-    <h3>Yumemite Yumemi</h3>
-    <div>Kakegurui</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/ruri.jpg">
     <h3>Hijiribe Ruri</h3>
     <div>Durarara!!</div>
@@ -104,21 +99,6 @@ comments: false
     <div>Kamidori Alchemy Meister</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/ranrinyuiki.jpg">
-    <h3>Ranrinyuiki</h3>
-    <div>Amayui Castle Meister</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/kurumi.jpg">
-    <h3>Tokisaki Kurumi</h3>
-    <div>Date a Live</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/hirumi.jpg">
-    <h3>Hishigata Hirumi</h3>
-    <div>To Aru Kagaku no Accelerator</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/shiki.jpg">
     <h3>Misaki Shiki</h3>
     <div>Subarashiki Kono Sekai</div>
@@ -129,24 +109,9 @@ comments: false
     <div>Mieruko-chan</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/haru.jpg">
-    <h3>Haru</h3>
-    <div>Megami Ibunroku Devil Survivor</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/exella.jpg">
-    <h3>Exella</h3>
-    <div>Shadowverse</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/hori.jpg">
     <h3>Hori Kyouko</h3>
     <div>Horimiya</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/kamitsure.jpg">
-    <h3>Kamitsure</h3>
-    <div>Pokemon Black/White</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/ump9.jpg">
@@ -167,16 +132,6 @@ comments: false
     <img src="/pages/concubaifus/img/karin.jpg">
     <h3>Karin</h3>
     <div>Puzzle & Dragons</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/rin.jpg">
-    <h3>Souma Isuzu</h3>
-    <div>Fruits Basket</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/naoko.jpg">
-    <h3>Katsuda Naoko</h3>
-    <div>Golden Boy</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/yomi.jpg">
@@ -202,11 +157,6 @@ comments: false
     <img src="/pages/concubaifus/img/reon.jpg">
     <h3>Reon Maxwell</h3>
     <div>Lovepotion Sixtynine</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/tsubame.jpg">
-    <h3>Matsunaga Tsubame</h3>
-    <div>Maji de Watashi ni Koi Shinasai S</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/fleurety.jpg">
@@ -259,16 +209,6 @@ comments: false
     <div>Hi Score Girl</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/kurono.jpg">
-    <h3>Kurono Kurumu</h3>
-    <div>Rosario+Vampire</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/sekuro.jpg">
-    <h3>Sekuro Hiasa</h3>
-    <div>Babylon</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/karahara.jpg">
     <h3>Karahara Shima</h3>
     <div>To Aru Yakedo Shoujo no Hanashi</div>
@@ -277,6 +217,11 @@ comments: false
     <img src="/pages/concubaifus/img/yaya.jpg">
     <h3>Yaya</h3>
     <div>Machine-Doll wa Kizutsukanai</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/shimomura.jpg">
+    <h3>Shimomura Izumi</h3>
+    <div>Ajin</div>
   </div>
 </div>
 
