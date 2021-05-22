@@ -2,7 +2,7 @@
 layout: post
 title:  "Derivative Distribution Degeneracy"
 date: 2021-04-08
-excerpt: "And why you should never use a derivative distro"
+excerpt: "And why you should never use a derivative distro."
 tag:
 - Linux
 ---
