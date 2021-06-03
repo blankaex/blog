@@ -223,6 +223,11 @@ comments: false
     <h3>Shimomura Izumi</h3>
     <div>Ajin</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/lessar.jpg">
+    <h3>Lessar</h3>
+    <div>To Aru Majutsu no Index</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
