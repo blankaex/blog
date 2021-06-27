@@ -9,3 +9,4 @@ Topics I might want to blog about in the future. May or may not happen.
 
 * Why Apple products might not be that bad
 * Favourite video games
+* Why computer hardware sucks
