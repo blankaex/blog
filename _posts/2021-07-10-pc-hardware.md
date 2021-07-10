@@ -54,7 +54,7 @@ Anyway, the smart play is probably to not buy a PC right now. Or ever, because I
 ---
 
 <small>
-<sup>1</sup> Calling cryptocurrencies "crypto" is stupid. Crypto is an abbreviation for cryptography, an actual valid field of study, and has been used to denote such for dozens of years. It would be extremely ignorant to conflate this term with some idiots that waste electricity for fake money.
+<sup>1</sup> Calling cryptocurrencies "crypto" is stupid. Crypto is an abbreviation for cryptography, an actual respected field of study, and has been used to denote such for dozens of years. It would be extremely ignorant to conflate this term with some idiots that waste electricity for fake money.
 <br>
 <sup>2</sup> Honestly I feel dirty using this word. I hate that it's completely normalised and there's no umbrella term that better encompasses the demographic. I wish there was, but it seems like my only choice is to live with the second-hand embarrassment.
 </small>
