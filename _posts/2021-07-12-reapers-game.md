@@ -20,14 +20,14 @@ tag:
         {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_1.jpg
     {% endcapture %}
     {% include gallery images=images %}
+</details>
 
+<details><summary>解説▶</summary>
     {% capture images %}
         {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_1_5.jpg
     {% endcapture %}
     {% include gallery images=images %}
-</details>
 
-<details><summary>解説▶</summary>
     {% capture images %}
         {{ site.url }}/assets/res/2021-07-12-reapers-game/answer_1.jpg
     {% endcapture %}
