@@ -66,6 +66,32 @@ tag:
 
 # 死神のミッション ３日目
 
+{% capture images %}
+    {{ site.url }}/assets/res/2021-07-12-reapers-game/mission_img_3.webp
+{% endcapture %}
+{% include gallery images=images %}
+
+<details><summary>ヒント▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_3.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+</details>
+
+<details><summary>解説▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_3_5.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/answer_3.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+
+    答えは「カンムリ」
+</details>
+
 # 死神のミッション ４日目
 
 # 死神のミッション ５日目
