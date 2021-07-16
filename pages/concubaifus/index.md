@@ -228,6 +228,11 @@ comments: false
     <h3>Lessar</h3>
     <div>To Aru Majutsu no Index</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/ryofu.jpg">
+    <h3>Ryofu Housen</h3>
+    <div>Ikkitousen</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
