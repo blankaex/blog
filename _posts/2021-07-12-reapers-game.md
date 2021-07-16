@@ -122,6 +122,27 @@ tag:
 
 # 死神のミッション ５日目
 
+{% capture images %}
+    {{ site.url }}/assets/res/2021-07-12-reapers-game/mission_img_5.webp
+{% endcapture %}
+{% include gallery images=images %}
+
+<details><summary>ヒント▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_5.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+</details>
+
+<details><summary>解説▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/answer_5.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+
+    答えは「マスター」
+</details>
+
 # 死神のミッション ６日目
 
 # 死神のミッション ７日目
