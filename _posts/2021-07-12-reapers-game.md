@@ -163,20 +163,43 @@ tag:
 
 # 死神のミッション ７日目
 
-<style>
-    details
-    {
-        background-color: #c7c7c7;
-        padding: 5px 10px 5px 10px;
-        margin: 10px 0px 10px 0px;
-        border-radius: 5px;
-    }
+{% capture images %}
+    {{ site.url }}/assets/res/2021-07-12-reapers-game/mission_img_7.webp
+{% endcapture %}
+{% include gallery images=images %}
 
-    summary:hover
-    {
-        color: #b35959;
-    }
-</style>
+<details><summary>ヒント▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_7.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+</details>
+
+<details><summary>解説▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_7_5.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+    答えは「あいことば」。
+</details>
+
+# 死神のミッション Final Mission
+
+{% capture images %}
+    {{ site.url }}/assets/res/2021-07-12-reapers-game/mission_img_8.webp
+{% endcapture %}
+{% include gallery images=images %}
+
+<details><summary>ヒント▶</summary>
+    {% capture images %}
+        {{ site.url }}/assets/res/2021-07-12-reapers-game/hint_8.jpg
+    {% endcapture %}
+    {% include gallery images=images %}
+</details>
+
+<details><summary>解説▶</summary>
+    答えは「ゲームスタート」。
+</details>
 
 # おまけ
 
@@ -247,3 +270,18 @@ https://www.jp.square-enix.com/shinsubarashiki/shibuya/mission/special/
 呆れたｗ
 
 明日のミッション楽しみにしてるよ！
+
+<style>
+    details
+    {
+        background-color: #c7c7c7;
+        padding: 5px 10px 5px 10px;
+        margin: 10px 0px 10px 0px;
+        border-radius: 5px;
+    }
+
+    summary:hover
+    {
+        color: #b35959;
+    }
+</style>
