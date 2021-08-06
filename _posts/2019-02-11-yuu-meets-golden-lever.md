@@ -84,5 +84,3 @@ Thanks for reading.
 [Sengoku Denshou Online Store](https://www.sengoku.co.jp/)
 
 Source: [Yuu's Blog](https://note.mu/yamasa_yuu/n/n74e6cdffc281)
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

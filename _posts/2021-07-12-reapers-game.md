@@ -270,18 +270,3 @@ https://www.jp.square-enix.com/shinsubarashiki/shibuya/mission/special/
 呆れたｗ
 
 明日のミッション楽しみにしてるよ！
-
-<style>
-    details
-    {
-        background-color: #c7c7c7;
-        padding: 5px 10px 5px 10px;
-        margin: 10px 0px 10px 0px;
-        border-radius: 5px;
-    }
-
-    summary:hover
-    {
-        color: #b35959;
-    }
-</style>

@@ -66,5 +66,3 @@ If EVO Japan were held in Tokyo, internationals could come to compete in the tou
 That being said, the decision has already been made and I don’t expect them to go back on that because some nobody on the internet complained about it. While on one hand I want the event to succeed because I think it’s great, on the other hand I want it to fail so that people realize that this was not a good decision.
 
 In any case, I definitely won’t be attending this year, and I know I’m not alone. If you do intend to go, good luck and have fun. Otherwise, I’ll see you next year at EVO Japan in Tokyo.
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

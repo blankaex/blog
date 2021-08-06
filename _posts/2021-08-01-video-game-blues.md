@@ -106,20 +106,3 @@ Funnily enough, this is more or less my approach to JRPGs, the only genre of gam
     {{ site.url }}/assets/res/2021-08-01-video-game-blues/persona.jpg
 {% endcapture %}
 {% include gallery images=images %}
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<style>
-    details
-    {
-        background-color: #c7c7c7;
-        padding: 5px 10px 5px 10px;
-        margin: 10px 0px 10px 0px;
-        border-radius: 5px;
-    }
-
-    summary:hover
-    {
-        color: #b35959;
-    }
-</style>

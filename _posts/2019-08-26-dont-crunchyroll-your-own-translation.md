@@ -60,7 +60,7 @@ Another issue with TLCing CR is the fact that the TLC can't talk to the TL. The 
 
 This is an important interaction that's being entirely removed from the process. On top of affecting the quality of the release, there won't be anyone around to help when the TLC gets stuck either. Let's not even get started on subbing without a TL _or_ a TLC.
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">all memes are correct translations.</p>&mdash; VX skiddiks XV (@heavenrend) <a href="https://twitter.com/heavenrend/status/1131947604227559425?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">all memes are correct translations.</p>&mdash; VX skiddiks XV (@heavenrend) <a href="https://twitter.com/heavenrend/status/1131947604227559425?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote>
 
 All that being said, I'm not trying to start a revolt to make everyone OTL. Of course, doing an OTL is a lot more fun (and we're doing this for fun, aren't we?), but the time commitment can be daunting. CR TLCs have their place depending on your effort and care factors, but you don't have to settle. What kind of Blankaex blog would this be if I didn't give unwarranted and unsolicited advice despite having no authority on the matter?
 

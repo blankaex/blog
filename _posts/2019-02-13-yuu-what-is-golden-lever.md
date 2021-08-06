@@ -103,5 +103,3 @@ Thanks for reading.
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/Yuu_Norespect?ref_src=twsrc%5Etfw">Tweets by Yuu_Norespect</a>
 
 Soruce: [Yuu's Blog](https://note.mu/yamasa_yuu/n/nace351e9fbf8)
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
