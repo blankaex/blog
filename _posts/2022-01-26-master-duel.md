@@ -87,7 +87,7 @@ One minor complaint, if I had to raise one, is that the loaner decks they make y
 
 This is a weird one. I reached Platinum Tier I (the highest rank) in 57 duels (going 47-10). This took me the better part of two days, before I even completed my battle pass. For comparison, it took me around 700 _wins_ (not duels) to get from Beginner to Master in Shadowverse, and then another 150 games every season to maintain Grand Master. This is a pretty huge disparity.
 
-I want to say it's balanced to be quick because the seasons are shorter. The game released on the 19th of Jan, and the season resets on the 1st of Feb, so the seasons are probably 2 weeks to a month long, compared than the 3-month seasons in Shadowverse. But even then, it still feels insanely fast, so maybe the intention is for Plat I to be a goal for everyone to achieve each season rather than for ranks being a reflection of player skill.
+I want to say it was intentionally balanced to be quick because the seasons are shorter. The game released on the 19th of Jan, and the season resets on the 1st of Feb, so the seasons are probably 2 weeks to a month long, compared than the 3-month seasons in Shadowverse. But even then, it still feels insanely fast, so maybe the intention is for Plat I to be a goal for everyone to achieve each season rather than for ranks being a reflection of player skill.
 
 {% capture images %}
     {{ site.url }}/assets/res/2022-01-26-master-duel/erika.jpg
