@@ -125,3 +125,37 @@ Everything said and done, it's still really nice to have an official CCG for act
 As mentioned earlier, it's a new game so there are still some kinks in the client. It runs like trash for one, and some aspects of the UX are needlessly high-friction, like not being able to draw automatically during the draw phase. The slight delay before showing a boss monster animation is just long enough to notice that the game is still a bit unpolished, but hopefully these sorts of things will be ironed out over the coming patches.
 
 All in all, this is probably the best version of _Yu-Gi-Oh_ that _Konami_ could have provided. It's not a dumb cash grab like _Duel Links_ was, and I can see competitive players sticking around if the game continues on this trajectory. I wasn't expecting much going into it, but after experiencing what it had to offer, I'll admit I was pleasantly surprised and will probably be hanging around for a while yet.
+
+---
+
+**Edit 22/02/01:**
+
+ranked is fucking broken lmfao nice fucking game
+
+{% capture images %}
+    {{ site.url }}/assets/res/2022-01-26-master-duel/ranks.jpg
+{% endcapture %}
+{% include gallery images=images %}
+
+The current ranks in Master Duel go from Rookie → Bronze → Silver → Gold → Platinum, with 5 tiers in each (except for Rookie which has 2). Every time you go up a tier, you get 100 gems. So Rookie 2 → Rookie 1 gives you 100 gems, Gold 3 → Gold 2 gives you 100 gems, etc. Around 2000 gems total if my math checks out.
+
+When season 1 reset, the rewards reset too. Then in season 2, you started from the bottom of the previous tier you were in. So if you were in Silver 3 in season 1, you get put in Bronze 5 in season 2. If you were in Platinum 1, you get put in Gold 5. However, _you don't get the rewards for the ranks below your reset placing_.
+
+So if you start from Gold 5 in season 2, you can't get any of the gems you could have gotten for ranking all the way up to Silver 1. On top of this, there are no end of season rewards. So as long as you've reached Platinum 1, it doesn't matter if you get demoted—you can end the season at any rank and not miss out on any gems.
+
+{% capture images %}
+    {{ site.url }}/assets/res/2022-01-26-master-duel/rewards.jpg
+{% endcapture %}
+{% include gallery images=images %}
+
+That means the optimal strategy is to climb to Platinum 1 to collect all the gems, **and then lose on purpose to demote yourself to Gold**, so that you start from Silver next season and have access to more rewards (you can't demote from Gold to Silver).
+
+You don't need to be a genius to see how fucking stupid this is, but it gets even better.
+
+In season 2, the system was updated so that _you can no longer be demoted from Platinum 1_. Do you see the problem here? Getting to Platinum 1, the highest rank currently in the game, which is meant to be an achievement, **is actually a prison and prevents you from getting the max amount of rewards**.
+
+If you get to Platinum 1 in season 2, you can no longer demote back down to Gold. This means your season 3 will start from Gold 5. However if you stop at Platinum 2, you can demote back down to Gold and start season 3 from Silver 5. You lose 100 gems in season 2, but gain 500 gems in season 3.
+
+Do you see the fucking problem here? When you get to Platinum 2, the meta is no longer Virtual World and Drytrons. The meta is pressing the fucking surrender button before your opponent does so you can lock them in Plat 1 and demote yourself back down to Gold to collect your rewards next season.
+
+Nice fucking game, I love playing alt+f4 simulator.
