@@ -89,16 +89,6 @@ comments: false
     <div>Dolls' Frontline</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/yuyao.jpg">
-    <h3>Xia Yu Yao</h3>
-    <div>Voicemith</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/yomi.jpg">
-    <h3>Isayama Yomi</h3>
-    <div>Ga-Rei Zero</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/cui.jpg">
     <h3>Cui Yifei</h3>
     <div>Muv-Luv Alternative Total Eclipse</div>
