@@ -39,11 +39,6 @@ comments: false
     <div>Monogatari</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/nagato.jpg">
-    <h3>Nagato Yuki</h3>
-    <div>Suzumiya Haruhi no Yuuutsu</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/aika.jpg">
     <h3>Fuwa Aika</h3>
     <div>Zetsuen no Tempest</div>
@@ -74,39 +69,14 @@ comments: false
     <div>Suka Suka</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/ruri.jpg">
-    <h3>Hijiribe Ruri</h3>
-    <div>Durarara!!</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/sakuya.jpg">
-    <h3>Izayoi Sakuya</h3>
-    <div>Touhou</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/katou.jpg">
-    <h3>Katou Megumi</h3>
-    <div>Saenai Heroine no Sodatekata</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/renge.jpg">
     <h3>Renge</h3>
     <div>Bishoujo Mangekyou</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/ragsmuena.jpg">
-    <h3>Ragsmuena</h3>
-    <div>Kamidori Alchemy Meister</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/shiki.jpg">
     <h3>Misaki Shiki</h3>
     <div>Subarashiki Kono Sekai</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/miko.jpg">
-    <h3>Yotsuya Miko</h3>
-    <div>Mieruko-chan</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/hori.jpg">
@@ -119,19 +89,9 @@ comments: false
     <div>Dolls' Frontline</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/sora.jpg">
-    <h3>Sora</h3>
-    <div>Sora</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/yuyao.jpg">
     <h3>Xia Yu Yao</h3>
     <div>Voicemith</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/karin.jpg">
-    <h3>Karin</h3>
-    <div>Puzzle & Dragons</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/yomi.jpg">
@@ -144,39 +104,14 @@ comments: false
     <div>Muv-Luv Alternative Total Eclipse</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/tomoyo.jpg">
-    <h3>Sakagami Tomoyo</h3>
-    <div>Clannad</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/nanami.jpg">
     <h3>Nanami Chiaki</h3>
     <div>Super Dangan Ronpa 2</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/reon.jpg">
-    <h3>Reon Maxwell</h3>
-    <div>Lovepotion Sixtynine</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/fleurety.jpg">
-    <h3>Fleurety</h3>
-    <div>Fuukan no Grasesta</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/mona.jpg">
     <h3>Mona</h3>
     <div>Genshin</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/kunimitsu.jpg">
-    <h3>Kunimitsu</h3>
-    <div>Tekken 7</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/guo.jpg">
-    <h3>Shungui Guo</h3>
-    <div>Ikebukuro West Gate Park</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/shuka.jpg">
@@ -199,19 +134,9 @@ comments: false
     <div>Amagami</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/bmg.jpg">
-    <h3>Black Magician Girl</h3>
-    <div>Yu-Gi-Oh!</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/hidaka.jpg">
     <h3>Hidaka Koharu</h3>
     <div>Hi Score Girl</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/karahara.jpg">
-    <h3>Karahara Shima</h3>
-    <div>To Aru Yakedo Shoujo no Hanashi</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/yaya.jpg">
@@ -224,14 +149,24 @@ comments: false
     <div>Ajin</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/lessar.jpg">
-    <h3>Lessar</h3>
-    <div>To Aru Majutsu no Index</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/ryofu.jpg">
     <h3>Ryofu Housen</h3>
     <div>Ikkitousen</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/megumi.jpg">
+    <h3>Shimizu Megumi</h3>
+    <div>Shiki</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/momoi.jpg">
+    <h3>Momoi Satsuki</h3>
+    <div></div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/sheryl.jpg">
+    <h3>Sheryl Nome</h3>
+    <div>Macross Frontier</div>
   </div>
 </div>
 
