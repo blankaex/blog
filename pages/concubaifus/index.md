@@ -158,6 +158,11 @@ comments: false
     <h3>Sheryl Nome</h3>
     <div>Macross Frontier</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/eiko.jpg">
+    <h3>Tsukimi Eiko</h3>
+    <div>Paripi Koumei</div>
+  </div>
 </div>
 
 <script src="/pages/concubaifus/jquery.min.js"></script>
