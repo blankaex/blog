@@ -197,7 +197,7 @@ There are dozens of *yaku*, many of which are very specific and/or rare. Memoris
 
 ### Riichi
 
-The name of the game. If you are in tenpai and have yet to *naki*, you may declare *riichi*. Doing so will guarantee at least one *yaku* (*riichi* itself), which will make your hand a valid winning hand, even if it previously had no *yaku*.
+The name of the game. If you are in *tenpai* and have yet to *naki*, you may declare *riichi*. Doing so will guarantee at least one *yaku* (*riichi* itself), which will make your hand a valid winning hand, even if it previously had no *yaku*.
 
 Once you declare *riichi*, you are no longer able to change your hand. If the tile you draw on your turn is not your winning tile, you must discard it. You are also not allowed to call *chii* or *pon*.
 
@@ -281,9 +281,9 @@ Good luck, and have fun.
 ## Additional Resources
 
 |**[Riichi.Wiki](https://riichi.wiki/Main_Page)**|English Riichi Mahjong wiki. Great place to quickly look up jargon or read about specific rules, *yaku* and strategies in-depth. Formerly Arcturus Wiki.|
-|**[Mahjong in 20 Minutes](https://youtu.be/eesuXarJlbw)**|Basically this guide but as a video, narrated by a cute v-tuber (Kusunoki Sio). Has English captions, but might be a bit confusing due to the order she explains things and how oddly specific she gets about trivial edge cases.|
+|**[Mahjong in 20 Minutes](https://youtu.be/eesuXarJlbw)**|Basically this guide but as a video, narrated by a cute v-tuber (Kusunoki Sio). Has English captions, but might still be a bit confusing due to the order she explains things and how oddly specific she gets about trivial edge cases.|
 |**[Comprehensive Mahjong Guide](https://youtu.be/hlnC2rgIPrc)**|Three-and-a-half hour long comprehensive Riichi Mahjong video guide by *HanaYoriUta*. Probably the golden standard as far as English Riichi Mahjong video guides go. Recommended to watch after you've gotten more familiar with the game, or if you just have a lot of time to kill.|
-|**[Riichi Book I](https://dainachiba.github.io/RiichiBooks/)**|Written by Daina Chiba. Possibly the best English resource for intermediate Mahjong strategies. Definitely recommended reading, but don't bother with it until you're comfortable with the game and all of the rules/*yaku*. [I'm actually a contributor to this book.](https://github.com/dainachiba/RiichiBooks/graphs/contributors)|
-|**[Mahjong Soul](https://mahjongsoul.game.yo-star.com/)**|Browser-based Riichi Mahjong platform, and probably the most popular place to play online. Entirely free to play, but has a gacha system for cosmetics. Also available on mobile. [Playing on the JP server](https://game.mahjongsoul.com) is recommended if you can read tiles without English guides.|
+|**[Riichi Book I](https://dainachiba.github.io/RiichiBooks/)**|Written by Daina Chiba. Possibly the best English resource for intermediate Mahjong strategies. Definitely recommended reading, but don't bother with it until you're comfortable with the game and all of the rules/*yaku*. [I'm actually a contributor too.](https://github.com/dainachiba/RiichiBooks/graphs/contributors)|
+|**[Mahjong Soul](https://mahjongsoul.game.yo-star.com/)**|Browser-based Riichi Mahjong platform, and probably the most popular place to play online. Entirely free to play, but has a gacha system for cosmetics. Also available on mobile. [Playing on the Japan server](https://game.mahjongsoul.com) is recommended if you can read tiles without English guides.|
 |**[Hime Mahjong](https://www.himemj.jp/)**|Alternative platform, available on Steam, iOS and Android. Has better gacha rates and more cosmetics than Mahjong Soul, but no English translation ([yet](https://store.steampowered.com/newshub/app/1084520/view/2575446648010019274)) hence a smaller playerbase. English UI guide is [available on Riichi.Wiki](https://riichi.wiki/MajHime).|
 |**[Tenhou](https://tenhou.net/)**|Japanese online Mahjong platform. Played by professionals. Tenhou ranking is widely considered an accurate reflection of player skill. Would highly recommend avoiding as a beginner, but you may wish to test yourself in a more serious environment somewhere down the line.|
