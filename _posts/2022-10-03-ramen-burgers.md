@@ -74,7 +74,7 @@ This conception may not be too widespread in the west, but ramen is not really a
 
 Despite this reputation, Mayoi is an unabashed ramen fan. However, this perception of ramen isn't really widespread in the English-speaking world. In most countries outside of Japan, ramen is actually more of a special dish that you'd go out to eat specifically, so keeping it as ramen in English doesn't really work.
 
-The following question is left as an exercise for the reader:
+The following is left as an exercise for the reader:
 
 *What's a cheap, oily, and unhealthy food that you wouldn't find girls eating too often?*
 
@@ -89,7 +89,7 @@ Honestly this worked really well in the games where they never showed the food, 
 
 Anyway, back on topic. This has basically been the guiding principle—the north star, if you will—that we've been working under this entire time. Even longer, if you happen to know us from before *Mieruko-chan*.
 
-A translated work should be able to be consumed as if it were produced in the target language. It shouldn't require additional cultural or linguistic knowledge to understand, and it definitely shouldn't require footnotes to be comprehensible. I say this all the time, but translating is more of a creative practice than people give it credit for. It's about conveying meaning, not just playing swapping words.
+A translated work should be able to be consumed as if it were produced in the target language. It shouldn't require additional cultural or linguistic knowledge to understand, and it definitely shouldn't require footnotes to be comprehensible. I say this all the time, but translating is more of a creative practice than people give it credit for. It's about conveying meaning, not just swapping words.
 
 Obviously, this rule might break down if the work is heavily engrained in the culture of the source material and explores unique concepts of that language and its people. It does hold up pretty well for a cartoon book about spoops with yuri undertones, though.
 
@@ -103,7 +103,7 @@ You might not agree with this choice, but at the end of the day, this is the goa
 
 In this instance, the author wills "Guasto" into existence, a play on the Japanese diner "Gusto". Since "Guasto" is a nonsensical string to people who have never seen a Gusto, we figured "Benny's" would be a good equivalent that would be more meaningful to viewers. I think this is a pretty inoffensive choice.
 
-Then in the next panel, Mitsue orders an "abrupt steak set", referring to a Japanese steak chain. The joke is that you would expect an "abrupt steak set" to be a menu item at "abrupt steak", not at a Guasto—hence, McSteak at a Denny's. I would've thought that this would've been more contentious, but from memory I don't think anyone ever brought this up.
+Then in the next panel, Mitsue orders an "Abrupt Steak Set", referring to a Japanese steak chain. The joke is that you would expect an "Abrupt Steak Set" to be a menu item at "Abrupt Steak", not at a Guasto—hence, McSteak at a Denny's. I would've thought that this would've been more contentious, but from memory I don't think anyone ever brought this up.
 
 Maybe there's a line where McSteaks are okay but tacos aren't, and the position of that line is just different for everyone. Or maybe nobody understood the steak joke last time. You know, [I've always wondered why all the translation issues that weebs raise are always entry-level Japanese and tourist-tier culture references. Probably just a coincidence. I'm sure there aren't any difficult Japanese concepts that might be tricky to translate.]({{ site.url }}/translating-honorifics/)
 
