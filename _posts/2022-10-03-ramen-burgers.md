@@ -15,7 +15,7 @@ If you squint hard enough, don't you think sushi kinda looks like a burrito?
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-[It's been a while since I've written about translating]({{ site.url }}/dont-crunchyroll-your-own-translation/), but what better time than now since I've gotten enough people riled up and we have a perfect example to explore?
+[It's been a while since I've written about translating]({{ site.url }}/dont-crunchyroll-your-own-translation/), but what better time than now since I've gotten enough people riled up and we have [a perfect example to explore](https://mangadex.org/chapter/cfe047a0-d9fd-4286-aff1-bebeff9a5b77/5)?
 
 ## Why did we write tacos instead of sushi?
 
