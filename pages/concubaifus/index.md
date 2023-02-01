@@ -151,7 +151,7 @@ comments: false
   <div class="flex-item">
     <img src="/pages/concubaifus/img/momoi.jpg">
     <h3>Momoi Satsuki</h3>
-    <div></div>
+    <div>Kuroko no Basket</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/sheryl.jpg">
