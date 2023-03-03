@@ -109,7 +109,7 @@ comments: false
     <div>Darwin's Game</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/c.c..jpg">
+    <img src="/pages/concubaifus/img/cc.jpg">
     <h3>C.C.</h3>
     <div>Code Geass</div>
   </div>
@@ -165,7 +165,7 @@ comments: false
   </div>
 </div>
 
-<script src="/pages/concubaifus/jquery.min.js"></script>
+<script src="/assets/js/jquery-1.12.0.min.js"></script>
 <script>
     var cards = $(".flex-item");
     for(var i = 0; i < cards.length; i++) {
