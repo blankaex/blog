@@ -169,8 +169,8 @@ comments: false
 <script>
     var cards = $(".flex-item");
     for(var i = 0; i < cards.length; i++) {
-        var x = Math.floor(Math.random() * cards.length -1) + 1;
-        var y = Math.floor(Math.random() * cards.length -1) + 1;
+        var x = Math.floor(Math.random() * cards.length - 1) + 1;
+        var y = Math.floor(Math.random() * cards.length - 1) + 1;
         cards.eq(x).before(cards.eq(y));
     }
 </script>
