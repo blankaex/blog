@@ -243,29 +243,29 @@ comments: false
 <center><h2>MapleStory</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/ms/aran.png">
-    <h3>Aran</h3>
-    <div>アラン</div>
+    <img src="/pages/taste/img/ms/haste.gif">
+    <h3>Haste</h3>
+    <div>ヘイスト</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ms/db.png">
-    <h3>Dual Blade</h3>
-    <div>デュアルブレイド</div>
+    <img src="/pages/taste/img/ms/assaulter.gif">
+    <h3>Assaulter</h3>
+    <div>アサルター</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ms/dit.png">
-    <h3>Shadower</h3>
-    <div>シャドー</div>
+    <img src="/pages/taste/img/ms/savage.gif">
+    <h3>Savage Blow</h3>
+    <div>サベッジブロー</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ms/nw.png">
-    <h3>Night Walker</h3>
-    <div>ナイトウォーカー</div>
+    <img src="/pages/taste/img/ms/meteor.gif">
+    <h3>Meteor Shower</h3>
+    <div>メテオ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ms/tb.png">
-    <h3>Thunder Breaker</h3>
-    <div>ストライカー</div>
+    <img src="/pages/taste/img/ms/genesis.gif">
+    <h3>Genesis</h3>
+    <div>ジェネシス</div>
   </div>
 </div>
 
