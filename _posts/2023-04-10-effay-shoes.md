@@ -26,7 +26,7 @@ If you're missing everything on this list and can only afford to pick up one pai
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Adidas Stan Smith, Adidas Superstar" %}
 
-Stan Smiths and Superstars, both by Adidas, are the conventional white sneaker. Pretty similar with only slight differences in silhouette, design and materials. Going either way would be a relatively safe bet, but anecdotally the trend tends to lean towards Stans if that's something you care about.
+Stan Smiths and Superstars, both by Adidas, are the conventional white sneaker. They're pretty similar with only slight differences in silhouette, design and materials. Going either way would be a relatively safe bet, but anecdotally the trend tends to lean towards Stans if that's something you care about.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/cps.jpg
@@ -62,7 +62,7 @@ Since you already have a white sneaker, a darker-hued high top wouldn't be a goo
 
 When it comes to high tops, Converse and Vans are the two big names. They're almost exactly the same shoe in terms of what they offer, so I'd encourage just going by preference.
 
-If you do opt for either shoe, make sure you pick up the Chuck Taylor 70s (not the All Stars) or the Vans pro model (not the lifestyle model), unless you want a $5 shoe that'll fall apart after half a dozen wears.
+If you do opt for either shoe, make sure you pick up the Chuck Taylor 70s (not the All Stars) or the Vans pro model (not the lifestyle model), unless you want a dollar store shoe that'll fall apart at the seams after half a dozen wears.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/blazer.jpg
@@ -70,7 +70,7 @@ If you do opt for either shoe, make sure you pick up the Chuck Taylor 70s (not t
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Nike Blazer Mid '77, Nike Air Force 1 High '07" %}
 
-If you prefer Nike, the Blazer Mid '77s are also a good choice here. They're a bit more premium but the build quality tells. The look is also a bit sportier than Converse/Vans, which could be up your alley.
+If you prefer Nike, the Blazer Mid '77s are also a good choice here. They're a bit pricier, but the build quality tells. The look is also a bit sportier than Converse/Vans, which could be up your alley.
 
 Again for the chunky sneaker fans, there is also a high top version of the Air Force 1s. This is my choice over the Air Jordans (also Nike), mainly because the latter tends to be rather loud and tacky.
 
@@ -80,7 +80,7 @@ Again for the chunky sneaker fans, there is also a high top version of the Air F
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Converse Chuck Taylor 70, Palladium Pampa Lite Lace It" %}
 
-I'm currently rocking the Chuck Taylor 70s in the parchment colourway. The style and silhouette is fairly inoffensive, but also pretty uninspired. The comfort is also passable at best, so I'm considering benching them for another shoe.
+I'm currently rocking the Chuck Taylor 70s in the parchment colourway. The style and silhouette is fairly inoffensive, but also pretty uninspired. The comfort is also passable at best for me, so I'm considering benching them for another shoe.
 
 One brand that has recently caught my eye as a potential replacement is Palladium, whose claim to fame is a strange hybrid style they call "sneakerboots". They allegedly offer some of the look and functionality of boots (i.e. water resistance), but with the comfort, weightlessness, stylishness, and price tag of a sneaker.
 
@@ -104,11 +104,11 @@ Picking up more steam recently are the dad shoe, such as the pictured New Balanc
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/samba.jpg
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/gazelle.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="Adidas Sambarose, Adidas Y-3 Gazelle" %}
+{% include gallery images=images cols=2 caption="Adidas Samba Rose, Adidas Y-3 Gazelle" %}
 
 If you're more of an Adidas Stan 😉 then the Sambas and Gazelles are also great picks to make yourself seen. They're similar shoes but both offer a wide array of designs.
 
-Between the two, Sambas are more popular and widespread, whereas the Gazelles boast unique collabs with brands like Gucci and Y-3 (as shown above) in addition to the default looks.
+Between the two, Sambas are more popular and widespread, whereas the Gazelles boast unique collabs with brands like Gucci and Y-3 (as shown above) in addition to the standard looks.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/numeric.jpg
@@ -116,7 +116,7 @@ Between the two, Sambas are more popular and widespread, whereas the Gazelles bo
 {% endcapture %}
 {% include gallery images=images cols=2 caption="New Balance Numeric 22, Yeezy Boost 350 V2" %}
 
-Personally I have a pair of New Balance Numeric 22s in burgundy. They have the perfect level of desaturation to add an air of informality to a classy all-black outfit, but the browner tone keeps them from looking too out of place in white/beige outfits as well.
+Personally I have a pair of New Balance Numeric 22s in burgundy. They have the perfect level of desaturation to add an air of informality to a classy all-black outfit, but the browner hue keeps them from looking too out of place in white/beige outfits as well.
 
 I've also got a pair of Yeezy 350 V2s in the Israfil colourway, which actually leads nicely into a point I wanted to include in this section: I wasn't sure if I should really recommend anything here, because statement sneakers should be about the statement that _you_ want to make; not anybody else.
 
@@ -138,9 +138,9 @@ This is the practicality pick. If you're not an absolutely degenerate recluse (i
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Adidas Ultraboost 1.0 DNA, Nike Invincible 3" %}
 
-My first recommendation here is anything with the Adidas Ultraboost foam, such as the Ultraboost 1.0 DNAs. These are a super comfortable sole that other brands have attempted to reproduce to varying degrees of success. Some are arguably better, but Ultraboosts remain a safe pick even today, almost a decade after their inception.
+My first recommendation here is anything with the Adidas Ultraboost foam, such as the Ultraboost 1.0 DNAs. These are an extremely comfortable sole that other brands have attempted to challenge to varying degrees of success. Some are arguably better, but Ultraboosts remain a safe pick even today, almost a decade after their inception.
 
-It should come as no surprise that the next recommendation is from athletic sneaker giant Nike. Zoom X is their answer to Ultraboost, which while not as widely regarded, are just as comfortable as far as I'm concerned. The foam trade-off is balanced by Nike's super soft Flyknit upper, which is the actual recommendation here. This can be seen in shoes such as the Invincible 3.
+It should come as no surprise that the next recommendation is from athletic sneaker giant Nike. Zoom X is their answer to Ultraboost, which while not as widely regarded, are just as comfortable as far as I can tell. The foam trade-off is balanced by Nike's super soft Flyknit upper, which is the actual recommendation here. This can be found in shoes such as the Invincible 3.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/hoka.jpg
@@ -164,7 +164,7 @@ My sneaker of choice in this category are the Nike Flex Contacts, with a simple 
 
 Rounding off the list is the Chelsea boot. No shoe closet is complete without a more sophisticated option, and Chelseas are the perfect candidate. They can easily be dressed down more casually, but also work fine with a suit and tie. 
 
-This has the added benefit of saving you from the uncomfortable dress shoe you didn't spend enough money on, and hasn't been broken in because you only wear them once every other year when someone gets married or dies.
+This has the added benefit of saving you from the uncomfortable dress shoe you didn't spend enough money on, and haven't been broken in because you only wear them once every other year when someone gets married or dies.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/wyatt.jpg
@@ -172,13 +172,13 @@ This has the added benefit of saving you from the uncomfortable dress shoe you d
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Yves Saint Laurent Wyatt Chelsea, Polsa Uomo Side Gore" %}
 
-Unfortunately this is where my knowledge hits a bit of a wall, as I haven't had too much experience with Chelsea boots. I really like the YSL Wyatt Chelsea, [but I also like having money](https://www.ysl.com/en-us/boots/wyatt-chelsea-boots-in-suede-443208BT3001000.html). However I suspect this might be one of those products that has a lower bound before it becomes a worthwhile investment.
+Unfortunately this is where my knowledge hits a bit of a wall, as I haven't had too much experience with Chelsea boots. I really like the YSL Wyatt Chelsea, [but I also really like having money](https://www.ysl.com/en-us/boots/wyatt-chelsea-boots-in-suede-443208BT3001000.html). However I suspect this might be one of those products that have a lower price bound before it becomes a worthwhile investment.
 
 I do have a pair of the Polsa Uomo Side Gore, but everything about it feels like a compromise. The materials aren't amazing, the fit is mediocre, the sole is uncomfortable, the shaft could be taller, and overall they aren't very pleasant to wear. Keep an eye on this space; I may revisit this topic at a later date.
 
 ## What Next?
 
-I'd definitely suggest stocking up one one of each of the above before moving on. Not only will this sort out your wardrobe with a shoe for every outfit and occasion, but it will also help you figure out what you like. This way you'll know if you want to double dip into one of the previous shoe classes, or if you want to expand into other categories and experiment with new styles.
+I'd definitely suggest stocking up one one of each of the above before moving on. Not only will this sort out your wardrobe with a shoe for every outfit and occasion, but it will also help you figure out what you like. This way you'll know if you want to double dip into one of the previous shoe classes for alternate styles, or if you want to expand into other categories and experiment with different options.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/1680988952754371.jpg
