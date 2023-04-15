@@ -76,9 +76,9 @@ Again for the chunky sneaker fans, there is also a high top version of the Air F
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/chuck-70s-2.jpg
-    {{ site.url }}/assets/res/2023-04-10-effay-shoes/pampa-lite.jpg
+    {{ site.url }}/assets/res/2023-04-10-effay-shoes/pampa-hi.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="Converse Chuck Taylor 70, Palladium Pampa Lite Lace It" %}
+{% include gallery images=images cols=2 caption="Converse Chuck Taylor 70, Palladium Pampa Hi Outzip Overlab" %}
 
 I'm currently rocking the Chuck Taylor 70s in the parchment colourway. The style and silhouette is fairly inoffensive, but also pretty uninspired. The comfort is also passable at best for me, so I'm considering benching them for another shoe.
 
