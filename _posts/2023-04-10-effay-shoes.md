@@ -158,7 +158,7 @@ Also keep in mind that the Mexico 66s were originally a running shoe. The slip-o
 {% endcapture %}
 {% include gallery images=images cols=2 caption="Nike Flex Contact, Nike Pegasus Turbo Next Nature" %}
 
-My sneaker of choice in this category are the Nike Flex Contacts, which come in an unassuming dark texture. However I'm on the fence on replacing them with a Pegasus Turbo Next Nature (also from Nike) because the purple swoosh is really growing on me as a subtle way to add a splash of colour to otherwise plain outfits.
+My sneaker of choice in this category are the Nike Flex Contacts, which come in an unassuming dark texture. However I'm on the fence on upgrading to a Pegasus Turbo Next Nature (also from Nike) because the purple swoosh is really growing on me as a subtle way to add a splash of colour to otherwise plain outfits.
 
 ## 5. Chelsea Boot
 
