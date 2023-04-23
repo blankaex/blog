@@ -98,7 +98,7 @@ Also as far as statement pieces go, it's also a lot easier to make a statement w
 
 Trending perpetually are the Mexico 66s from Onitsuka Tiger; lately I'm seeing Bruce Lee palette quite often. However there are plenty of other great colourways, and the SD and Deluxe lines offer more premium options and unique designs as well.
 
-More recently picking up steam are the dad shoe, i.e. the New Balance 550s and 99x series. I was hesitant to include these here because they're so commonplace that I'm not really sure they're even much of a statement anymore—and I also don't like them that much—but you do you.
+More recently picking up steam are the dad shoe, i.e. the New Balance 550/574/99x series. I was hesitant to include these here because they're so commonplace that I'm not really sure they're even much of a statement anymore—and I also don't like them that much—but you do you.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-04-10-effay-shoes/samba.jpg
