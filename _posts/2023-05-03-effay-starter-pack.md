@@ -143,7 +143,7 @@ Wear them. Yes, that's literally it. Pretty much any combination of the above it
 </ul></td><td>
 <h3>Fall/Winter</h3><ul>
 <li>Hoodie, white shirt, blue jeans</li>
-<li>Hoodie, black shirt, black jeans</li>
+<li>Hoodie, black shirt, black trousers</li>
 <li>Bomber, white shirt, blue jeans</li>
 <li>Bomber, black shirt, black trousers</li>
 <li>Bomber, hoodie, white shirt, black trousers</li>
