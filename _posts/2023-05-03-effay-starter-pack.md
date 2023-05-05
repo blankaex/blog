@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fashion Starter Pack - Top 10"
+title:  "Fashion Starter Pack: Top 10"
 date: 2023-05-03
 excerpt: "What they give you when you get off effay tutorial island."
 tag:
