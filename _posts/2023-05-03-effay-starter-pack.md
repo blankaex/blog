@@ -25,13 +25,13 @@ There's a saying about not cheaping out on a bed or shoes, because if you're not
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/2-uniqlo.jpg
-    {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/2-cos.jpg
+    {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/2-abercrombie.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="Uniqlo AirSense Pants (Wool Like), Cos Regular Fit Tapered Trousers" %}
+{% include gallery images=images cols=2 caption="Uniqlo AirSense Pants (Wool Like), Abercrombie & Fitch Slim Taper Pull-On Pant" %}
 
 Contrary to popular belief, trousers don't need a jacket and tie. A classy pair of dress pants is surprisingly versatile and elevates even the most basic and casual outfits. Wearing them casually may not have even occurred to you as an option, but take my word for it—[you don't even have to try to make dress pants look good](https://youtu.be/fJ72ULexBIo).
 
-When purchasing, you'll want to pay attention to a number of factors beyond the basic fit. An unfortunate crop or taper can single-handedly ruin an outfit (though a tailor could also fix this for you for $10). Also keep an eye out for a clean center pleat to really drive home your class. Uniqlo and Cos have some good affordable options that check all these boxes.
+When purchasing, you'll want to pay attention to a number of factors beyond the basic fit. An unfortunate crop or taper can single-handedly ruin an outfit. Also keep an eye out for a clean center pleat to really drive home your class. Uniqlo's AirSense line boasts great style, comfort, and price, but the likes of Abercrombie also offers strong competition.
 
 ## 3. Light Wash Blue Denim Jeans
 
