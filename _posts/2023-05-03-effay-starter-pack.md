@@ -72,10 +72,10 @@ Again, just get the same Uniqlo shirt in black. If you would rather shop around,
 ## 6. Beige Linen Button-Down
 
 {% capture images %}
-    {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/6-zara.jpg
+    {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/6-abercrombie.jpg
     {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/6-uniqlo.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="Zara Linen Cotton Shirt, Uniqlo Premium Linen Long-Sleeve Shirt" %}
+{% include gallery images=images cols=2 caption="Abercrombie & Fitch Signature Icon Linen Button-Up Shirt, Uniqlo Premium Linen Long-Sleeve Shirt" %}
 
 Perhaps a surprising choice, but this is a piece that can function as a bottom, middle, or outer layer. I think it looks great unbuttoned over a T-shirt, but you could wear it on its own or with a jacket on top and it would still look good. Beige is a great colour here to add variety and open up options with the other pieces we have.
 
