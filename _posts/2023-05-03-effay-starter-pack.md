@@ -55,7 +55,7 @@ There's a whole denim rabbit hole to be had, but you can skip all of that unless
 
 The torso equivalent of the white sneaker. Throw this on any outfit and it'll work out well. It's also an essential layering piece that you can slip under jackets and overshirts. It's tempting to raise eyebrows at plain tees and reach for your graphic options instead, but the options offered by a blank slate are second to none, and definitely something to include in your wardrobe.
 
-There are no shortage of options for white tees, but just take my word for it—Get the Uniqlo U Airism Oversized shirt. Nothing beats the fabric, the silhouette, and most importantly, the price. You'll also probably want more than one T-shirt if you're not a disgusting slob, so feel free to mix it up with a more fitted one, or one with a pocket as well.
+There are no shortage of options for white tees, but just take my word for it—Get the Uniqlo U Airism Oversized shirt. Nothing beats the fabric, the silhouette, and most importantly, the price. You'll also probably want more than one T-shirt if you're not a disgusting slob, so feel free to mix it up with a more fitted one, or one with a pocket or mock neck as well.
 
 ## 5. Black T-Shirt
 
