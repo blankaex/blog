@@ -111,7 +111,7 @@ It's hard to recommend a bomber without pointing to Alpha Industries. They have 
     {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/9-nike.jpg
     {{ site.url }}/assets/res/2023-05-03-effay-starter-pack/9-adidas.jpg
 {% endcapture %}
-{% include gallery images=images cols=2 caption="Nike Elemental Premium Crossbody Bag, Adidas Utility Festival Crossbody Bag" %}
+{% include gallery images=images cols=2 caption="Nike Elemental Premium Crossbody Bag, Adicolor Classic Festival Bag" %}
 
 Great outfits are set apart from good ones by accessories. Once you have the basics sorted, I'd say branching out into accessories is a better play than just getting more clothes. A crossbody bag serves dual functions of filling the accessory niche while also saving you from unflattering bulky pockets, and a black one works with everything.
 
