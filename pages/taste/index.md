@@ -78,14 +78,14 @@ comments: false
 <center><h2>Yu-Gi-Oh!</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/rfmagician.jpg">
-    <h3>Rapid Fire Magician</h3>
-    <div>連弾の魔術師</div>
+    <img src="/pages/taste/img/ygo/kentregina.jpg">
+    <h3>Dinomorphia Kentregina</h3>
+    <div>ダイノルフィア・ケントレギナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/artemis.jpg">
-    <h3>Bountiful Artemis</h3>
-    <div>豊穣のアルテミス</div>
+    <img src="/pages/taste/img/ygo/ferrijit.jpg">
+    <h3>Tri-Brigade Ferrijit the Barren Blossom</h3>
+    <div>鉄獣戦線 徒花のフェリジット</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/iblee.jpg">
