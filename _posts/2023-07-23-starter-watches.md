@@ -25,9 +25,9 @@ It had been over a decade and a half since I'd regularly worn a watch, but I sti
 {% endcapture %}
 {% include gallery images=images %}
 
-We all know that sneakerhead that can tell you every attribute of a given shoe, but will wear Jordans and Yeezys with 3/4 cargo shorts and an anime T-shirt and look like a manchild. This is also how I perceive most watch enthusiasts: a Royal Oak and Nautilus on each wrist, with a sexual harrassment polo and khakis to match.
+Before we look at these though, a foreword. We all know that sneakerhead that can tell you everything about a given shoe, but will wear Jordans and Yeezys with 3/4 cargos and a poorly-fitted anime T-shirt and look like a manchild. This is also how I perceive most watch enthusiasts: a Royal Oak and Nautilus on either wrist, with a sexual harrassment polo and khaki shorts to match.
 
-In my case, fashion is the main theme and watches are the sub-genre, so I don't consider myself an enthusiast. I'm a generalist, not a specialist. I can tell you about watches, but not to the same level of detail—although what I say probably won't come with opinions as obtrusive. Anyway, let's get into my watches.
+In my case, fashion is the main theme and watches are the sub-genre, so I don't consider myself an enthusiast. I'm a generalist, not a specialist. I can tell you about watches, but perhaps not to the same level of detail—although what I say probably won't come with opinions as obtrusive. Anyway, let's get into my watches.
 
 ## Casio A700
 
@@ -45,7 +45,7 @@ The resin case and acrylic crystal betray its at-a-glance premium appearance (at
 {% endcapture %}
 {% include gallery images=images %}
 
-I was also on the fence about the Milanese strap and briefly considered the A700W-1A, which is the same watch but with a bracelet more similar to the H293. However the more casual stainless steel mesh strap grew on me and I'm feeling pretty good about the choice.
+I was also on the fence about the Milanese strap and briefly considered the A700W-1A, which is the same watch but with a bracelet more akin to the H293. However the more casual stainless steel mesh strap grew on me and I'm feeling pretty good about the choice.
 
 ## Timex Fairfield 37mm
 
@@ -56,7 +56,7 @@ I was also on the fence about the Milanese strap and briefly considered the A700
 
 Next on my list is the Timex Fairfield. I opted for the mundane (read: versatile) black-band-white-dial combo so that this watch could fill a different niche to the A700. It's casual enough to be worn with a T-shirt, but also won't look *too* out of place with an OCBD.
 
-It's a humble quartz watch with a mineral glass crystal and chrome-plated brass case, again on the lower end of the spectrum. Due to this, the Timex Midtown was actually a more enticing pick due to its stainless steel construction and 38mm diameter, which would fit me better than the Fairfield's 41mm.
+It's a humble quartz watch with a mineral glass crystal and chrome-plated brass case, again on the lower end of the spectrum. Due to this, the Timex Midtown was actually a more enticing pick initially due to its stainless steel construction and 38mm diameter, which would fit me better than the Fairfield's 41mm.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-07-23-starter-watches/midtown.jpg
@@ -65,14 +65,14 @@ It's a humble quartz watch with a mineral glass crystal and chrome-plated brass 
 
 However upon further research, I discovered a tidbit that ultimately tipped the scales in favour of the Fairfield: it actually comes in 37mm as well. To top it off, the 37mm also allegedly suffers from the 41mm's issues to a somewhat lesser degree; these being the loud ticking noise and the imprecise second hand.
 
-Upon also hearing that the leather strap on the Fairfield was surprisingly good quality, the 7700 yen price tag (which is about what you'd get it for in the West on Timex's perpetual sale) won me over, especially considering the Midtown was double that and doesn't even have a sapphire crystal.
+Upon also hearing that the leather strap on the Fairfield was surprisingly good quality, the 7700 yen price tag (which is about what you'd get it for in the West on Timex's perpetual sale) won me over, especially considering the Midtown was double that yet doesn't even have a sapphire crystal.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-07-23-starter-watches/strap.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-As an added bonus, the Fairfield also comes with a steel mesh strap. Both straps have quick-release notches for easy swapping, but I don't see myself using the mesh one for two reasons. First, I already have the A700 with a mesh strap. Second, and perhaps more importantly, it doesn't fit me.
+As an added bonus, the Fairfield also comes with a steel mesh strap. Both straps have quick-release notches for easy swapping, but I don't see myself using the mesh one for two reasons. First, I already have the A700 with a mesh strap. Second, and perhaps more importantly, it doesn't fit.
 
 ## Seiko SBPX063
 
@@ -90,7 +90,7 @@ Beyond the technical specifications I was interested in (solar power, stainless 
 {% endcapture %}
 {% include gallery images=images caption="Seiko SBPX123" %}
 
-The SBPX123 was originally my first pick, as it boasts the above attributes and the dial is right up my alley in terms of design. However the leather strap was underwhelming in person (the store attendant even told me not to put it on to avoid creasing, which was a huge red flag) and the black-on-black dial/band combo was a bit too much.
+The SBPX123 was originally my first pick, as it boasts the above features and the dial is right up my alley in terms of design. However the leather strap was underwhelming in person (one store attendant even told me not to put it on to avoid creasing, which was a huge red flag) and the black-on-black dial/band combo was a bit too much.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-07-23-starter-watches/sbpx121.jpg
@@ -99,7 +99,7 @@ The SBPX123 was originally my first pick, as it boasts the above attributes and 
 
 Conveniently, Seiko also makes a version with an oyster bracelet which was much more tempting. This is the SBPX121, which is the same watch by all metrics bar the bracelet (obviously) and the colour of the dial. Both watches have an MSRP of 26400 yen and retail for 18400, but I managed to find a deal for this for 5000 yen so my hand was forced despite my heavy preference for the SBPX123's dial.
 
-If nothing else, the 121 served as a good trial run to get an idea of the sizing, weight, and styling of this kind of watch. I was pretty happy with it and briefly entertained the idea of also purchasing a 123 to swap the bands, but then I re-discovered the SBPX063.
+If nothing else, the 121 served as a good trial run to get an idea of the sizing, weight, and styling of this kind of watch. I was pretty happy with it and briefly entertained the idea of also purchasing a 123 to swap the bands, but I'll probably end up selling/gifting it instead as I went on to re-discover the SBPX063.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-07-23-starter-watches/seikos.jpg
@@ -108,7 +108,7 @@ If nothing else, the 121 served as a good trial run to get an idea of the sizing
 
 Side-by-side the watches are almost identical, which is no surprise as they share all the same specs, even down to the price tag. The SBPX063's dial thankfuly tends more towards the 123's apart from the "solar" subtext. I could've done without this, and I'm not sure why it's only listed on this one despite all 3 watches being solar powered.
 
-Regardless, I managed to snag the 063 at an auction for just shy of 9000 yen, which was great shopping as far as I'm concerned. Apart from the overall aesthetic, the kanji day window and casual oyster bracelet were just what I was after, and I have no real complaints about the purchase.
+Regardless, I managed to snag the 063 at an auction for just shy of 9000 yen, which was great shopping as far as I'm concerned. Apart from the overall aesthetic, the kanji day window and steel bracelet were just what I was after, and I have no real complaints about the purchase.
 
 {% capture images %}
     {{ site.url }}/assets/res/2023-07-23-starter-watches/wrist.jpg
