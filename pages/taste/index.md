@@ -83,9 +83,9 @@ comments: false
     <div>ダイノルフィア・ケントレギナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/ferrijit.jpg">
-    <h3>Tri-Brigade Ferrijit the Barren Blossom</h3>
-    <div>鉄獣戦線 徒花のフェリジット</div>
+    <img src="/pages/taste/img/ygo/kurikara.jpg">
+    <h3>Kurikara Divincarnate</h3>
+    <div>倶利伽羅天童</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/iblee.jpg">
