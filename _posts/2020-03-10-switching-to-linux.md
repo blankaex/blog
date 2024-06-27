@@ -9,7 +9,7 @@ tag:
 
 If you're reading this blog post, then you're probably one of my friends, because no one else reads my blog. But if you're not, then you're probably someone who's already considering switching your main operating system to some flavour of Linux. And the reason you haven't switched yet is because you still have some lingering concerns. If this sounds like you, then you've come to the right place.
 
-I, like many others, used Windows as my main operating system for quite a long time, and I, like many others, found myself riddled with inconveniences at every stop and turn. I thought it was ridiculous that I had to jump through so many flaming hoops just to achieve basic quality of life changes, and that I had to reinstall my operating system every 6-12 months just to keep it afloat. 
+I, like many others, used Windows as my main operating system for quite a long time, and I, like many others, found myself riddled with inconveniences at every stop and turn. I thought it was ridiculous that I had to jump through so many flaming hoops just to achieve basic quality of life changes, and that I had to reinstall my operating system every 6-12 months when the bubble gum and sticky tape inevitably fell apart.
 
 Everyone told me ditching Windows would solve all of my problems, but I'd gotten so familiar with my entire configuration that I was reluctant to let go. Eventually though, I grew tired of someone else dictating how I should use my own computer and decided it was time to start fresh. It was the best decision of my life. My entire experience has been so much less stressful and I've never looked back or regretted a single second of it.
 
@@ -40,7 +40,7 @@ This includes, by the way, the "theme" of your OS. I'm sure part of, or maybe ev
 
 _Why Fedora, then?_ Because it has great defaults. It's super easy to get up and running, and it's immediately usable out of the box. It comes with all the essentials, and is extremely well-integrated with the Linux ecosystem (i.e. [GNOME](https://en.wikipedia.org/wiki/GNOME), [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)). In fact, managing SELinux on Fedora is seamless because Red Hat maintains it. Your binaries will ship with the best protections, and you'll appreciate the minimal install option if you decide to eventually go down the power user rabbit hole.
 
-_But if distros are mostly the same, then can't I just use anything?_ No. The things I mentioned above are some of the few ways distros _can_ differ, and you definitely want all of those things. Just trust me on this one. Try Fedora for a few months, even if nothing about it seems appealing to you. Just as your first car need not be your last car, your first Linux distro need not be your last Linux distro.
+_But if distros are mostly the same, then can't I just use anything?_ [No.]({{ site.url }}/derivative-distros/) Aside from the issues with derivatives, the features I mentioned above are some of the few ways distros _can_ differ, and you definitely want them all. Take it at faith and try Fedora for a few months, even if nothing about it seems appealing to you. Just as your first car need not be your last car, your first Linux distro need not be your last Linux distro.
 
 If you've made it this far without messaging me to address the elephant in the room, congratulations.
 
