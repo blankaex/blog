@@ -99,8 +99,8 @@ comments: false
     <div>Super Dangan Ronpa 2</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/mona.jpg">
-    <h3>Mona</h3>
+    <img src="/pages/concubaifus/img/hutao.jpg">
+    <h3>Hutao</h3>
     <div>Genshin</div>
   </div>
   <div class="flex-item">
@@ -124,11 +124,6 @@ comments: false
     <div>Amagami</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/concubaifus/img/hidaka.jpg">
-    <h3>Hidaka Koharu</h3>
-    <div>Hi Score Girl</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/concubaifus/img/yaya.jpg">
     <h3>Yaya</h3>
     <div>Machine-Doll wa Kizutsukanai</div>
@@ -147,11 +142,6 @@ comments: false
     <img src="/pages/concubaifus/img/megumi.jpg">
     <h3>Shimizu Megumi</h3>
     <div>Shiki</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/concubaifus/img/momoi.jpg">
-    <h3>Momoi Satsuki</h3>
-    <div>Kuroko no Basket</div>
   </div>
   <div class="flex-item">
     <img src="/pages/concubaifus/img/sheryl.jpg">
