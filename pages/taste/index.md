@@ -165,9 +165,9 @@ comments: false
     <div>カリン</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pad/tamadra.webp">
-    <h3>TAMADRA</h3>
-    <div>たまドラ</div>
+    <img src="/pages/taste/img/pad/claudia.webp">
+    <h3>Claudia</h3>
+    <div>クラウディア</div>
   </div>
 </div>
 
