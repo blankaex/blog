@@ -109,32 +109,32 @@ comments: false
 <center><h2>Pokémon</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/absol.png">
+    <img src="/pages/taste/img/pkmn/absol.png">
     <h3>Absol</h3>
     <div>アブソル</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/skarmory.png">
+    <img src="/pages/taste/img/pkmn/skarmory.png">
     <h3>Skarmory</h3>
     <div>エアームド</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/scizor.png">
+    <img src="/pages/taste/img/pkmn/scizor.png">
     <h3>Scizor</h3>
     <div>ハッサム</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/mawile.png">
+    <img src="/pages/taste/img/pkmn/mawile.png">
     <h3>Mawile</h3>
     <div>クチート</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/metagross.png">
+    <img src="/pages/taste/img/pkmn/metagross.png">
     <h3>Metagross</h3>
     <div>メタグロス</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/pokemon/aggron.png">
+    <img src="/pages/taste/img/pkmn/aggron.png">
     <h3>Aggron</h3>
     <div>ボスゴドラ</div>
   </div>
@@ -212,27 +212,27 @@ comments: false
 <center><h2>Blue Archive</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/buruaka/wakamo.png">
+    <img src="/pages/taste/img/ba/wakamo.png">
     <h3>Wakamo</h3>
     <div>ワカモ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/buruaka/haruna.png">
+    <img src="/pages/taste/img/ba/haruna.png">
     <h3>Haruna</h3>
     <div>ハルナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/buruaka/maki.png">
-    <h3>Maki</h3>
-    <div>マキ</div>
+    <img src="/pages/taste/img/ba/kotama.png">
+    <h3>Kotama</h3>
+    <div>コタマ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/buruaka/iori.png">
+    <img src="/pages/taste/img/ba/iori.png">
     <h3>Iori</h3>
     <div>イオリ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/buruaka/aru.png">
+    <img src="/pages/taste/img/ba/aru.png">
     <h3>Aru</h3>
     <div>アル</div>
   </div>
