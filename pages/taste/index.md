@@ -42,16 +42,6 @@ comments: false
 <center><h2>Shin Megami Tensei</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/smt/decarabia.webp">
-    <h3>Decarabia</h3>
-    <div>デカラビア</div>
-  </div>
-  <div class="flex-item">
-    <img src="/pages/taste/img/smt/jack.webp">
-    <h3>Jack Frost</h3>
-    <div>ジャックフロスト</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/taste/img/smt/lucifer.webp">
     <h3>Lucifer</h3>
     <div>ルシファー</div>
@@ -62,14 +52,24 @@ comments: false
     <div>ロキ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/smt/berserker.webp">
-    <h3>Berserker</h3>
-    <div>ベルセルク</div>
+    <img src="/pages/taste/img/smt/yoshitsune.webp">
+    <h3>Yoshitsune</h3>
+    <div>ヨシツネ</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/taste/img/smt/alice.webp">
+    <h3>Alice</h3>
+    <div>アリス</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/smt/angra.webp">
     <h3>Angra Mainyu</h3>
     <div>アンリ・マンユ</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/taste/img/smt/berserker.webp">
+    <h3>Berserker</h3>
+    <div>ベルセルク</div>
   </div>
 </div>
 
