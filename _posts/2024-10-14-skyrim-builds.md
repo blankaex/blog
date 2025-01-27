@@ -37,11 +37,11 @@ Any tempered and enchanted bow as the weapon, and illusion spells at the ready t
 | Female | Restoration |             | Stendarr's Aura |        |
 | 1:2:1  | Heavy Armor |             | Vampire's Bane  |        |
 
+---
+
 An attempt to escape the stealth allure and experience a more virtuous gameplay loop, while also taking advantage of several Dawnguard additions.
 
 Dawnbreaker as the weapon of choice, and healing spells in the off-hand for survivability. Damaging restoration spells are also available for skirmishes with the undead. Heavy armor to round things out.
-
----
 
 ## Dual Poison Daggers (Delta)
 
