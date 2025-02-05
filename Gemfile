@@ -6,5 +6,8 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 
-gem "webrick"
+gem "csv"
 gem "json"
+gem "logger"
+gem "ostruct"
+gem "webrick"
