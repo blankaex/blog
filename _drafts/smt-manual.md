@@ -79,7 +79,6 @@ When he awoke from his dream, a murder had supposedly taken place in Inogashira 
 ## 2. Getting Started
 ### 1. Title Screen
 You'll be greeted by the title screen when you press the start button. Use the directional pad or select button to highlight an option and press the A button or start button to begin the game.
-
 * **Start**: Start the game from the beginning.
 * **Continue:** If you save during gameplay, your party's status will be recorded as-is. There are two save slots, so use the directional pad to select the data you wish to load and press the A button to confirm. You can save the game at any communication terminal or at the PC in your room by selecting "save".
 
@@ -101,7 +100,6 @@ The properties affected by each stat are explained on pages 14~17.
 ## 3. User Interface
 ### Dungeon Interface (3D Interface)
 You'll see the 3D interface inside buildings and underground.
-
 * **Moon Phase:** The current phase of the moon. This will change as you walk around, and has mysterious effects on the stength of demons and success rate of negotiation.
 * **Current Location:** The current floor you are on and direction you are facing. Depending on the location, this element may not be displayed.
 * **Money / MAG:** Can be viewed by pressing the A button. ¥ displays the amount of money you currently possess. This unit is displayed in Yen, however at a certain point the currency will change to Macca (ћ). MAG displays the amount of magnetite you currently possess. Magnetite is the energy demons need to materialize in the human world. It will gradually decrease as you walk around with demons in your party. If it reaches 0, the HP of your demons will gradually decrease. You can obtain MAG by defeating enemies or requesting it during negotiation.
@@ -112,9 +110,7 @@ You'll see the 3D interface inside buildings and underground.
 The main character obtains this program via a transmission to his PC. This will display every tile you have walked on inside buildings and underground. The main character's party's current location will be displayed in yellow. Other features such as stairs and elevators will also be displayed.
 
 ### Overworld Interface (2D Interface)
-* **Location:** Current location.
-
-You'll see the 2D interface when traversing the overworld. Moon phase and current location will be displayed. Also when stationary, money and MAG will be shown on the top-right of the screen. You can press the A button to open the command menu to see additional information. Press the B button to return to the overworld interface.
+* **Location:** Current location. You'll see the 2D interface when traversing the overworld. Moon phase and current location will be displayed. Also when stationary, money and MAG will be shown on the top-right of the screen. You can press the A button to open the command menu to see additional information. Press the B button to return to the overworld interface.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115009.jpg
@@ -127,10 +123,19 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 * **Dungeon Interface:** Pressing up will move you forward. Left and right will turn you to face that respective direction, and back will turn you around.
 
 ### 2. Commands
-* **Overworld Interface:** 
-* **Dungeon Interface:**
+* **Overworld Interface:** While stationary, press the A button to switch to the command menu. Use the directional pad to select and the A button to confirm. Press the B button to close the menu.
+* **Dungeon Interface:** While stationary, press the A button to display the command menu. The controls are the same as in the overworld interface.
 
 ### 3. Other
+You can interact with options on the screen similarly to the command menu when they are presented. Furthermore when you see an arrow at the end of a message, you can press the A or B button or use the directional pad to continue.
+* **Directional Pad:** Movement, selecting commands. Proceeding messages.
+* **A Button:** Displaying the command menu, confirming commands, proceeding messages.
+* **B Button:** Closing the command menu, proceeding messages.
+* **X Button:** Proceeding messages. (Changing pages when inputting your name.)
+* **Y Button:** Proceeding messages. (Changing pages when inputting your name.)
+* **L Button:** Proceeding messages. (Behaves like the left button on the directional pad.)
+* **R Button:** Proceeding messages. (Behaves like the right button on the directional pad.)
+* **Start Button** / **Select Button**
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115013.jpg
@@ -138,6 +143,16 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 {% include gallery images=images %}
 
 ## 5. Commands (Part I)
+Command Menu: COMP (Computer)
+
+### COMP
+The command to use your computer. Only usable by the main character. Cannot be used when the main character is dead or unconscious.
+* **Summon Demon:** Summon a demon to join your party. Costs money.
+* **Return Demon:** Temporarily remove a demon from your party and return it to your computer's stock.
+* **Delete Demon:** Permanently delete a demon from your stock when you no longer have a use for it.
+* **Change Order:** Change the order of your party members by pressing the A button in order from the start. The member at the front of the party is more likely to be targeted for attacks.
+* **Auto-Map:** Displays tiles you have traversed inside buildings and underground. Refer to pages 6~7 for more detail.
+* **Devil Analysis:** Review the properties of demons you have previously fought. The main character can access this menu in battle. This feature becomes available after a certain event in the game.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115017.jpg
@@ -145,6 +160,18 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 {% include gallery images=images %}
 
 ## Commands (Part II)
+Command Menu: MAGIC / ITEM / STATUS
+
+### MAGIC
+Characters other than the main character can use magic. Some demons that cannot use magic. Combat spells will only be displayed in-battle. The various types of magic are described on pages 34~37.
+
+### ITEM
+* **Use:** Use an item in your possession.
+* **Equip:** You cannot use weapons and armor you have obtained unless you equip them via this menu. Please take care as some equipment may have gender or attribute restrictions.
+* **Discard:** Discard items you no longer need.
+
+### STATUS
+Display the status menu. On the main character's status page, you can press the A button to display an item menu. For the other characters, the magic they can use will be displayed instead. A detailed description of these status pages can be found on pages 14~17.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115021.jpg
@@ -152,6 +179,37 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 {% include gallery images=images %}
 
 ## 6. Status Interface (Part I)
+### LV (Level)
+Current level. Once a certain amount of experience has been obtained, your level will increase.
+
+### HP (Hitpoints) / Max HP (Hitpoints)
+Health. Characters will die when their HP reaches 0. Max HP will increase upon level up. There are various ways to restore HP, such as the Healing Dojo.
+
+### MP (Magic Points) / Max MP (Magic Points)
+Denotes magic level, and will decrease as magic is used. This can also be restored via a number of methods, such as the Healing Dojo.
+
+### EXP (Experience)
+Experience points. Received when defeating enemies, and will lead to a level up once enough EXP has been gained.
+
+### NEXT
+Displays the amount of EXP required to achieve the next level.
+
+### ST (Status)
+Displays the various status effects active.
+* **DEAD / DYING:** Dead, or on the verge of dying.
+* **STONE:** Petrified, and unable to move.
+* **PALYZ:** Paralyzed, and unable to move. Takes damage when walking.
+* **FREEZE:** Frozen, and unable to move.
+* **SLEEP:** Asleep.
+* **BIND:** In a state of being bound.
+* **PANIC:** In a state of confusion, and will behave randomly.
+* **HAPPY:** In a state of euphoria, and may occasionally refuse to follow commands.
+* **CLOSE:** Unable to cast magic.
+* **POISON:** Affected by poison. Takes damage when walking.
+* **FLY:** Turned into a fly. Drastically lowers all stats.
+
+### Weapon and Armor Display
+Currently equipped weapons and armor are displayed on the upper-right section of the status window. In order are the weapons: sword, gun, bullets, respectively. Following this is the armor: helmet, suit, gloves, boots, respectively.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115026.jpg
@@ -159,6 +217,35 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 {% include gallery images=images %}
 
 ## Status Interface (Part II)
+### Stats
+Displays information about the following stats.
+* **Strength:** Physical strength. Affects attacking power.
+* **Intellect:** Intelligence that helps you recruit demons.
+* **Magic:** Affects the strength and defense against magic attacks. Also increases Maximum MP.
+* **Vitality:** The power to withstand physical attacks.
+* **Agility:** Affects speed in battle.
+* **Luck:** Affects traits such as chance to escape from battle, and chance to attack first.
+
+The effects of the above stats are computed and the corresponding attack / magic parameters are displayed in the middle-right section of the window.
+* **Power:** The attacking power of swords and guns (for demons, their ATTACK).
+* **Accuracy:** The accuracy of swords and guns (for demons, their ATTACK).
+* **Defense:** Defensive strength.
+* **Evasion:** Likelihood of evading enemy attacks.
+* **Magic Power:** Strength of magic attacks.
+* **Magic Potency:** The effectiveness of magic attacks.
+
+### Items
+A list of items currently in possession. Can be viewed by pressing the A button. Weapons and armor will also be displayed here at first. These can be equipped via the command menu. This list can be scrolled by pressing up or down.
+
+### Magic
+A list of magic currently known by characters other than the main character. This can also be viewed by pressing the A button, and scrolled by pressing up or down.
+
+### Demon Status Interface
+There are specific keywords that only apply to demons.
+* **Race:** Displayed to the left of the name. Races differ in many ways, including abilities and in fusion. Refer to pages 38~45.
+* **LV (Level):** Has the same meaning, but demons do not level up.
+* **CP (Cost Points):** Indicates the magnetite cost to maintain a demon while walking. A larger number means more magnetite will be required.
+* **ALIGN (Alignment):** The demon's alignment. This is also described in more detail on page 38 onwards.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115036.jpg
@@ -268,6 +355,10 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 </ul>
 
 <style>
+  h2, h3 {
+    margin-bottom: -10px;
+  }
+
   table {
     display: block;
     overflow-x: auto;
