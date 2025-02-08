@@ -42,20 +42,20 @@ Thank you for purchasing ATLUS' Shin Megami Tensei for the Super Famicom. Please
 * Please do not connect the console to a rear-projection television as this may lead to burn-in.
 
 ## Table of Contents
-1. Story
-2. Starting the Game
-3. User Interface
-4. Controls
-5. Commands
-6. Status Interface
-7. Battle Interface
-8. Demon Fusion
-9. Facilities
-10. Weapons & Armor
-11. Items
-12. Introduction to Magic
-13. Races
-14. Fusion Chart
+1. [Story](#1-story)
+2. [Getting Started](#2-getting-started)
+3. [User Interface](#3-user-interface)
+4. [Controls](#4-controls)
+5. [Commands](#5-commands-part-i)
+6. [Status Interface](#6-status-interface-part-i)
+7. [Battle Interface](#7-battle-interface-part-i)
+8. [Demon Fusion](#8-demon-fusion)
+9. [Facilities](#9-facilities)
+10. [Weapons & Armor](#10-weapons-and-armor)
+11. [Items](#11-items-part-i)
+12. [Magic](#12-magic-part-i)
+13. [Races](#13-races-part-i)
+14. [Fusion Chart](#14-shin-megami-tensei-fusion-chart)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227114954.jpg
@@ -76,7 +76,7 @@ When he awoke from his dream, a murder had supposedly taken place in Inogashira 
 {% endcapture %}
 {% include gallery images=images %}
 
-## 2. Starting the Game
+## 2. Getting Started
 ### 1. Title Screen
 You'll be greeted by the title screen when you press the start button. Use the directional pad or select button to highlight an option and press the A button or start button to begin the game.
 
@@ -137,89 +137,142 @@ You'll see the 2D interface when traversing the overworld. Moon phase and curren
 {% endcapture %}
 {% include gallery images=images %}
 
+## 5. Commands (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115017.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Commands (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115021.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 6. Status Interface (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115026.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Status Interface (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115036.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 7. Battle Interface (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115041.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Battle Interface (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115045.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## Battle Interface (Part III)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115049.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## 8. Demon Fusion
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115054.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 9. Facilities
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115058.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## 10. Weapons and Armor
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115102.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 11. Items (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115107.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Items (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115112.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 12. Magic (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115117.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Magic (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115121.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## 13. Races (Part I)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115126.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+## Races (Part II)
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115130.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
+## Races (Part III)
+
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115134.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-<small>Source: <a href="https://gamemanual.midnightmeattrain.com/entry/真・女神転生(SFC)">https://gamemanual.midnightmeattrain.com/entry/真・女神転生(SFC)</a></small>
+## 14. Shin Megami Tensei Fusion Chart
+
+<table><tbody><tr><th></th><th>Deit</th><th>Mega</th><th>Tenm</th><th>Kish</th><th>Femm</th><th>Yoma</th><th>Nigh</th><th>Fair</th><th>Sera</th><th>Divi</th><th>Fall</th><th>Drag</th><th>Snak</th><th>Avia</th><th>Flig</th><th>Avat</th><th>Holy</th><th>Beas</th><th>Touk</th><th>Brut</th><th>Jira</th><th>Ther</th><th>Sala</th><th>Undi</th><th>Sylp</th><th>Gnom</th><th>Flae</th><th>Aqua</th><th>Aero</th><th>Erth</th><th></th><!----></tr><tr><th>Deity</th><td>None</td><td>DEIT</td><td>None</td><td>None</td><td>Mega</td><td>Mega</td><td>Yoma</td><td>Nigh</td><td>None</td><td>Mega</td><td>Tenm</td><td>Tenm</td><td>Kish</td><td>Divi</td><td>Fall</td><td>Drag</td><td>Snak</td><td>Avat</td><td>Kish</td><td>Touk</td><td>Brut</td><td>Beas</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><!----><th>Deity</th></tr><tr><th>Megami</th><td>-</td><td>None</td><td>None</td><td>None</td><td>Fair</td><td>Tenm</td><td>Jira</td><td>Yoma</td><td>None</td><td>Fall</td><td>Tenm</td><td>Femm</td><td>Drag</td><td>Divi</td><td>Fall</td><td>Drag</td><td>Snak</td><td>Avat</td><td>Femm</td><td>Touk</td><td>Brut</td><td>Snak</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><!----><th>Megami</th></tr><tr><th>Tenma</th><td>-</td><td>-</td><td>None</td><td>ICON</td><td>ICON</td><td>Mega</td><td>Fall</td><td>Yoma</td><td>None</td><td>Foul</td><td>Yoma</td><td>Kish</td><td>Drag</td><td>Divi</td><td>Fall</td><td>Drag</td><td>Snak</td><td>Avat</td><td>Kish</td><td>Touk</td><td>Brut</td><td>Drak</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><!----><th>Tenma</th></tr><tr><th>Kishin</th><td>-</td><td>-</td><td>-</td><td>None</td><td>ICON</td><td>Femm</td><td>Fall</td><td>Femm</td><td>Tenm</td><td>Femm</td><td>Nigh</td><td>Tenm</td><td>Drag</td><td>Snak</td><td>Femm</td><td>Drag</td><td>Snak</td><td>Avat</td><td>Drag</td><td>Snak</td><td>Touk</td><td>Avat</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Kishin</th></tr><tr><th>Femme</th><td>-</td><td>-</td><td>-</td><td>-</td><td>Undi</td><td>Nigh</td><td>Fall</td><td>Nigh</td><td>Mega</td><td>Mega</td><td>Touk</td><td>Kish</td><td>Mega</td><td>Brut</td><td>Yoma</td><td>Kish</td><td>Snak</td><td>Avat</td><td>Snak</td><td>Touk</td><td>Brut</td><td>Drak</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Femme</th></tr><tr><th>Yoma</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Aqua</td><td>NETH</td><td>NETH</td><td>Deit</td><td>Fall</td><td>Nigh</td><td>Femm</td><td>Avia</td><td>Snak</td><td>Fall</td><td>Ther</td><td>Drak</td><td>Brut</td><td>Femm</td><td>Touk</td><td>Brut</td><td>Beas</td><td>+1</td><td>+1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+1</td><td>-1</td><!----><th>Yoma</th></tr><tr><th>Night</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Erth</td><td>NETH</td><td>Deit</td><td>Fall</td><td>Yoma</td><td>Snak</td><td>Drak</td><td>Rapt</td><td>Rapt</td><td>Beas</td><td>Ther</td><td>Wild</td><td>Femm</td><td>Jaki</td><td>Spir</td><td>Haun</td><td>-1</td><td>+1</td><td>+1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+1</td><!----><th>Night</th></tr><tr><th>Fairy</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Aero</td><td>Divi</td><td>Mega</td><td>Divi</td><td>Avat</td><td>Holy</td><td>Divi</td><td>Fall</td><td>Snak</td><td>Beas</td><td>Holy</td><td>Femm</td><td>Yoma</td><td>Brut</td><td>Brut</td><td>-1</td><td>+2</td><td>+2</td><td>+1</td><td>-1</td><td>+1</td><td>+1</td><td>-1</td><!----><th>Fairy</th></tr><tr><th>Seraph</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>AERI</td><td>AERI</td><td>Tenm</td><td>Drag</td><td>Mega</td><td>Avia</td><td>Drag</td><td>Avat</td><td>Holy</td><td>Yoma</td><td>Yoma</td><td>Fair</td><td>Brut</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Seraph</th></tr><tr><th>Divine</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Sylp</td><td>AERI</td><td>Tenm</td><td>Holy</td><td>Mega</td><td>Avia</td><td>Drag</td><td>Avat</td><td>Holy</td><td>Yoma</td><td>Yoma</td><td>Fair</td><td>Brut</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Divine</th></tr><tr><th>Fallen</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Flae</td><td>Drak</td><td>Femm</td><td>Yoma</td><td>Nigh</td><td>Yoma</td><td>Beas</td><td>Ther</td><td>Femm</td><td>Haun</td><td>Jaki</td><td>Wild</td><td>+2</td><td>+1</td><td>+1</td><td>-1</td><td>+1</td><td>+1</td><td>+1</td><td>-1</td><!----><th>Fallen</th></tr><tr><th>Dragon</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>DRAG</td><td>Tenm</td><td>Kish</td><td>Snak</td><td>Snak</td><td>Snak</td><td>Kish</td><td>Touk</td><td>Drak</td><td>Tenm</td><td>-1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Dragon</th></tr><tr><th>Snake</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Undi</td><td>Drag</td><td>Femm</td><td>Avia</td><td>Avat</td><td>Holy</td><td>Kish</td><td>Touk</td><td>Brut</td><td>Beas</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Snake</th></tr><tr><th>Avian</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Sylp</td><td>AVIA</td><td>Drag</td><td>Avat</td><td>Holy</td><td>Avat</td><td>Nigh</td><td>Wild</td><td>Beas</td><td>+1</td><td>-1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+1</td><td>-1</td><!----><th>Avian</th></tr><tr><th>Flight</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Aero</td><td>Avia</td><td>Avia</td><td>Brut</td><td>Femm</td><td>Fall</td><td>Rapt</td><td>Brut</td><td>+1</td><td>-1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+1</td><td>-1</td><!----><th>Flight</th></tr><tr><th>Avatar</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Sala</td><td>BEAS</td><td>BEAS</td><td>Kish</td><td>Snak</td><td>Snak</td><td>Snak</td><td>+1</td><td>-1</td><td>-1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Avatar</th></tr><tr><th>Holy</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Flae</td><td>BEAS</td><td>Avat</td><td>Beas</td><td>Beas</td><td>Wild</td><td>+1</td><td>+1</td><td>-1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Holy</th></tr><tr><th>Beast</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Flae</td><td>Ther</td><td>Touk</td><td>Holy</td><td>Holy</td><td>+1</td><td>+1</td><td>-1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><td>-1</td><!----><th>Beast</th></tr><tr><th>Touki</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Gnom</td><td>BRUT</td><td>BRUT</td><td>Kish</td><td>+1</td><td>+1</td><td>-1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+1</td><!----><th>Touki</th></tr><tr><th>Brute</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Gnom</td><td>BRUT</td><td>Yoma</td><td>-1</td><td>+2</td><td>-1</td><td>+2</td><td>-1</td><td>+1</td><td>-1</td><td>+1</td><!----><th>Brute</th></tr><tr><th>Jirae</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Erth</td><td>Fair</td><td>-1</td><td>+1</td><td>-1</td><td>+2</td><td>-1</td><td>-1</td><td>-1</td><td>+2</td><!----><th>Jirae</th></tr><tr><th>Therian</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>-1</td><td>-1</td><!----><th>Therian</th></tr><tr><th>Salamander</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Itza</td><td>Agni</td><td>Koto</td><td>Lakh</td><td>Orob</td><td>Phoe</td><td>Beri</td><!----><th>Salamander</th></tr><tr><th>Undine</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Arch</td><td>Raja</td><td>Yaks</td><td>Forn</td><td>Gand</td><td>Drya</td><!----><th>Undine</th></tr><tr><th>Sylph</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Ange</td><td>Feng</td><td>Sire</td><td>Furi</td><td>Onko</td><!----><th>Sylph</th></tr><tr><th>Gnome</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Dwar</td><td>Qili</td><td>Wyrm</td><td>Worm</td><!----><th>Gnome</th></tr><tr><th>Flaemis</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Bai </td><td>Sytr</td><td>Unic</td><!----><th>Flaemis</th></tr><tr><th>Aquans</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Jack</td><td>Bogl</td><!----><th>Aquans</th></tr><tr><th>Aeros</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><td>Buga</td><!----><th>Aeros</th></tr><tr><th>Erthys</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>None</td><!----><th>Erthys</th></tr><!----><tr><th></th><th>Deit</th><th>Mega</th><th>Tenm</th><th>Kish</th><th>Femm</th><th>Yoma</th><th>Nigh</th><th>Fair</th><th>Sera</th><th>Divi</th><th>Fall</th><th>Drag</th><th>Snak</th><th>Avia</th><th>Flig</th><th>Avat</th><th>Holy</th><th>Beas</th><th>Touk</th><th>Brut</th><th>Jira</th><th>Ther</th><th>Sala</th><th>Undi</th><th>Sylp</th><th>Gnom</th><th>Flae</th><th>Aqua</th><th>Aero</th><th>Erth</th><th></th><!----></tr><!----></tbody><tbody></tbody></table>
+
+---
+
+<ul>
+<li><small><a href="https://gamemanual.midnightmeattrain.com/entry/真・女神転生(SFC)">https://gamemanual.midnightmeattrain.com/entry/真・女神転生(SFC)</a></small></li>
+<li><small><a href="https://aqiu384.github.io/megaten-fusion-tool/smt1/chart">https://aqiu384.github.io/megaten-fusion-tool/smt1/chart</a></small></li>
+</ul>
+
+<style>
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    background-color: #cecece;
+    padding: 5px 10px 5px 10px;
+  }
+</style>
