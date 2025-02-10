@@ -36,7 +36,7 @@ You ask them why they changed the rules. They tell you that it's boring to play 
 
 The point of a fighting game *is* to play over and over again. Look at how many people get upset when fighting games come out in the current year and still don't have a rematch option. It's not an RPG that you play through to the end and never look back at. It has ultimate replay value. You *want* to keep playing because 1. it's fun, and 2. you want to get better.
 
-If the rules of the game keep changing, then someone who picked the game up yesterday is just as good as you despite all of your practice until that point. It completely disrepsects the player's effort *and* time, because now you have to do your homework all over again as well. It doesn't breed better players either, because now you don't need to learn how to deal with that broken move or character; you can just wait for it to get nerfed. This is the meta play, so why bother?
+If the rules of the game keep changing, then someone who picked the game up yesterday is just as good as you despite all of your practice until that point. It completely disrespects the player's effort *and* time, because now you have to do your homework all over again as well. It doesn't breed better players either, because now you don't need to learn how to deal with that broken move or character; you can just wait for it to get nerfed. This is the meta play, so why bother?
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-02-10-dead-service-fighting-games/9r3s8wemdgk41.jpg
