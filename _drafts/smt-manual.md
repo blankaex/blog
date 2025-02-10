@@ -107,7 +107,7 @@ You'll see the 3D interface inside buildings and underground.
 * **Party:** Your current party members' names, current and maximum HP, MP, and status. This is explained in more detail on pages 14~17.
 
 ### Auto-Mapping System
-The main character obtains this program via a transmission to his PC. This will display every tile you have walked on inside buildings and underground. The main character's party's current location will be displayed in yellow. Other features such as stairs and elevators will also be displayed.
+The protagonist obtains this program via a transmission to his PC. This will display every tile you have walked on inside buildings and underground. The protagonist's party's current location will be displayed in yellow. Other features such as stairs and elevators will also be displayed.
 
 ### Overworld Interface (2D Interface)
 * **Location:** Current location. You'll see the 2D interface when traversing the overworld. Moon phase and current location will be displayed. Also when stationary, money and MAG will be shown on the top-right of the screen. You can press the A button to open the command menu to see additional information. Press the B button to return to the overworld interface.
@@ -143,16 +143,16 @@ You can interact with options on the screen similarly to the command menu when t
 {% include gallery images=images %}
 
 ## 5. Commands (Part I)
-Command Menu: COMP (Computer)
+**Command Menu: COMP (Computer)**
 
 ### COMP
-The command to use your computer. Only usable by the main character. Cannot be used when the main character is dead or unconscious.
+The command to use your computer. Only usable by the protagonist. Cannot be used when the protagonist is dead or unconscious.
 * **Summon Demon:** Summon a demon to join your party. Costs money.
 * **Return Demon:** Temporarily remove a demon from your party and return it to your computer's stock.
 * **Delete Demon:** Permanently delete a demon from your stock when you no longer have a use for it.
 * **Change Order:** Change the order of your party members by pressing the A button in order from the start. The member at the front of the party is more likely to be targeted for attacks.
 * **Auto-Map:** Displays tiles you have traversed inside buildings and underground. Refer to pages 6~7 for more detail.
-* **Devil Analysis:** Review the properties of demons you have previously fought. The main character can access this menu in battle. This feature becomes available after a certain event in the game.
+* **Devil Analysis:** Review the properties of demons you have previously fought. The protagonist can access this menu in battle. This feature becomes available after a certain event in the game.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115017.jpg
@@ -160,10 +160,10 @@ The command to use your computer. Only usable by the main character. Cannot be u
 {% include gallery images=images %}
 
 ## Commands (Part II)
-Command Menu: MAGIC / ITEM / STATUS
+**Command Menu: MAGIC / ITEM / STATUS**
 
 ### MAGIC
-Characters other than the main character can use magic. Some demons that cannot use magic. Combat spells will only be displayed in-battle. The various types of magic are described on pages 34~37.
+Characters other than the protagonist can use magic. Some demons that cannot use magic. Combat spells will only be displayed in-battle. The various types of magic are described on pages 34~37.
 
 ### ITEM
 * **Use:** Use an item in your possession.
@@ -171,7 +171,7 @@ Characters other than the main character can use magic. Some demons that cannot 
 * **Discard:** Discard items you no longer need.
 
 ### STATUS
-Display the status menu. On the main character's status page, you can press the A button to display an item menu. For the other characters, the magic they can use will be displayed instead. A detailed description of these status pages can be found on pages 14~17.
+Display the status menu. On the protagonist's status page, you can press the A button to display an item menu. For the other characters, the magic they can use will be displayed instead. A detailed description of these status pages can be found on pages 14~17.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115021.jpg
@@ -238,7 +238,7 @@ The effects of the above stats are computed and the corresponding attack / magic
 A list of items currently in possession. Can be viewed by pressing the A button. Weapons and armor will also be displayed here at first. These can be equipped via the command menu. This list can be scrolled by pressing up or down.
 
 ### Magic
-A list of magic currently known by characters other than the main character. This can also be viewed by pressing the A button, and scrolled by pressing up or down.
+A list of magic currently known by characters other than the protagonist. This can also be viewed by pressing the A button, and scrolled by pressing up or down.
 
 ### Demon Status Interface
 There are specific keywords that only apply to demons.
@@ -253,6 +253,33 @@ There are specific keywords that only apply to demons.
 {% include gallery images=images %}
 
 ## 7. Battle Interface (Part I)
+**Understanding the battle interface and command menu**
+
+A battle will start when you encounter an enemy while moving. When this happens, the screen will switch to the battle interface.
+
+**Number & Status of Enemies / Battle Commands / Message Window**
+
+### Enemy Status
+* Health is high
+* Affected by STONE, PALYZ, FREEZE, or BIND
+* Affected by PANIC, or HAPPY
+* Health is below 1/4, or affected by POISON
+* Affected by SLEEP
+* Affected by CLOSE
+* Affected by CURSE
+* Affected by FLY
+
+### FIGHT
+The command to begin combat. When selected, a sub-menu with more specific commands will be displayed. The options available will vary depending on party member. See page 20 for details.
+
+### ESCAPE
+This command allows you to avoid battle by fleeing. Your character may become flustered and fall, so use this option with care.
+
+### TALK
+Start a conversation with the enemy. Used when recruiting demons. For more information about demon recruitment, see pages 22 and 23.
+
+### AUTO
+Auto-battle mode. When selected, all of your characters will go on the offensive and the battle will not end until one side has fallen. Note that a loss will be declared when all characters die, even if your demons are still standing. To stop the auto-battle, repeatedly press the B button to input a new command.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115041.jpg
@@ -260,6 +287,31 @@ There are specific keywords that only apply to demons.
 {% include gallery images=images %}
 
 ## Battle Interface (Part II)
+**How to fight**
+* **Protagonist:** SWORD, GUN, COMP, ITEM, DEFEND
+* **Other Characters:** SWORD, GUN, MAGIC, ITEM, DEFEND
+* **Demons:** ATTACK, EXTRA, MAGIC, RETURN, DEFEND
+
+If you select "FIGHT" when encountering an enemy, a battle will begin. The following sub-menus will be displayed, corresponding to orders you can give in combat. 
+
+* **SWORD:** The command to attack with your sword.
+* **GUN:** The command to attack with your gun.
+* **COMP:** Only usable by the protagonist. Cannot be used if the protagonist is dead or unconscious.
+    * **Change Order:** Change the order of your party members.
+    * **Summon Demon:** Summon a demon to join your party.
+    * **Devil Analysis:** Explained in detail on page 11.
+* **ITEM:** Use an item.
+* **DEFEND:** Focus on defense, and make enemy attacks less effective.
+* **MAGIC:** Cast magic. Cannot be used by the protagonist.
+* **ATTACK:** A demon's standard attack.
+* **EXTRA:** A demon's special attack.
+* **RETURN:** A demon-specific command. Removes the demon from your party and returns it to the stock.
+
+### Fight demons to gain experience, magnetite, and money
+1. Carefully use battle commands to defeat the enemies you encounter. This will allow you to gain experience and money—and if you're lucky, magnetite too.
+2. If all party members excluding demons become incapacitated (DEAD, DYING, or STONE), you will lose the battle. It will be game over even if your demons are still alive (but if you select "CONTINUE" from the title screen, you can resume play from the last time you saved before the game over).
+3. You can gain experience and level up from battle, which will give you 1 stat point to allocate. Leveling up will also increase the number of demons you'll be able to recruit, allowing you to build an even stronger party.
+4. In this game, the protagonist and party's actions (decisions) affect the outcome of the story. Enemies also have affinities (see pages 38, 39), so we recommend you make decisions consistent with your personal beliefs.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115045.jpg
@@ -267,6 +319,17 @@ There are specific keywords that only apply to demons.
 {% include gallery images=images %}
 
 ## Battle Interface (Part III)
+**How to recruit demons / Controlling your party**
+
+### It's also important to avoid battle and have discussion! Negotiate to recruit demons!
+1. Select the "TALK" command when an enemy appears that you would like to recruit. This will begin a negotiation, where you will need to hold a conversation and respond to the enemy's demands. Try your best to convince the enemy.
+2. You cannot recruit demons that are a higher level than the protagonist. However there are story events where a demon may join your party.
+3. The Demon Summoning Program allows you to have 6 demons as allies at any given time. The program can be upgraded throughout the game, allowing you to eventually hold up to 12 demons at once.
+
+### Head to battle with your own unique party!
+1. You can use the Demon Summoning Program to summon up to three demons to join your party at once (though after a certain point you will be able to summon up to four). Some demons have strong offensive spells, while others are good at healing. Have fun playing with your own unique party.
+2. Summoning demons from your stock costs money. You also need to pay attention to the order of your party members. The leader of the party is more likely to be targeted for attack.
+3. Demons each have a CP (Cost Point) rating. If you enter a building or go underground with demons in your party, magnetite will automatically be subtracted from your possession. Be careful as your demons' HP will drain away if you run out of magnetite.
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227115049.jpg
