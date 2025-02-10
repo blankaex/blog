@@ -24,7 +24,7 @@ You soon run into a wall and get motivated to actually improve. You start studyi
 
 By this point, you're probably a year or two into your journey and you're having a great time. The game is in a stable competitive orbit, and you feel like your skill, and all of the work you've put into achieving it, is being rewarded. Your rating has slowly but surely been rising and you're looking forward to going to your next local tournament.
 
-Imagine your horror when you arrive at the tournament and find out that the board is now 9x9 squares and zero-indexed. Pawns now move diagonally and your dark-squared bishop now [moves like a kinsho](https://lishogi.org/learn#/3/1). Your queenside knight is also missing and in its place is a new piece called the joker. You also need to pay $10 otherwise you can't use the joker. Welcome to live-service fighting games.
+Imagine your horror when you arrive at the tournament and find out that the board is now 9x9 squares and zero-indexed. Pawns now move diagonally and your dark-squared bishop now [moves like a kinsho](https://lishogi.org/learn#/3/1). Your queenside knight is also missing and in its place is a new piece called the joker, which can move twice per turn onto any square on the board. You also need to pay $10 otherwise you can't use the joker. Welcome to live-service fighting games.
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-02-10-dead-service-fighting-games/b5fa989039a983f95c36d53148325e92.jpg
