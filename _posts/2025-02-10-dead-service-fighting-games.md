@@ -2,7 +2,7 @@
 layout: post
 title:  "Dead-Service Fighting Games"
 date: 2025-02-10
-excerpt: "Template"
+excerpt: "The death of a genre."
 tag:
 ---
 
