@@ -4,7 +4,8 @@ title:  "Tatami Video Game Blues"
 date: 2021-08-01
 excerpt: "Video games aren't enjoyable anymore."
 tag:
-- Rambling
+- Video Games
+- Fighting Games
 ---
 
 <details><summary><b>tl;dr</b> ▶</summary><ul>

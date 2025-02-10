@@ -4,8 +4,8 @@ title: "Tekken Ramblings"
 date: 2016-01-19
 excerpt: "Despite being a very poor excuse for a gamer, there are three games that I’m rather passionate about right now."
 tag:
-- Rambling
 - Tekken
+- Fighting Games
 ---
 
 Despite being a very poor excuse for a gamer, there are three games that I’m rather passionate about right now.  Actually, passionate isn’t really the right word. These three games, I play at a semi-competitive, or at the very least, non-casual level, let’s say. It should come as no surprise to anyone that these three games are 100% Orange Juice, Pokemon and Tekken. Today I’ll be testing the boundaries of a potential potential character limit to share my experience and thoughts on the wonderful franchise that is Tekken.

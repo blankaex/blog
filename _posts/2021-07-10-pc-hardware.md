@@ -4,7 +4,7 @@ title:  "PC Hardware Sucks"
 date: 2021-07-10
 excerpt: "Software sucks too, but that's a topic for another day."
 tag:
-- Rambling
+- Computers
 ---
 
 My home PC hasn't seen an upgrade since 2015. I've yet to run into any problems that require replacement parts, and I haven't encountered any use cases that demand more processing power either, so I haven't had much reason to purchase new hardware. In spite of this, I decided to have a look around to see what was available and ended up confirming a belief that I probably knew was true in the back of my mind the whole time: PC hardware is in an awful state at the moment.

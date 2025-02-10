@@ -6,7 +6,6 @@ excerpt: "TLCing CR might seem like a good way to save time, but there are a few
 tag:
 - Anime
 - Fansubbing
-- Rambling
 ---
 
 Over the past couple of years, I've come to notice more and more fansubbers are working on projects without a translator on the team. Instead, they work off an official script from Crunchyroll or the like. It's no new practice by any stretch of the definition, but it's definitely become a lot more common.

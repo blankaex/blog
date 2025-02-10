@@ -5,6 +5,7 @@ date: 2020-03-10
 excerpt: "A guide on how to make the right choices."
 tag:
 - Linux
+- Computers
 ---
 
 If you're reading this blog post, then you're probably one of my friends, because no one else reads my blog. But if you're not, then you're probably someone who's already considering switching your main operating system to some flavour of Linux. And the reason you haven't switched yet is because you still have some lingering concerns. If this sounds like you, then you've come to the right place.
