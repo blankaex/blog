@@ -29,3 +29,4 @@ tag:
 * overclocked
     * new skills & demonds kind of ruined balance
     * 8th days are just fanservice
+* desu 2
