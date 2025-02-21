@@ -16,8 +16,13 @@ tag:
 * interesting & unique characters
 * time management and interconnected story events
 * simple but deep complexities in battle
-* high freedom with builds and demons
+    * targeting leader or subs
+    * macca bonus technicals
 * skill crack for self-adjusting difficulty
+    * reason to visit free battles
+* high freedom with builds and demons
+    * swapping skills and demons for each battle
+    * lots of strategy element with race skills
 
 ## bad
 * 6 days of common route for 1 day of different ending
