@@ -102,6 +102,11 @@ comments: false
     <h3>Dark Armed Dragon</h3>
     <div>ダーク・アームド・ドラゴン</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/taste/img/ygo/chain-strike.jpg">
+    <h3>Chain Strike</h3>
+    <div>連鎖爆撃</div>
+  </div>
 </div>
 
 ---
