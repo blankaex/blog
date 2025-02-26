@@ -98,9 +98,9 @@ comments: false
     <div>I：Pマスカレーナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/fraulein.jpg">
-    <h3>Vampire Fraulein</h3>
-    <div>ヴァンパイア・フロイライン</div>
+    <img src="/pages/taste/img/ygo/dad.jpg">
+    <h3>Dark Armed Dragon</h3>
+    <div>ダーク・アームド・ドラゴン</div>
   </div>
 </div>
 
