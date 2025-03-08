@@ -3,8 +3,7 @@ layout: post
 title: "Cardigan Encounter"
 date: 2015-11-17
 excerpt: "I bought a cardigan yesterday."
-tag:
-- Effay
+hidden: true
 ---
 
 I bought a cardigan yesterday.

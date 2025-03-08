@@ -4,6 +4,7 @@ title:  "Dead-Service Fighting Games"
 date: 2025-02-10
 excerpt: "The death of a genre."
 tag:
+- Fighting Games
 ---
 
 Imagine you wanted to get into chess. Ridiculous, I know, but humour me.

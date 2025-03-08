@@ -4,7 +4,7 @@ title:  "Rejoining the Watch Club"
 date: 2023-07-23
 excerpt: "Did someone say affordable luxury?"
 tag:
-- effay
+- Effay
 ---
 
 A dozen years and some change previously, there was a period where I would wear a watch on the daily. I was able to revere in the smug satisfaction of knowing exactly when the school bell would ring, while everyone else had to rely on the inaccurate wall clock—not that they did, because nobody cared.

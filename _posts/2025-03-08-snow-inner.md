@@ -4,7 +4,7 @@ title:  "スノーボードインナーの答え"
 date: 2025-03-08
 excerpt: "正解はこれだ。"
 tag:
-- snowboarding
+- Snowboarding
 - 日本語
 ---
 
