@@ -45,24 +45,24 @@ tag:
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-icebreakerは、国内ブランドであるGoldwinのメリノ素材のラインアップだ。登山ガチ勢の間でもかなり人気なので間違いない。メリノ100％のインナーならicebreaker1択。スゥエットやパーカーもあるのでレイヤリングは全部揃えられる。
+icebreakerはウールで有名なニュージーランドの会社で、登山ガチ勢の間でもかなり人気なので間違いない。メリノ100％のインナーならicebreaker1択。スゥエットやパーカーもあるのでレイヤリングは全部揃えられる。
 
-中でも200オアシスシリーズの[トップス(16,500円)](https://www.goldwin.co.jp/ap/item/i/m/IX20220)と[ボトムス(15,400円)](https://www.goldwin.co.jp/ap/item/i/m/IX20227)を特に推している。200は[ライトウェイトの段階](https://www.goldwin.co.jp/icebreaker/products/#product-calender)に入り、よく動くスノーボードには適切。ボトムスも短めでブーツに積もらないのも嬉しいポイント。決して安くはないけど普段使いでヒートテック代わりに着るとコスパ的に元が取れるのではないだろうか。
+中でも200オアシスシリーズの[トップス(16,500円)](https://www.goldwin.co.jp/ap/item/i/m/IX20220)と[ボトムス(15,400円)](https://www.goldwin.co.jp/ap/item/i/m/IX20227)を特に推している。200は[ライトウェイトの段階](https://www.goldwin.co.jp/icebreaker/products/#product-calender)に入り、よく動くスノーボードには適切。ボトムスも短めでブーツに積もらないのも嬉しいポイント。決して安くはないけど普段使いでヒートテック代わりに着ると元が取れるのではないだろうか。
 
-### [ブレスサーモプレミアム](https://jpn.mizuno.com/breaththermo#premium)
+### [mont-bell](https://webshop.montbell.jp/goods/list.php?sg=1&category=75100)
 
 {% capture images %}
-    {{ site.url }}/assets/res/2025-03-08-snow-inner/breaththermo1.jpg
-    {{ site.url }}/assets/res/2025-03-08-snow-inner/breaththermo2.jpg
+    {{ site.url }}/assets/res/2025-03-08-snow-inner/montbell1.jpg
+    {{ site.url }}/assets/res/2025-03-08-snow-inner/montbell2.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-ブレスサーモはミズノの暖かい系インナー。国内の大手スポーツブランドだから信頼性はある。ブレスサーモは3種類ほどシリーズを展開しているけど、プレミアムしかメリノが入っていないのでそこだけ注意。[ブレスサーモアクティブ](https://jpn.mizuno.com/breaththermo#active)も悪くないだろうけど、メリノがほしいなら気をつけましょう。
+大手アウトドアブランドのモンベルがスーパーメリノウールM.W.というシリーズが出している。注意点としてはメリノウール100％ではなくブレンドとなっている。icebreakerと違って毛85％だけど値段は半分程度。ウールを15％犠牲にして半額で買えるのはコスパ的にありだと思う。その分耐久性もアップするし「犠牲」という言い方は適切じゃないかもしれない。
 
-icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円)](https://jpn.mizuno.com/ec/disp/attgrp/C2JAA601/)と[ボトムス(9,900円)](https://jpn.mizuno.com/ec/disp/attgrp/C2JBA601/)は両方毛59％のブレンドで文句は言えない。ミズノ特有のブレスサーモ素材も入っているので「メリノ100％より劣っている」というよりは「メリノ100％とは違うもの」だという認識でいいと思う。
+スーパーメリノウールM.W.の「M.W.」はミドルウエイト（中厚手）で生地の厚さを察している。[トップス(8,800円)](https://webshop.montbell.jp/goods/disp.php?product_id=1107654)はラウンドネックの他に、Vネックとジップのハイネック、Tシャツ型まであるので好みやウェアとの相性で選べられる。[ボトムス(8,360円)](https://webshop.montbell.jp/goods/disp.php?product_id=1107659)もショート丈もあってスノーボーダーとしてはありがたい。
 
 ## 合成繊維
-### [KODENSHI WARM C3fit](https://www.goldwin.co.jp/goldwin/c3fit/feature/kodenshi-warm)
+### [Goldwin](https://www.goldwin.co.jp/goldwin/c3fit/feature/kodenshi-warm)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/kodenshi1.jpg
@@ -70,11 +70,11 @@ icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-メリノがほしくないなら光電子ウォームが最高級のインナーだ。これもまたゴールドウインのシリーズで、開発された暖かい合成繊維を使用しているのはもちろん、C3fitはコンプレッション機能も特徴的。筋トレでも使うけど着圧があると筋肉の余分なブレを抑制し、運動効率がアップする。肌に張り付くことによってアウターの変なまとわりつきや引っ張られる感覚も軽減する。
+メリノがほしくないならゴールドウインのKODENSHI WARM C3fitが最高級のインナーだ。国内メーカーが開発した「光電子」という暖かい合成繊維を使用しているのはもちろん、C3fitはコンプレッション機能も特徴的。筋トレでも使うけど着圧があると筋肉の余分なブレを抑制し、運動効率がアップする。肌に張り付くことによってアウターの変なまとわりつきや引っ張られる感覚も軽減する。
 
-[トップス(14,300円)](https://www.goldwin.co.jp/ap/item/i/m/GC62302)はモックネック仕様なので首まで暖かい。バラクラバをしていてもクルーネックだと隙間ができたりするのでたまに冷風が入ってくることはあるが、それを防いでくれる。[ボトムス(13,200円)](https://www.goldwin.co.jp/ap/item/i/m/GC62352)は3/4丈もあってicebreaker同様、ブーツの中に折り目ができたり痛かったりしないしブーツの上に積もらないで曲がったときの膝の裏も快適。
+[トップス(14,300円)](https://www.goldwin.co.jp/ap/item/i/m/GC62302)はモックネック仕様なので首まで暖かい。バラクラバをしていてもクルーネックだと隙間ができたりするのでたまに冷風が入ってくることはあるが、それを防いでくれる。[ボトムス(13,200円)](https://www.goldwin.co.jp/ap/item/i/m/GC62352)は3/4丈もあってicebreakerやモンベル同様、ブーツの中に折り目ができたり痛かったりしないしブーツの上に積もらないで曲がったときの膝の裏も快適。
 
-### [unfudge UN1000/UN1050](https://www.unfudge.shop/categories/781247)
+### [unfudge](https://www.unfudge.shop/categories/781247)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/un1000.jpg
@@ -84,7 +84,7 @@ icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円
 
 コンプレッションが不快だと思う方もいるので、着圧じゃない方もピックアップをしてみた。unfudgeはスノーウェア専門ブランドであってインナーも申し分ない。
 
-[トップス(11,220円)](https://www.unfudge.shop/items/95453277)と[ボトムス(11,330円)](https://www.unfudge.shop/items/95453278)はPOLARTEC PowerGridという素材が使われている。海外では評判が良く、暖かさと汗の吸収発散に優れた素材だ。[UN2000](https://www.unfudge.shop/items/95453279)みたいな優秀なミッドレイヤーのジャケットも提供されているのでインナー、ミッド、アウターをすべてunfudgeで完結することも可能。
+[UN1000のトップス(11,220円)](https://www.unfudge.shop/items/95453277)と[UN1050のボトムス(11,330円)](https://www.unfudge.shop/items/95453278)はPOLARTEC PowerGridという素材が使われている。海外では評判が良く、暖かさと汗の吸収発散に優れた素材だ。[UN2000](https://www.unfudge.shop/items/95453279)みたいな優秀なミッドレイヤーのジャケットも提供されているのでインナー、ミッド、アウターをすべてunfudgeで完結することも可能。
 
 ## 格安
 ### [TaoTech](https://taotech.stores.jp/items/66e292877c149e01fc5e29f7)
@@ -95,11 +95,11 @@ icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-インナーは値段相当の機能性を誇ることはわかるけどどうしても出費を抑えたい。でもヒートテックを卒業させたい。ならばTaoTechはいかがでしょうか？TaoTechは中国のSNSで良く見かけ、格安のスノボー用品を扱っている模様。
+インナーは値段相当の機能性を誇ることはわかるけどどうしても出費を抑えたい。でもヒートテックを卒業させたい。ならばTaoTechはいかがでしょうか？TaoTechは中国のSNS（特に女子の間）で良く見かけ、格安のスノボー用品を扱っている模様。
 
 インナーはコンプレッション仕様で見た目がかっこよくカラバリも豊か。[上下セットで9,800円](https://taotech.stores.jp/items/66e292877c149e01fc5e29f7)なので手が届きやすい価格帯でもある。気になる点としてはセットでしか買えないけど上下のサイズがどうやら異なるようなのでアマゾンで購入して試着したほうがいいかもしれない。値段が一緒だしたまにセールもあるのでメーカーのサイトを使わなくてもいいかな。
 
-### [UA COLDGEAR](https://www.underarmour.co.jp/feature/coldgear-baselayer/)
+### [Under Armour](https://www.underarmour.co.jp/feature/coldgear-baselayer/)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/ua1.jpg
@@ -107,14 +107,14 @@ icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-聞いたことないとこのものを買うのにやや抵抗があるならアンダーアーマーはコールドギアという暖かいインナーもやっている。普通のとインフラレッド、プロで合計3種類を適正気温に合わせて使える。コンプレッションとそうでない（フィッティドという）2種類も更にあって自分にピッタリ合うものが見つかりやすい。
+聞いたことないとこのものを買うのにやや抵抗があるならアンダーアーマーはCold Gearという暖かいインナーもやっている。普通のコールドギアとインフラレッド、プロで合計3種類を適正気温に合わせて使える。コンプレッションとそうでない（フィッティドという）2種類も更にあって自分にピッタリ合うものが見つかりやすい。
 
-個人的におすすめしたいのは[コンプレッションモックネックシャツ(6,600円)](https://www.underarmour.co.jp/f/dsg-1013595)と[コンプレッションレギンス(6,600円)](https://www.underarmour.co.jp/f/dsg-1013643)。コンプレッションやモックネックが好きでもあってインフラレッドとプロはスノーボードには暑すぎるのであえてノーマル。
+個人的におすすめしたいのは[コンプレッションモックネックシャツ(6,600円)](https://www.underarmour.co.jp/f/dsg-1013595)と[コンプレッションレギンス(6,600円)](https://www.underarmour.co.jp/f/dsg-1013643)。コンプレッションやモックネックが好きでもあってインフラレッドとプロはゲレンデでの滑りには暑すぎるのであえてノーマル。
 
 ## その他
 インナーの範囲内に入るかどうかは微妙だけど紹介したいアイテムはまだ2つある。
 
-### [Stance UL Wool Snow](https://stance-jp.com/category/509/?tag_Thickness[]=648)
+### [ソックス](https://stance-jp.com/category/509/?tag_Thickness[]=648)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/stance1.jpg
@@ -124,7 +124,7 @@ icebreakerと違ってメリノ100％ではないけど、[トップス(9,900円
 
 足はかなり冷えるタイプだけど、スタンスのウルトラライトメリノソックスに変えてからほぼ冷えなくなった。厚手のソックスがいいと思いがちだけどそれだと余計に汗をかいて冷えるので逆に薄手のソックスが良かったりする。経験上では。
 
-スタンスの[UL ウールは4,400円で買える](https://stance-jp.com/category/509/?tag_Thickness[]=648)のでスノボーソックスだと割と定番な価格。ちょっと厚みがほしいなら[ミッドクッション](https://stance-jp.com/category/509/?tag_Thickness[]=647)もあるけど中にメリノじゃないものもあるので良くチェックしましょう。靴下は流石に抗菌性はほしいので。他のスポーツやカジュアル用のソックスもやっててどれも愛用しているのでブランドとして推奨できる。
+[スタンスのULウール](https://stance-jp.com/category/509/?tag_Thickness[]=648)は4,400円で買えるのでスノボーソックスだと割と定番な価格。ちょっと厚みがほしいなら[ミッドクッション](https://stance-jp.com/category/509/?tag_Thickness[]=647)もあるけど中にメリノじゃないものもあるので良くチェックしましょう。靴下は流石に抗菌性はほしいので。他のスポーツやカジュアル用のソックスもやっててどれも愛用しているのでブランドとして推奨できる。
 
 ### [インナーグローブ](https://taotech.stores.jp/items/667ba30d6d097b083c82a690)
 
