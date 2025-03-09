@@ -129,11 +129,11 @@ icebreakerはウールで有名なニュージーランドの会社で、登山�
 個人的におすすめしたいのはベーシックのコールドギアのコンプレッションタイプ。着圧やモックネックが単純に好きでもあってインフラレッドとプロはゲレンデでの滑りには暑すぎるのであえてノーマル。
 
 ## その他
-インナーの範囲内に入るかどうかは微妙だけど紹介したいアイテムはまだ2つある。
+インナーの範囲内に入るかどうかは微妙だけど紹介したいアイテムというかカテゴリーはまだ2つある。
 
 ### [ソックス](https://stance-jp.com/category/509/?tag_Thickness[]=648)
 
-- ソックス：[スノーウルトラライトメリノウール（4,400円）](https://stance-jp.com/category/509/?tag_Thickness[]=648)
+- ソックス：[Stance スノーウルトラライトメリノウール（4,400円）](https://stance-jp.com/category/509/?tag_Thickness[]=648)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/stance1.jpg
@@ -147,7 +147,7 @@ icebreakerはウールで有名なニュージーランドの会社で、登山�
 
 ### [インナーグローブ](https://taotech.stores.jp/items/667ba30d6d097b083c82a690)
 
-- インナーグローブ：[スノーウルトラライトメリノウール（1,980円）](https://taotech.stores.jp/items/667ba30d6d097b083c82a690)
+- インナーグローブ：[TaoTech ベーシックインナーグローブ（1,980円）](https://taotech.stores.jp/items/667ba30d6d097b083c82a690)
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-03-08-snow-inner/glove1.jpg
