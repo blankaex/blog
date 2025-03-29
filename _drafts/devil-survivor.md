@@ -31,6 +31,10 @@ tag:
     * phys builds not as viable
         * only 1 copy of pierce
         * also with skills like samarecarm
+* lack of clarity of stats
+    * why does keisuke always go first
+    * what determines turn order
+* non-deterministic press turn
 * overclocked
     * new skills & demonds kind of ruined balance
     * 8th days are just fanservice
