@@ -83,14 +83,9 @@ comments: false
     <div>ダイノルフィア・ケントレギナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/kurikara.jpg">
-    <h3>Kurikara Divincarnate</h3>
-    <div>倶利伽羅天童</div>
-  </div>
-  <div class="flex-item">
     <img src="/pages/taste/img/ygo/iblee.jpg">
-    <h3>Knightmare Corruptor Iblee</h3>
-    <div>夢幻崩界イヴリース</div>
+    <h3>Doomcaliber Knight</h3>
+    <div>死霊騎士デスカリバー・ナイト</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/masquerena.jpg">
