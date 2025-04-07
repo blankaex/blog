@@ -83,7 +83,7 @@ comments: false
     <div>ダイノルフィア・ケントレギナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/iblee.jpg">
+    <img src="/pages/taste/img/ygo/doomcali.jpg">
     <h3>Doomcaliber Knight</h3>
     <div>死霊騎士デスカリバー・ナイト</div>
   </div>
@@ -101,6 +101,11 @@ comments: false
     <img src="/pages/taste/img/ygo/chain-strike.jpg">
     <h3>Chain Strike</h3>
     <div>連鎖爆撃</div>
+  </div>
+  <div class="flex-item">
+    <img src="/pages/taste/img/ygo/dshifter.jpg">
+    <h3>Dimension Shfiter</h3>
+    <div>ディメンション・アトラクター</div>
   </div>
 </div>
 
