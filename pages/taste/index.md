@@ -104,7 +104,7 @@ comments: false
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/dshifter.jpg">
-    <h3>Dimension Shfiter</h3>
+    <h3>Dimension Shifter</h3>
     <div>ディメンション・アトラクター</div>
   </div>
 </div>
