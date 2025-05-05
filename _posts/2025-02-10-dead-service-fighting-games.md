@@ -44,9 +44,9 @@ If the rules of the game keep changing, then someone who picked the game up yest
 {% endcapture %}
 {% include gallery images=images %}
 
-Complaining about the same people or characters winning repeatedly is also completely asinine. They are the best, so why should they not be winning? If you need to break your opponents' legs because you can't beat them in a race then perhaps the race is not what you should be primarily concerned with.
+Complaining about the same people or characters winning repeatedly is also completely asinine. They are the best, so why should they not be winning? If you need to break your opponents' legs because you can't beat them in a race then I might go out on a limb and suggest that perhaps the problem does not lie within the rules of the race.
 
-Watching the same top players / characters is also only boring if you have two brain cells left and they're trying to kill each other. Even if there are favourites to win, appreciating how they get to that win is part of the spectating experience. The fact that there are favourites at all is what makes upsets exciting. If you just want to bet on red and spin the roulette then you can play Smash.
+Watching the same top players / characters is also only boring if you have two brain cells left and they're trying to kill each other. Even if there are favourites to win, appreciating how they get to that winning moment is the main draw of the spectating experience. The fact that there are favourites at all is what makes upsets exciting. If you just want to bet on red and spin the roulette then you can play Smash.
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-02-10-dead-service-fighting-games/51e4a75e82e48ff6628b92f33199d85e.jpg
@@ -59,6 +59,6 @@ Stop paying money for this shit, and stop playing it.
 
 Stop whining for buffs and nerfs and bimbos from Final Fantasy and himbos from Yakuza.
 
-Come join me in Tag 2 and P4U2 until someone makes a good fighting game and promises not to touch it once they're done.
+Come join me in Tag 2 or P4U2 until someone makes a good fighting game and promises not to touch it once they're done.
 
 <small>See also: <a href="{{ site.url }}/video-game-blues#fighting-games">Tatami Video Game Blues</a>
