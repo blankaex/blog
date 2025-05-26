@@ -18,16 +18,42 @@ On the other hand, the variety of options also makes it pretty fun in the sense 
 <details><summary><b>Disclaimer</b> ▶</summary>
 <p>There's a lot more that goes into ping pong gear than what I've described below. You could get into a lot of nuanced discussions around materials, weight, size, mass distribution, ply count, composite layers, playstyle ratings, hardness and stiffness, tension, tackiness, and myriad other variables.</p>
 
-<p>However this article is intended to present a broad overview of the various categories to aid with beginner equipment selection, and thus will not go into detail about the various micro-optimisations available on the market. Choosing between shake vs cpen is a much more permanent decision than ALC or ZLC.</p>
+<p>However this article is intended to present a broad overview of the various categories to aid with beginner equipment selection, and thus will not go into detail about the various micro-optimisations available on the market. Choosing between shake vs C-pen is a much more permanent decision than ALC or ZLC.</p>
 </details>
 
 ## Grips
+
+Before we get into the equipment, let's quickly break down the ways you can hold your bat. There's a bunch of legal grips, but the only ones you should worry about are shakehand and penhold.
+
 ### Shakehand
+
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/19_1_450.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/ma-long-2.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
+Shakehand is the meta grip and what you'll probably do instinctively if you were handed a bat, or shaking someone's hand. It's the preferred grip by most top players, so if it's good enough for them it's probably good enough for you too.
+
+A relatively balanced forehand and backhand are pretty characteristic of this grip. It's also quite flexible and adaptable, so you have a lot of options in terms of flicks, loops, pushes, blocks, drives, whatever you want to do.
+
 ### Penhold
 
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/16205904736_e8cbf6429d_z.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/Xu_Xin_2012.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
+The penhold grip is what you'd do if you were handed a pen and didn't know how to write. It's not that common but still sees consistent representation in the highest level of play.
+
+Penhold is distinctive for its wrist mobility on the forehand side, which allows for more deceptive serves and stronger attacks on the forehand in exchange for a weaker backhand.
+
 ## Handles
-### Straight (ST), Flared (FL), Anatomical (AN)
-I've bundled these together as shakehand handles aren't really that distinct and it mostly comes down to preference and comfort. This section is less about "you should choose this one" and rather "this is what this means when you see it on the box".
+
+You might already be aware of the differences between grips, but what you might not have known is that there are different types of handles designed for each grip.
+
+### Shakehand: Straight (ST), Flared (FL), Anatomical (AN)
 
 {% capture images %}
     {{ site.url }}/assets/res/pong-gear-guide/36701_08a.jpg
@@ -35,6 +61,8 @@ I've bundled these together as shakehand handles aren't really that distinct and
     {{ site.url }}/assets/res/pong-gear-guide/36701_09a.jpg
 {% endcapture %}
 {% include gallery images=images cols=3 %}
+
+I've bundled these together as shakehand handles aren't really that distinct and it mostly comes down to preference and comfort. This section is less about "you should choose this one" and rather "this is what this means when you see it on the box".
 
 Straight handles are exactly as described. They make it a bit easier to twiddle (flip) if you use different rubbers and want to be sneaky, though this can be done with any handle. They're also often a bit thinner which might be nice if you have small hands.
 
@@ -44,14 +72,52 @@ Anatomical is the least common of the three, where the handle is supposedly shap
 
 But as I said, these are all minor differences so just go to a shop and hold all three and buy whichever fits your ham-fists the best.
 
-### Chinese Penhold (CPEN)
-### Japanese Penhold (JPEN)
+### Penhold: Chinese (C-Pen) & Japanese (J-Pen)
+
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/24170_01.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/23820_01.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
+C-pen handles aren't too dissimilar from shakehand ones, just a bit shorter. They aren't very prescriptive with how they must be held so you have a lot of freedom to adjust your grip to suit your playstyle.
+
+You can play with your finger position and grip depth to adjust for more emphasis on the forehand, backhand, or somewhere in between. C-pen is also most suited for the reverse penhold backhand stroke, which is the only way to play in the current meta.
+
+On the other hand, the square-ish head and block of wood for grip on the handle is pretty characteristic of J-pen. These blades tend to favour a hyper-aggressive glass cannon style that has a killer forehand loop and a virtually non-existent backhand loop.
+
+Short pips punching and Koki Niwa-esque chop blocking are also not uncommon, though the latter feels like it's more out of necessity due to the relatively limited range of wrist movement rather than any advantage that the handle provides.
 
 ## Rubbers
+
+Choosing a blade is only half the battle, albeit the more important half. To finish off your bat though, you'll also need some rubber.
+
 ### Inverted
+
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/05800_04.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/05800_06.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
 ### Short Pips
+
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/00420_03.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/00420_08.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
 ### Long Pips
+
+{% capture images %}
+    {{ site.url }}/assets/res/pong-gear-guide/00450_04.jpg
+    {{ site.url }}/assets/res/pong-gear-guide/00450_03.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
 ### Anti-Spin
+
 Don't even think about it.
 
 ## Recommendation
