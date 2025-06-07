@@ -39,10 +39,7 @@ The point of a fighting game *is* to play over and over again. Look at how many 
 
 If the rules of the game keep changing, then someone who picked the game up yesterday is just as good as you despite all of your practice until that point. It completely disrespects the player's effort *and* time, because now you have to do your homework all over again as well. It doesn't breed better players either, because now you don't need to learn how to deal with that broken move or character; you can just wait for it to get nerfed. This is the meta play, so why bother?
 
-{% capture images %}
-    {{ site.url }}/assets/res/2025-02-10-dead-service-fighting-games/9r3s8wemdgk41.jpg
-{% endcapture %}
-{% include gallery images=images %}
+<blockquote class="twitter-tweet tw-align-center" data-lang="en" data-dnt="true" data-theme="dark"><p lang="zxx" dir="ltr"><a href="https://t.co/4L5k2svxAW">pic.twitter.com/4L5k2svxAW</a></p>&mdash; Falcon JoKa (@byJoka) <a href="https://twitter.com/byJoka/status/1930253008438210849?ref_src=twsrc%5Etfw">June 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Complaining about the same people or characters winning repeatedly is also completely asinine. They are the best, so why should they not be winning? If you need to break your opponents' legs because you can't beat them in a race then I might go out on a limb and suggest that perhaps the problem does not lie within the rules of the race.
 
