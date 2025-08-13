@@ -153,6 +153,11 @@ comments: false
     <h3>Tsukimi Eiko</h3>
     <div>Paripi Koumei</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/elizabeth.jpg">
+    <h3>Elizabeth</h3>
+    <div>Adventure Quest</div>
+  </div>
 </div>
 
 <script src="/assets/js/jquery-1.12.0.min.js"></script>
