@@ -23,14 +23,14 @@ Of course there are maniacs who write their own walkthroughs or spin up wikis fu
 {% include gallery images=images %}
 
 ## Shin Megami Tensei
-Super Famicom: User Guide
+Super Nintendo: User Guide
 
 {% capture images %}
     {{ site.url }}/assets/res/smt-manual/20221227114949.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-Thank you for purchasing ATLUS' Shin Megami Tensei for the Super Famicom. Please read this user guide thoroughly before playing so that you can enjoy the game to its fullest. This guide will not be re-issued, so please take good care of it.
+Thank you for purchasing ATLUS' Shin Megami Tensei for the Super Famicom. Please read this user guide thoroughly before playing so that you can enjoy the game to its fullest. This guide cannot be re-issued, so please take good care of it.
 
 ### Warnings
 * Please ensure you disconnect the console from the wall outlet once you have finished playing.
