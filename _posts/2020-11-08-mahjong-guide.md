@@ -25,9 +25,9 @@ tag:
     }
 </style>
 
-## Game Flow
+## Gameplay Loop
 
-Riichi Mahjong is played with four players. Each player is dealt 13 tiles. They then take turns drawing and discarding a tile, in order to build a winning hand. When a player wins a hand, they earn points from the other players and a new hand begins.
+Riichi Mahjong is played with four players. Each player is dealt 13 tiles and starts with 25,000 points. They take turns drawing and discarding a tile, in order to build a winning hand. When a player wins a hand, they earn points from the other players and a new hand begins.
 
 4 or 8 hands are typically played per game. Standings are determined by the number of points each player has at the end of the game.
 
