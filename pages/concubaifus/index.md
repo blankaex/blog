@@ -154,6 +154,11 @@ comments: false
     <div>Paripi Koumei</div>
   </div>
   <div class="flex-item">
+    <img src="/pages/concubaifus/img/touka.jpg">
+    <h3>Reizeiin Touka</h3>
+    <div>Nukitashi</div>
+  </div>
+  <div class="flex-item">
     <img src="/pages/concubaifus/img/elizabeth.jpg">
     <h3>Elizabeth</h3>
     <div>Adventure Quest</div>
