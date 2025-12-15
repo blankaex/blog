@@ -296,7 +296,7 @@ In practice this is just a proxy that requires 10 faith per bond ascension. You 
 
 In addition to 20 spheres, 5 purple gifts, 100 stardust and 10 wishing stones, max bond points is the final requirement for bond ascension. Bond points are obtained by using the character in ranked, and giving gifts or bond items: green gifts give 200pt, and blue gifts/bond items give 1000pt. 88000 bond points are needed in total.
 
-Bond items can be obtained from events (Lover's Knot, Valentine's Day Chocolate, Happy Coupon, etc). Additionally when you play a character with max bond, you'll instead progress a 1000pt bond bar which gives a Bonding Heart worth 1000pt when complete. It's advisable to play max bond characters as Bonding Hearts can be saved if you don't have any characters you currently want to bond.
+Bond items can be obtained from events (Lover's Knot, Valentine's Day Chocolate, Happy Coupon, etc). Additionally when you play a character with max bond, you'll instead progress a 1000pt bond bar which gives a Bonding Heart worth 1000pt when complete. It's advisable to play max bond characters as Bonding Hearts can be saved if you don't have any characters you currently want to bond. Bond items are especially useful to stock because they don't count towards the daily 12 gift limit.
 
 <style>
 .heading img {
