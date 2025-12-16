@@ -9,7 +9,6 @@ background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ja_JP
 url:                https://blog.blankaex.reisen
-# url:                http://192.168.50.148:4000
 
 # Jekyll
 permalink:          /:title/
@@ -53,7 +52,7 @@ github-url:         blankaex
 #foursquare:        username
 #steam:              blankaex
 #dribbble:          username
-twitch:             blankaex
+#twitch:             blankaex
 #youtube:            blankaex
 #youtube-channel:   channel
 #soundcloud:        username
@@ -63,6 +62,7 @@ twitch:             blankaex
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+anilist:            blankaex
 
 # Gems
 gems:
