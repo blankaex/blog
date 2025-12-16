@@ -4,6 +4,8 @@ title:  "Mahjong Soul (Jantama) Resource Guide"
 date: 2025-12-15
 excerpt: "Are you sure this will help us sell more mahjong?"
 tag:
+- Tutorial
+- Mahjong
 ---
 
 Like most other gachaslop, *Jantama* makes you hop through seven different currencies to do literally anything, in the hope that by the time you get what you want, you'll have forgotten how much money you've actually spent. Fuck them, here's the breakdown of what you need to do to get the most out of your resources.
