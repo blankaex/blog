@@ -74,3 +74,24 @@ Break in favour of ryanmen
     {{ site.url }}/assets/res/2025-12-16-jong-reference/2356.jpg
 {% endcapture %}
 {% include gallery images=images %}
+
+# Nakabure Head Priority
+## Prioritize Head
+When you have 2 ryanmen or 1 away from iipeikou
+
+{% capture images %}
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-ryanmen.jpg
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-iipeikou.jpg
+{% endcapture %}
+{% include gallery images=images %}
+
+## Prioritize run
+When you have gukei (kanchan/penchan), ankou, ryanmen + run (e.g. 34556 or 45678)
+
+{% capture images %}
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-gukei.jpg
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-ankou.jpg
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-run.jpg
+    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-5run.jpg
+{% endcapture %}
+{% include gallery images=images %}
