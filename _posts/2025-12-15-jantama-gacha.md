@@ -89,7 +89,7 @@ Can also be exchanged for jade which is probably a bad deal but as usual the vou
   </div>
 </div>
 
-The free-to-play way to roll gacha. Sometimes will be given out during events (usually require you to log in a lot or play a lot, for obvious reasons) and, if you're lucky, as an apology for server downtime and other drama. However the main way to obtain is by exchanging stardust (covered later).
+The free-to-play way to roll gacha. Sometimes will be given out during events (usually requires you to log in a lot or play a lot, for obvious reasons) and, if you're lucky, as compensation for server downtime and other drama. However the main way to obtain is by exchanging stardust (covered later).
 
 Can use these whenever you want as there's no benefit to saving them; the 10-roll bonus only applies for rolls made with jade. Usually preferable to wait for events to get limited-time characters, but depends which characters and effects you want.
 
@@ -189,7 +189,7 @@ Check the copper shop daily and stock up on spheres. The shop can be refreshed f
   </div>
 </div>
 
-Relatively abundant item obtained mainly from events and the copper shop, but also fairly commonly from match chests in silver and above. There are eight varieties in total, and ten copies of two specific kinds are required for most bond ascensions. You should always keep at least 10 of each in stock, or at minimum a set of 10 each of the two that you require for your next ascension.
+Relatively abundant set of items obtained mainly from events and the copper shop, but also fairly commonly from match chests in silver and above. There are eight varieties in total, and ten copies of two specific kinds are required for most bond ascensions. You should always keep at least 10 of each in stock, or at minimum a set of 10 each of the two that you require for your next ascension.
 
 If you've been diligent about visiting the copper shop and collecting rewards then you'll probably have some excess. You can spend these in the illustration shop if you like, but illustrations are just player-sided loading screens that aren't visible to other players.
 
