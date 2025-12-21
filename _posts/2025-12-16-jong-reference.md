@@ -10,7 +10,7 @@ tag:
 
 # Hand Building
 ## 1) Discard isolated tiles
-Jihai (non-yakuhai) → 1,9 → yakuhai → 2,8 → 3~7
+Jihai (non-yakuhai) → 1,9 → yakuhai → 2,8 → 5 → 4,6 → 3,7
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-12-16-jong-reference/ukihai.jpg
