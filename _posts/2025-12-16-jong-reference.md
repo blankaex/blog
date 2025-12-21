@@ -75,23 +75,38 @@ Break in favour of ryanmen
 {% endcapture %}
 {% include gallery images=images %}
 
-# Nakabure Head Priority
-## Prioritize Head
-When you have 2 ryanmen or 1 away from iipeikou
+# Betaori Priority
+## 1) Genbutsu
+* Riichi discards
+* Discards after riichi
 
-{% capture images %}
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-ryanmen.jpg
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-iipeikou.jpg
-{% endcapture %}
-{% include gallery images=images %}
+## 2) No Houjuu
+* 4 visible jihai
+* 4 visible + no chance 1,9
+* 4 visible + suji 1,9
 
-## Prioritize run
-When you have gukei (kanchan/penchan), ankou, ryanmen + run (e.g. 34556 or 45678)
+## 3) Tanki Houjuu
+* 3 visible jihai
+* 3 visible + no chance 1,9
+* 3 visible + suji 1,9
 
-{% capture images %}
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-gukei.jpg
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-ankou.jpg
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-run.jpg
-    {{ site.url }}/assets/res/2025-12-16-jong-reference/head-5run.jpg
-{% endcapture %}
-{% include gallery images=images %}
+## 4) Shanpon + Tanki Houjuu
+* 1~2 visible jihai
+* 1~2 visible + no chance 1,9
+* 1~2 visible + suji 1,9
+
+## 5) Shanpon + Tanki + Penchan/Kanchan Houjuu
+* Naka suji 4,5,6
+* Suji 2,8
+* No chance 2,4,5,6,8
+
+## 6) Shanpon + Tanki + Penchan + Kanchan Houjuu
+* Suji 3,7
+* No chance 3,7
+
+## 7) Fewest Waits
+* 1,9
+* 2,8
+* Kata suji 4,5,6
+* 3,7
+* 4,5,6
