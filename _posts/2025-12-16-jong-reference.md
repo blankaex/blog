@@ -111,3 +111,13 @@ Break in favour of ryanmen
 * Kata suji 4,5,6
 * 3,7
 * 4,5,6
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">
+  <iframe
+    src="https://embed.nicovideo.jp/watch/sm9595431"
+    style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;"
+    allowfullscreen
+    scrolling="no"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+  ></iframe>
+</div>
