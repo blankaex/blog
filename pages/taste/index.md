@@ -78,9 +78,9 @@ comments: false
 <center><h2>Yu-Gi-Oh!</h2></center>
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/kentregina.jpg">
-    <h3>Dinomorphia Kentregina</h3>
-    <div>ダイノルフィア・ケントレギナ</div>
+    <img src="/pages/taste/img/ygo/kitkallos.jpg">
+    <h3>Tearlaments Kitkallos</h3>
+    <div>ティアラメンツ・キトカロス</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/doomcali.jpg">
@@ -93,14 +93,14 @@ comments: false
     <div>I：Pマスカレーナ</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/dad.jpg">
-    <h3>Dark Armed Dragon</h3>
-    <div>ダーク・アームド・ドラゴン</div>
+    <img src="/pages/taste/img/ygo/zilofthonia.jpg">
+    <h3><Gorgon of Zilofthonia/h3>
+    <div>麗しき磁律機壊</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/chain-strike.jpg">
-    <h3>Chain Strike</h3>
-    <div>連鎖爆撃</div>
+    <img src="/pages/taste/img/ygo/winda.jpg">
+    <h3>El Shaddoll Winda</h3>
+    <div>エルシャドール・ミドラーシュ</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/dshifter.jpg">
