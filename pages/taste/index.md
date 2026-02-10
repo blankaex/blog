@@ -94,7 +94,7 @@ comments: false
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/zilofthonia.jpg">
-    <h3><Gorgon of Zilofthonia/h3>
+    <h3><Gorgon of Zilofthonia</h3>
     <div>麗しき磁律機壊</div>
   </div>
   <div class="flex-item">
