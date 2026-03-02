@@ -43,14 +43,14 @@ If the rules of the game keep changing, then someone who picked the game up yest
 
 Complaining about the same people or characters winning repeatedly is also completely asinine. They are the best, so why should they not be winning? If you need to break your opponents' legs because you can't beat them in a race then I might go out on a limb and suggest that perhaps the problem does not lie within the rules of the race.
 
-Watching the same top players / characters is also only boring if you have two brain cells left and they're trying to kill each other. Even if there are favourites to win, appreciating how they get to that winning moment is the main draw of the spectating experience. The fact that there are favourites at all is what makes upsets exciting. If you just want to bet on red and spin the roulette then you can play Smash.
+Watching the same top players / characters is also only boring if you have two brain cells left and they're trying to kill each other. Even if there are favourites to win, appreciating how they get to that winning moment is the main draw of the spectating experience. The fact that there are favourites at all is what makes upsets exciting. If you just want to bet on red and spin the roulette then you can [play mahjong]({{ site.url }}/mahjong-guide/).
 
 {% capture images %}
     {{ site.url }}/assets/res/2025-02-10-dead-service-fighting-games/51e4a75e82e48ff6628b92f33199d85e.jpg
 {% endcapture %}
 {% include gallery images=images %}
 
-Let's be honest, the only reason this is happening is money. Video games are a business and the goal is to turn a profit. They've figured out that they don't need to make good games to make money anymore. They can just make barely functional games (tbh even this is dubious at this point), add a new stage or character every month, and change the frame data without rhyme or reason. Then they just need to ensure there's five cutscenes per round so they can say esports, and the execs are now happy.
+Let's be honest, the only reason this is happening is money. Video games are a business and the goal is to turn a profit. They've figured out that they don't need to make good games to make money anymore. They can just make barely functional games (tbh even this is dubious at this point), add a new stage or character every other month, and change the frame data without rhyme or reason. Then they just need to ensure there's five cutscenes per round so they can say esports, and the execs are now happy.
 
 Stop paying money for this shit, and stop playing it.
 
