@@ -163,6 +163,11 @@ comments: false
     <h3>Elizabeth</h3>
     <div>Adventure Quest</div>
   </div>
+  <div class="flex-item">
+    <img src="/pages/concubaifus/img/shiori.jpg">
+    <h3>Fujisaki Shiori</h3>
+    <div>Tokimeki Memorial</div>
+  </div>
 </div>
 
 <script src="/assets/js/jquery-1.12.0.min.js"></script>
