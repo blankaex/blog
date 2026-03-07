@@ -83,9 +83,9 @@ comments: false
     <div>ティアラメンツ・キトカロス</div>
   </div>
   <div class="flex-item">
-    <img src="/pages/taste/img/ygo/doomcali.jpg">
-    <h3>Doomcaliber Knight</h3>
-    <div>死霊騎士デスカリバー・ナイト</div>
+    <img src="/pages/taste/img/ygo/kurikara.jpg">
+    <h3>Kurikara Divincarnate</h3>
+    <div>俱利伽羅天童</div>
   </div>
   <div class="flex-item">
     <img src="/pages/taste/img/ygo/masquerena.jpg">
