@@ -11,7 +11,7 @@ tag:
 
 Games from the Super Famicom (SNES) era often came with printed manuals or user guides. The expectation was that you'd have these available as reference when playing because you obviously paid for the package and didn't just pirate the game, right?
 
-So a lot of detail around gameplay and mechanics was intentionally left out of the actual games themselves, in part also due to technical limitations and game development paradigms of the time. However this doesn't hold up so well in 2025 now that the games and guides are largely lost to time.
+So a lot of detail around gameplay and mechanics was intentionally left out of the actual games themselves, in part also due to technical limitations and game development paradigms of the time. However this doesn't hold up so well in 2026 now that the games and guides are largely lost to time.
 
 Of course there are maniacs who write their own walkthroughs or spin up wikis full of detailed information, but if you want the true experience the devs wanted you to have then the official pamphlets are the way to go. As far as I know, nobody's translated this one to English so this is my gift to the [shinwunners](https://en.wiktionary.org/wiki/genwunner).
 

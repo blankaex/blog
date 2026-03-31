@@ -12,7 +12,7 @@ tag:
 {% include gallery images=images %}
 
 ## good
-* compelling and realistic story
+* compelling and relatable story
 * interesting & unique characters
 * time management and interconnected story events
 * simple but deep complexities in battle
@@ -26,6 +26,7 @@ tag:
 
 ## bad
 * 6 days of common route for 1 day of different ending
+    * slight variations within the 6 days however
 * limited skill availability
     * lack of passives i.e. ailment boost
     * phys builds not as viable
