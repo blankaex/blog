@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Table Tennis Equipment Breakdown"
-# date: 2045-0-0
+date: 2026-03-31
 excerpt: "Having a bat on the right foot."
 tag:
 ---
@@ -18,7 +18,7 @@ On the other hand, the variety of options also makes it pretty fun in the sense 
 <details><summary><b>Disclaimer</b> ▶</summary>
 <p>There's a lot more that goes into ping pong gear than what I've described below. You could get into a lot of nuanced discussions around materials, weight, size, mass distribution, ply count, composite layers, playstyle ratings, hardness and stiffness, tension, tackiness, and myriad other variables.</p>
 
-<p>However this article is intended to present a broad overview of the various categories to aid with beginner equipment selection, and thus will not go into detail about the various micro-optimisations available on the market. Choosing between shake vs C-pen is a much more permanent decision than ALC or ZLC.</p>
+<p>However this article is intended to present a broad overview of the various categories to aid with beginner equipment selection, and thus will not go into detail about the various micro-optimisations available on the market. Choosing between shake vs pen is a much more permanent beginner decision than ALC or ZLC.</p>
 </details>
 
 ## Grips
@@ -28,8 +28,8 @@ Before we get into the equipment, let's quickly break down the ways you can hold
 ### Shakehand
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/19_1_450.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/ma-long-2.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/19_1_450.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/ma-long-2.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
@@ -40,12 +40,12 @@ A relatively balanced forehand and backhand are pretty characteristic of this gr
 ### Penhold
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/16205904736_e8cbf6429d_z.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/Xu_Xin_2012.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/16205904736_e8cbf6429d_z.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/Xu_Xin_2012.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-The penhold grip is what you'd do if you were handed a pen and didn't know how to write. It's not that common but still sees consistent representation in the highest level of play.
+The penhold grip is what you'd do if you were handed a pen and didn't know how to write. It's not as common as shakehand but still sees consistent representation in the highest level of play.
 
 Penhold is distinctive for its wrist mobility on the forehand side, which allows for more deceptive serves and stronger attacks on the forehand in exchange for a weaker backhand.
 
@@ -56,9 +56,9 @@ You might already be aware of the differences between grips, but what you might 
 ### Shakehand: Straight (ST), Flared (FL), Anatomical (AN)
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/36701_08a.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/36701_07a.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/36701_09a.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/36701_08a.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/36701_07a.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/36701_09a.jpg
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
@@ -66,7 +66,7 @@ I've bundled these together as shakehand handles aren't really that distinct and
 
 Straight handles are exactly as described. They make it a bit easier to twiddle (flip) if you use different rubbers and want to be sneaky, though this can be done with any handle. They're also often a bit thinner which might be nice if you have small hands.
 
-Flared handles flare out a bit at the bottom. Usually gives a more stable grip and feels a bit more solid in the hand. The center of gravity is also slightly shifted down, adding to this feeling of stability when making powerful swings.
+Flared handles (unsurprisingly) flare out a bit at the bottom. Usually gives a more stable grip and feels a bit more solid in the hand. The center of gravity is also slightly shifted down, adding to the feeling of stability when making powerful swings.
 
 Anatomical is the least common of the three, where the handle is supposedly shaped to fit a real human hand. Similar properties to flared handles but leans slightly more towards stability in smaller hits rather than with bigger strokes.
 
@@ -75,18 +75,18 @@ But as I said, these are all minor differences so just go to a shop and hold all
 ### Penhold: Chinese (C-Pen) & Japanese (J-Pen)
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/24170_01.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/23820_01.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/24170_01.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/23820_01.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
 C-pen handles aren't too dissimilar from shakehand ones, just a bit shorter. They aren't very prescriptive with how they must be held so you have a lot of freedom to adjust your grip to suit your playstyle.
 
-You can play with your finger position and grip depth to adjust for more emphasis on the forehand, backhand, or somewhere in between. C-pen is also most suited for the reverse penhold backhand stroke, which is the only way to play in the current meta.
+[You can play with your finger position and grip depth](https://www.youtube.com/watch?v=KaXF973rlqE) to adjust for more emphasis on the forehand, backhand, or somewhere in between. Of the two handles, C-pen is also most suited for the meta-dominant reverse penhold backhand stroke.
 
-On the other hand, the square-ish head and block of wood for grip on the handle is pretty characteristic of J-pen. These blades tend to favour a hyper-aggressive glass cannon style that has a killer forehand loop and a virtually non-existent backhand loop.
+On the other hand, the square-ish head and cork block grip on the handle is pretty characteristic of J-pen. These blades tend to favour a hyper-aggressive glass cannon style that has a killer forehand loop and a virtually non-existent backhand loop.
 
-Short pips punching and Koki Niwa-esque chop blocking are also not uncommon, though the latter feels like it's more out of necessity due to the relatively limited range of wrist movement rather than any advantage that the handle provides.
+Short pips punching and [Koki Niwa-esque chop blocking](https://www.youtube.com/watch?v=zdiMfqJpP54) are also not uncommon on J-pen, though the latter feels like it's more out of necessity due to the relatively limited range of wrist movement rather than any advantage that the handle provides.
 
 ## Rubbers
 
@@ -95,30 +95,49 @@ Choosing a blade is only half the battle, albeit the more important half. To fin
 ### Inverted
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/05800_04.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/05800_06.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/05800_04.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/05800_06.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
+
+Probably the only kind of rubber you knew existed, despite the name. It's the most commonly-used type of rubber and as such also has the most availability and widest range of products on the market.
+
+Inverted rubbers generate the most spin, and give you the biggest variety of both offensive and defensive shots. Due to the grippiness, these rubbers are also the most heavily influenced by your opponent's incoming spin.
 
 ### Short Pips
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/00420_03.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/00420_08.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/00420_03.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/00420_08.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
+
+Short pips rubbers have less grip than inverted rubbers due to the reduced contact surface area. Compared to inverted rubbers, they are less affected by incoming spin, but aren't able to generate as much spin either.
+
+These properties make them suitable for a close-to-the-table, aggressive, flat-hit kind of playstyle. Somewhat notorious for being difficult/awkward to play against for the same reason as lefties and southpaws in other sports.
 
 ### Long Pips
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/00450_04.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/00450_03.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/00450_04.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/00450_03.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
+Long pips rubbers have even less grip than short pips as the pimples are designed to buckle under the ball. You can't really generate any spin of your own with long pips, this also means that incoming spin is reversed when returned to the opponent.
+
+These rubbers are suitable for a defensive chopping playstyle, revolving around deceptive and disruptive returns to invite your opponent to make a mistake. Almost always paired with an inverted rubber on the other side for attacking.
+
 ### Anti-Spin
 
-Don't even think about it.
+{% capture images %}
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/05030_01.jpg
+{% endcapture %}
+{% include gallery images=images %}
+
+Anti-spin looks like inverted, but plays similar to long pips. It shares the property of not really being able to create spin, but differs in that returns tend to be "dead" rather than having their spin reversed.
+
+They're used for much the same reason as long pips—to send back awkward balls that force errors. Broadly speaking, long pips vary spin on returns, whereas anti-spin returns flat balls at varying speeds instead.
 
 ## Recommendation
 
@@ -129,9 +148,9 @@ Probably what you're really here for, so here you go. This is a very orthodox se
 * **Backhand Rubber:** [YASAKA Rakza 7](https://revspin.net/rubber/yasaka-rakza-7.html)
 
 {% capture images %}
-    {{ site.url }}/assets/res/pong-gear-guide/product_big_3813.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/1051.jpg
-    {{ site.url }}/assets/res/pong-gear-guide/rub_rakza7.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/product_big_3813.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/1051.jpg
+    {{ site.url }}/assets/res/2026-03-31-pong-gear-guide/rub_rakza7.jpg
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
@@ -141,4 +160,4 @@ The Fastarc G-1 is a medium-hard rubber that (also as the name implies) lets you
 
 The Rakza 7 is a similar but slightly softer rubber, which is usually recommended for the backhand, as the motion of the swing itself is more compact and thus not as powerful as the forehand. It's another popular rubber that has a bit of a reputation for being very spinny and consistent, which are great traits to have on the backhand; especially in the current backhand flick metagame.
 
-All of this can be had in the ballpark of $150, which is a bargain as far as I'm concerned considering given [there are blades that cost 5 times that much alone](https://revspin.net/blade/dhs-w968-hurricane-long-5-national.html). This setup will last you well into the intermediate level or even beyond, if you decide to take it that far. But there's nothing special about these specific products, so you'll be totally fine if you choose similar parts from reputable brands.
+All of this can be had in the ballpark of $150, which is a bargain as far as I'm concerned considering given [there are individual *blades* that cost 5 times that price](https://revspin.net/blade/dhs-w968-hurricane-long-5-national.html). This setup will last you well into the intermediate level or even beyond if you decide to take it that far. But there's nothing special about these specific products; you'll be totally fine if you choose similar parts from reputable brands.
