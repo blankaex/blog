@@ -124,7 +124,7 @@ These properties make them suitable for a close-to-the-table, aggressive, flat-h
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-Long pips rubbers have even less grip than short pips as the pimples are designed to buckle under the ball. You can't really generate any spin of your own with long pips, this also means that incoming spin is reversed when returned to the opponent.
+Long pips rubbers have even less grip than short pips as the pimples are designed to buckle under the ball. You can't really generate any spin of your own with long pips, which also means that incoming spin is reversed when returned to the opponent.
 
 These rubbers are suitable for a defensive chopping playstyle, revolving around deceptive and disruptive returns to invite your opponent to make a mistake. Almost always paired with an inverted rubber on the other side for attacking.
 
@@ -137,7 +137,7 @@ These rubbers are suitable for a defensive chopping playstyle, revolving around 
 
 Anti-spin looks like inverted, but plays similar to long pips. It shares the property of not really being able to create spin, but differs in that returns tend to be "dead" rather than having their spin reversed.
 
-They're used for much the same reason as long pips—to send back awkward balls that force errors. Broadly speaking, long pips vary spin on returns, whereas anti-spin returns flat balls at varying speeds instead.
+They're used for much the same reason as long pips—to send back awkward balls that force errors. Broadly speaking, long pips vary spin on returns, whereas anti-spin returns flat balls at varying speeds.
 
 ## Recommendation
 
@@ -154,7 +154,7 @@ Probably what you're really here for, so here you go. This is a very orthodox se
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
-The Allround Evolution is a simple 5-ply all-wood blade. It's medium-soft and (as the name implies) designed for all-round play with a slight leaning towards offense. These properties make it suitable for learning as it provides good control and strong feedback to help you get a feel for your strokes, without compromising on performance in terms of speed or power. Comes in FL, ST, and CPEN.
+The Allround Evolution is a simple 5-ply all-wood blade. It's medium-soft and (as the name implies) designed for all-round play with a slight leaning towards offense. These properties make it suitable for learning as it provides good control and strong feedback to help you get a feel for your strokes, without compromising on performance in terms of speed or power. Comes in FL, ST, and C-Pen.
 
 The Fastarc G-1 is a medium-hard rubber that (also as the name implies) lets you hit fast balls with a high throw angle. This pairs well with the tamer Allround Evolution by giving it a bit of extra firepower. It also doesn't interfere with the blade's other properties, as the arc helps with clearing the net and slight tackiness gives increased control. Definitely a classic choice for a reason.
 
