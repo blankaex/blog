@@ -4,6 +4,7 @@ title:  "Table Tennis Equipment Breakdown"
 date: 2026-03-31
 excerpt: "Having a bat on the right foot."
 tag:
+- Ping Pong
 ---
 
 You've probably realised that the pre-built paddles that came with your table or are lying around in your tech company's office are pretty garbage and you're looking to dip your toes into some real equipment. There's so many options on the market though, which makes purchasing with intention pretty difficult. 
