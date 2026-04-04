@@ -2,7 +2,7 @@
 layout: post
 title:  "Tile Efficiency Quick Reference"
 date: 2025-12-16
-excerpt: "Riichi Mahjong alt-tab guide"
+excerpt: "Riichi Mahjong alt-tab guide."
 tag:
 - Tutorial
 - Mahjong
